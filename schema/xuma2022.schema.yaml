@@ -1,0 +1,134 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: xuma2022
+  name: 徐码·二〇二二
+  version: "20220411"
+  author:
+    - 发明人 徐国银先生
+    - Rime方案 forFudan <https://github.com/forFudan/>
+  description: |
+    徐码简繁通打
+    chinput.com/xuma
+
+switches:
+  - options: [filter_forfudan_freq, utf8]
+    states: [常用漢字, UTF-8]
+    reset: 0
+  - name: ascii_punct
+    states: [。，, ．，]
+    reset: 0
+  - name: traditionalization
+    reset: 0
+    states: [简保持, 简转繁]
+  - name: ascii_mode
+    # reset: 0
+    states: [中文, 西文]
+
+menu:
+  page_size: 6
+
+style:
+  font_point: 28
+  # candidate_list_layout: stacked
+  # text_orientation: vertical
+  inline_preedit: true
+  preedit_type: preview
+  label_format: ""
+  # label_format: "%s."
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+    - reverse_lookup_translator
+  filters:
+    - lua_filter@filter_forfudan_freq
+    - reverse_lookup_filter@xuma_lookup
+    - uniquifier
+
+filter_forfudan_freq:
+  tags: [abc, reverse_lookup]
+
+traditionalize:
+  tags: [abc, reverse_lookup]
+  opencc_config: s2t.json
+  option_name: traditionalization
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: "'"
+  max_code_length: 4
+  auto_select: true
+
+translator:
+  dictionary: xuma2022
+  prism: xuma2022
+  enable_completion: false
+  enable_sentence: false
+  enable_user_dict: false
+  enable_encoder: false
+  encode_commit_history: false # 对连续上屏的词自动成词
+  max_phrase_length: 4 # 自动成词的最大词长
+  initial_quality: 1000
+  preedit_format: []
+
+# 开启拼音混输
+# abc_segmentor:
+#   extra_tags: [reverse_lookup]
+
+reverse_lookup:
+  dictionary: clover
+  prefix: /
+  tips: 〔全拼反查〕
+  closing_tips: 〔反查关闭〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+xuma_lookup:
+  tags:
+    - abc
+  dictionary: xuma2022
+
+punctuator:
+  import_preset: default
+  half_shape:
+    "/": "/"
+
+key_binder:
+  bindings:
+    # PgUp and PgDn
+    - { when: always, accept: "Control+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
+    - { when: always, accept: "Control+Shift+S", toggle: filter_forfudan_freq } # 切换字符集
+    - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
+    - { when: has_menu, accept: Tab, send: 4 } # 引号三选
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
+
+recognizer:
+  patterns:
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup: "^/([a-z]+'?)*$"
