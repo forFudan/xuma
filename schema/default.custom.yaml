@@ -1,0 +1,4 @@
+patch:
+  schema_list:
+    - {schema: xuma2022}
+  menu/page_size: 9

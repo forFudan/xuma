@@ -1,0 +1,12 @@
+---
+name: "xuma.extended"
+version: "20220422"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+徐码	suga

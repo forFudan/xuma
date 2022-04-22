@@ -4,10 +4,10 @@
 schema:
   schema_id: xuma2022
   name: 徐码·二〇二二
-  version: "20220411"
+  version: "20220422"
   author:
     - 发明人 徐国银先生
-    - Rime方案 forFudan <https://github.com/forFudan/>
+    - Rime方案 forFudan <https://zhuyuhao.com/rime-xuma/>
   description: |
     徐码简繁通打
     chinput.com/xuma
@@ -26,17 +26,19 @@ switches:
     # reset: 0
     states: [中文, 西文]
 
-menu:
-  page_size: 6
+# menu:
+#   page_size: 9
 
 style:
   font_point: 28
   # candidate_list_layout: stacked
-  # text_orientation: vertical
+  # text_orientation: horizontal
+  # horizontal: true
   inline_preedit: true
   preedit_type: preview
   label_format: ""
   # label_format: "%s."
+  theme_name: cosmic
 
 engine:
   processors:
@@ -56,21 +58,23 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@fixed
     - table_translator
     - reverse_lookup_translator
   filters:
     - lua_filter@filter_forfudan_freq
     - reverse_lookup_filter@xuma_lookup
+    - simplifier@traditionalize
     - uniquifier
 
 filter_forfudan_freq:
-  tags: [abc, reverse_lookup]
+  tags: [abc]
 
 traditionalize:
   tags: [abc, reverse_lookup]
-  opencc_config: s2t.json
   option_name: traditionalization
-  tips: all
+  opencc_config: s2tw.json
+  # tips: all
   comment_format:
     - xform/^/〔/
     - xform/$/〕/
@@ -78,21 +82,27 @@ traditionalize:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   initials: zyxwvutsrqponmlkjihgfedcba
-  delimiter: "'"
+  delimiter: " '/"
   max_code_length: 4
   auto_select: true
 
 translator:
   dictionary: xuma2022
   prism: xuma2022
-  enable_completion: false
-  enable_sentence: false
-  enable_user_dict: false
-  enable_encoder: false
+  enable_completion: true
+  enable_sentence: true
+  enable_user_dict: true
+  enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
-  initial_quality: 1000
   preedit_format: []
+
+# 固定词库词的权重，防止自动调频
+fixed:
+  __include: translator
+  enable_user_dict: false
+  enable_sentence: false
+  initial_quality: 1000000
 
 # 开启拼音混输
 # abc_segmentor:
@@ -131,4 +141,4 @@ key_binder:
 recognizer:
   patterns:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
-    reverse_lookup: "^/([a-z]+'?)*$"
+    reverse_lookup: "^/([a-z]+?)*$"
