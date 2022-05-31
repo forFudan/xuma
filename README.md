@@ -5,7 +5,9 @@
 
 ### 1.1. 徐码·尔雅输入法
 
-徐码·尔雅输入法是由徐国银先生发明的一种优秀的形码输入法方案，特点为双编码。优点包括：繁简通打、支持CJK大字集、低重码、全码简码一致、字词编码一致。学习资料、字根图、最新码表可以加入QQ群后获取。
+徐码·尔雅输入法是由徐国银先生发明的一种优秀的形码输入法方案，特点为双编码。优点包括：繁简通打、支持CJK大字集、低重码、全码简码一致、字词编码一致等。
+
+[點擊此處閱讀我所寫的徐碼繁簡通打輸入法（爾雅輸入法）簡明教程瞭解和學習徐碼。](XumaTutorial.md)
 
 QQ群: 761401688
 
@@ -37,7 +39,7 @@ QQ群: 761401688
 
 ### 2.1. Windows / Macos / 安卓安装方法
 
-在安装了 Rime（小狼毫、鼠须管、同文）后，将 [/schema](https://github.com/forFudan/rime-xuma/tree/main/schema) 文件夹下的所有文件复制到 Rime 目录下。同时在 default.custom.yaml 文件中加入以下内容：
+在安装了 Rime（小狼毫、鼠须管、同文）后，将 [/schema](https://github.com/forFudan/xuma/tree/main/schema) 文件夹下的所有文件复制到 Rime 目录下。同时在 default.custom.yaml 文件中加入以下内容：
 
 ```
 patch:
