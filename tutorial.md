@@ -2,7 +2,7 @@
 # 徐碼繁簡通打輸入法·爾雅輸入法·2022版·簡明教程
 
 forFudan 寫於 2022年5月31日
-<https://zhuyuhao.com/xuma>
+<https://zhuyuhao.com/xuma/tutorial>
 
 - [1. 初識徐碼](#1-初識徐碼)
   - [1.1. 漢字輸入法](#11-漢字輸入法)
