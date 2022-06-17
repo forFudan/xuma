@@ -148,7 +148,7 @@ forFudan 写于 2022年5月31日
 
 字根图是查询字根的重要工具，初学者应当时常将它放在手边，以利用查询。
 
-![徐码字根图](/resources/徐码字根图2022316.jpg)
+[徐码字根图（obster-y制作）](https://github.com/obster-y/XUMA-components/blob/master/xuma.pdf)
 
 ### 2.3. 字根大码的分布规律
 
