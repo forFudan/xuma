@@ -12,5 +12,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 title: Rime·徐码·尔雅输入法·2022版·增广常用字符集
