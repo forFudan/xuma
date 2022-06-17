@@ -148,7 +148,7 @@ forFudan 寫於 2022年5月31日
 
 字根圖是查詢字根的重要工具，初學者應當時常將它放在手邊，以利用查詢。
 
-[徐碼字根圖（obster-y製作）](https://github.com/obster-y/XUMA-components/blob/master/xuma.pdf)
+![徐碼字根圖](/resources/徐碼字根鍵位圖_20220411_新徐.jpg)
 
 ### 2.3. 字根大碼的分佈規律
 
