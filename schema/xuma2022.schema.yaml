@@ -13,30 +13,36 @@ schema:
     chinput.com/xuma
 
 switches:
-  - options: [filter_forfudan_freq, utf8]
-    states: [常用漢字, UTF-8]
-    reset: 0
+  - options: [forfudan_freq_only, forfudan_freq_first, utf8]
+    states: [常用字过滤, 常用字前置, UTF-8]
+    reset: 2
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
   - name: traditionalization
     reset: 0
     states: [简保持, 简转繁]
+  - name: chaifen
+    states: ["无拆分", "有拆分"]
+    reset: 1
   - name: ascii_mode
     # reset: 0
     states: [中文, 西文]
+  - name: full_shape
+    states: ["半角", "全角"]
+    reset: 0
 
 # menu:
 #   page_size: 9
 
 style:
-  font_point: 28
+  # font_point: 20
   # candidate_list_layout: stacked
   # text_orientation: horizontal
   # horizontal: true
   inline_preedit: true
   preedit_type: preview
-  label_format: ""
+  # label_format: ""
   # label_format: "%s."
   theme_name: cosmic
 
@@ -62,12 +68,13 @@ engine:
     - table_translator
     - reverse_lookup_translator
   filters:
-    - lua_filter@filter_forfudan_freq
-    - reverse_lookup_filter@xuma_lookup
+    - lua_filter@forfudan_freq_first
+    - lua_filter@forfudan_freq_only
     - simplifier@traditionalize
+    - simplifier@chaifen
     - uniquifier
 
-filter_forfudan_freq:
+forfudan_freq_only:
   tags: [abc]
 
 traditionalize:
@@ -104,22 +111,24 @@ fixed:
   enable_sentence: false
   initial_quality: 1000000
 
-# 开启拼音混输
-# abc_segmentor:
-#   extra_tags: [reverse_lookup]
-
 reverse_lookup:
   dictionary: clover
-  prefix: /
+  prefix: "`"
   tips: 〔全拼反查〕
   closing_tips: 〔反查关闭〕
   preedit_format:
     - xform/([nljqxy])v/$1ü/
 
-xuma_lookup:
+chaifen:
+  opencc_config: xuma2022chaifen.json
+  option_name: chaifen
+  show_in_comment: true
+  comment_format:
+    - "xform@_@ @"
   tags:
     - abc
-  dictionary: xuma2022
+    - reverse_lookup
+  tips: char
 
 punctuator:
   import_preset: default
@@ -127,11 +136,13 @@ punctuator:
     "/": "/"
 
 key_binder:
+  import_preset: default
   bindings:
     # PgUp and PgDn
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
-    - { when: always, accept: "Control+Shift+S", toggle: filter_forfudan_freq } # 切换字符集
+    - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
+    - { when: always, accept: "Control+Shift+I", toggle: forfudan_freq_first } # 常用词前置
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 4 } # 引号三选
@@ -141,4 +152,4 @@ key_binder:
 recognizer:
   patterns:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
-    reverse_lookup: "^/([a-z]+?)*$"
+    reverse_lookup: "^`([a-z]+?)*$"

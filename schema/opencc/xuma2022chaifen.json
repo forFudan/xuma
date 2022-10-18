@@ -1,0 +1,16 @@
+{
+  "name": "xuma2022chaifen",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "xuma2022chaifen.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "text",
+      "file": "xuma2022chaifen.txt"
+    }
+  }]
+}
