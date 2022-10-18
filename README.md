@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Rime·徐码·2022新版·三重注解·forFudan定制
+# Rime·徐码·2022新版·二重注解·增广常用字符集·forFudan定制
 
 forFudan <https://zhuyuhao.com/xuma>
 
