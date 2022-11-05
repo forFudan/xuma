@@ -1,0 +1,153 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: xuma2022forfudan
+  name: 徐码·二〇二二
+  version: "20220422"
+  author:
+    - 发明人 徐国银先生
+    - Rime方案 forFudan <https://zhuyuhao.com/rime-xuma/>
+  description: |
+    徐码简繁通打
+    chinput.com/xuma
+    QQ群 761401688
+
+switches:
+  - options: [forfudan_freq_only, forfudan_freq_first, utf8]
+    states: [常用字过滤, 常用字前置, UTF-8]
+    reset: 1
+  - name: ascii_punct
+    states: [。，, ．，]
+    reset: 0
+  - name: traditionalization
+    reset: 0
+    states: [简保持, 简转繁]
+  - name: chaifen
+    states: ["无拆分", "有拆分"]
+    reset: 1
+  - name: ascii_mode
+    # reset: 0
+    states: [中文, 西文]
+  - name: full_shape
+    states: ["半角", "全角"]
+    reset: 0
+
+# menu:
+#   page_size: 9
+
+style:
+  # font_point: 20
+  # candidate_list_layout: stacked
+  # text_orientation: horizontal
+  # horizontal: true
+  inline_preedit: true
+  preedit_type: preview
+  # label_format: ""
+  # label_format: "%s."
+  theme_name: cosmic
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@fixed
+    - table_translator
+    - reverse_lookup_translator
+  filters:
+    - lua_filter@forfudan_freq_first
+    - lua_filter@forfudan_freq_only
+    - simplifier@traditionalize
+    - simplifier@chaifen
+    - uniquifier
+
+forfudan_freq_only:
+  tags: [abc]
+
+traditionalize:
+  tags: [abc, reverse_lookup]
+  option_name: traditionalization
+  opencc_config: s2tw.json
+  # tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '/"
+  max_code_length: 4
+  auto_select: true
+
+translator:
+  dictionary: xuma2022
+  prism: xuma2022
+  enable_completion: true
+  enable_sentence: true
+  enable_user_dict: true
+  enable_encoder: true
+  encode_commit_history: false # 对连续上屏的词自动成词
+  max_phrase_length: 4 # 自动成词的最大词长
+  preedit_format: []
+
+# 固定词库词的权重，防止自动调频
+fixed:
+  __include: translator
+  enable_user_dict: false
+  enable_sentence: false
+  initial_quality: 1000000
+
+reverse_lookup:
+  dictionary: clover
+  prefix: "`"
+  tips: 〔全拼反查〕
+  closing_tips: 〔反查关闭〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+chaifen:
+  opencc_config: xuma2022chaifen.json
+  option_name: chaifen
+  show_in_comment: true
+  tags: [abc, reverse_lookup]
+  tips: all
+
+punctuator:
+  import_preset: default
+  half_shape:
+    "/": "/"
+
+key_binder:
+  import_preset: default
+  bindings:
+    # PgUp and PgDn
+    - { when: always, accept: "Control+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
+    - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
+    - { when: always, accept: "Control+Shift+I", toggle: forfudan_freq_first } # 常用词前置
+    - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
+    - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
+    - { when: has_menu, accept: Tab, send: 4 } # 引号三选
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
+
+recognizer:
+  patterns:
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup: "^`([a-z]+?)*$"

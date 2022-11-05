@@ -7,10 +7,21 @@
       "file": "xuma2022chaifen.txt"
     }
   },
-  "conversion_chain": [{
-    "dict": {
-      "type": "text",
-      "file": "xuma2022chaifen.txt"
+  "conversion_chain": [
+    {
+      "dict": {
+        "type": "group",
+        "dicts": [
+          {
+            "type": "text",
+            "file": "xuma2022chaifen.txt"
+          },
+          {
+            "type": "text",
+            "file": "xuma2022chaifen.txt"
+          }
+        ]
+      }
     }
-  }]
+  ]
 }

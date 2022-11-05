@@ -63,7 +63,7 @@ forFudan <https://zhuyuhao.com/xuma>
 - 四叶草拼音反查（反查引导符为 `），地址：<https://github.com/fkxxyz/rime-cloverpinyin>
 - 全码后置。
 
-![拆分](/resources/拆分.png)
+![詞語拆分](/resources/詞語拆分.png)
 
 ### 1.5. 繁体版本
 
@@ -82,7 +82,7 @@ forFudan <https://zhuyuhao.com/xuma>
 ```
 patch:
   schema_list:
-    - schema: xuma2022
+    - schema: xuma2022forfudan
 ```
 
 点击「部署」之后即可使用。
@@ -95,8 +95,8 @@ patch:
 
 文件介绍：
 
-- xuma2022.schema.yaml 方案文件
-- xuma2022.dict.yaml 字典文件
+- xuma2022forfudan.schema.yaml 方案文件
+- xuma2022forfudan.dict.yaml 字典文件
 - rime.lua 脚本设定
 - lua/forfudan_freq_filter.lua 字符集过滤脚本。可在第38行添加自定字符。
 - opencc/... 單字拆分表
