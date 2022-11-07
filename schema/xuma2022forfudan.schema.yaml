@@ -95,8 +95,8 @@ speller:
   auto_select: true
 
 translator:
-  dictionary: xuma2022
-  prism: xuma2022
+  dictionary: xuma2022forfudan
+  prism: xuma2022forfudan
   enable_completion: true
   enable_sentence: true
   enable_user_dict: true
