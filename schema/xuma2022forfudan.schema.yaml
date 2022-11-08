@@ -17,17 +17,19 @@ switches:
   - options: [forfudan_freq_only, forfudan_freq_first, utf8]
     states: [常用字过滤, 常用字前置, UTF-8]
     reset: 1
-  - name: ascii_punct
-    states: [。，, ．，]
-    reset: 0
   - name: traditionalization
-    reset: 0
     states: [简保持, 简转繁]
+    reset: 0
+  - name: forfudan_single_char_full_code
+    states: [字词同出, 全码出单]
+    reset: 0
   - name: chaifen
     states: ["无拆分", "有拆分"]
     reset: 1
+  - name: ascii_punct
+    states: [。，, ．，]
+    reset: 0
   - name: ascii_mode
-    # reset: 0
     states: [中文, 西文]
   - name: full_shape
     states: ["半角", "全角"]
@@ -69,11 +71,15 @@ engine:
     - table_translator
     - reverse_lookup_translator
   filters:
+    - lua_filter@forfudan_single_char_full_code
     - lua_filter@forfudan_freq_first
     - lua_filter@forfudan_freq_only
     - simplifier@traditionalize
     - simplifier@chaifen
     - uniquifier
+
+forfudan_single_char_full_code:
+  tags: [abc]
 
 forfudan_freq_only:
   tags: [abc]
@@ -140,7 +146,8 @@ key_binder:
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
     - { when: always, accept: "Control+Shift+I", toggle: forfudan_freq_first } # 常用词前置
-    - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
+    - { when: always, accept: "Control+Shift+D", toggle: forfudan_single_char_full_code } # 全码出单
+    - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 显示拆分
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 4 } # 引号三选

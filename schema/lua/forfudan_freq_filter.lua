@@ -2,7 +2,7 @@
 -- 名称: 常用字符集过滤脚本
 -- Version: 20220423
 -- Author: forFudan 朱宇浩 <dr.yuhao.zhu@outlook.com>
--- Github: https://github.com/forFudan/rime
+-- Github: https://github.com/forFudan/xuma
 -- Purpose: 从候选项中过滤常用字符集 (GB2312 + 常用国字标准字体表)
 ---------------------------------------
 --
