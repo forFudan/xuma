@@ -3,7 +3,7 @@
 
 ## 1. 准备工作
 
-你需要在电脑上的 Rime 中成功部署输入法（目的是预先生成 bin 文件）。
+你需要在电脑上的 Rime 中成功部署输入法（目的是预先生成 bin 文件）。或者使用我生成的 bin 文件。
 
 ## 2. 安装 iRime
 
@@ -17,25 +17,10 @@
 
 ## 3. 复制文件
 
-假设你的徐码方案文件名叫「xuma」，
+将 ```schema_ios/```文件夹中所有文件和文件夹复制到对应的手机文件夹```Rime/```下。
 
-将电脑上 ```Rime/build/```文件夹中的以下文件复制到对应的手机文件夹```Rime/build/```下：
+对于已经存在的文件，覆盖之。
 
-```
-xuma.schema.yaml
-xuma.prism.bin
-xuma.reverse.bin
-xuma.table.bin
-```
-
-同时，将电脑上 ```Rime/build/```文件夹中```xuma.schema.yaml```再复制一份到手机文件夹根目录下。
-
-## 4. 更改 default.custom.yaml
-
-删除手机根目录下的```default.custom.yaml```文件。
-
-将电脑根目录```Rime/```文件夹中的```default.custom.yaml```复制到手机根目录下。
-
-## 5. 部署
+## 4. 部署
 
 手机上回到主界面，点击「部署」。成功后即可使用徐码了。
