@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 schema:
-  schema_id: xuma2022forfudan
-  name: 徐码·二〇二二
-  version: "20220422"
+  schema_id: xuma2022forfudan_ergo
+  name: 徐码·forFudan·人体工学
+  version: "20221126"
   author:
     - 发明人 徐国银先生
     - Rime方案 forFudan <https://zhuyuhao.com/rime-xuma/>
@@ -13,6 +13,8 @@ schema:
     QQ群 761401688
     forFudan 修订方案 <https://github.com/forFudan/xuma>
     特点:
+    - 更改字根,大量减少 Z 键和 X 键的频率.
+    - 降低重码: GB2312 从 320 字降至 317 字.
     - 调整简码.
     - 全码后置.
     - 增加词语,包含成语和诗词.
@@ -86,7 +88,7 @@ traditionalize:
   tags: [abc, reverse_lookup]
   option_name: traditionalization
   opencc_config: s2tw.json
-  # tips: all
+  tips: all
   comment_format:
     - xform/^/〔/
     - xform/$/〕/
@@ -99,8 +101,8 @@ speller:
   auto_select: true
 
 translator:
-  dictionary: xuma2022forfudan
-  prism: xuma2022forfudan
+  dictionary: xuma2022forfudan_ergo
+  prism: xuma2022forfudan_ergo
   enable_completion: true
   enable_sentence: true
   enable_user_dict: true
