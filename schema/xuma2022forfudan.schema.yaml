@@ -18,9 +18,12 @@ schema:
     - 增加词语,包含成语和诗词.
 
 switches:
-  - options: [forfudan_freq_only, forfudan_freq_first, utf8]
-    states: [常用字过滤, 常用字前置, UTF-8]
+  - options: [forfudan_freq_only, utf8]
+    states: [常用字过滤, 原始字集]
     reset: 1
+  - options: [forfudan_freq_first, utf8]
+    states: [常用字前置, 原始字序]
+    reset: 0
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0

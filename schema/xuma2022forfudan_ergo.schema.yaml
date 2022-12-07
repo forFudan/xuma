@@ -3,26 +3,31 @@
 
 schema:
   schema_id: xuma2022forfudan_ergo
-  name: 徐码·forFudan·人体工学
-  version: "20221126"
+  name: 徐碼·forFudan·調整
+  version: "20221207"
   author:
-    - 发明人 徐国银先生
-    - Rime方案 forFudan <https://zhuyuhao.com/rime-xuma/>
+    - 發明人 徐國銀先生
+    - RIME方案 <https://zhuyuhao.com/rime-xuma/>
   description: |
-    徐码简繁通打
-    QQ群 761401688
-    forFudan 修订方案 <https://github.com/forFudan/xuma>
-    特点:
-    - 更改字根,大量减少 Z 键和 X 键的频率.
-    - 降低重码: GB2312 从 320 字降至 317 字.
+    徐碼繁簡通打 (QQ群:761401688)
+    forFudan 調整方案 <https://github.com/forFudan/xuma>
+    特點:
+    - 調整字根,大量減少 Z 鍵和 X 鍵的按鍵頻率,提升手感.包括:
+        小碼改動（移除所有XZ鍵上的小碼).
+        大小碼同時改動（XZ上的副根只保留冫米羊）.
+        字根增加（微頭、𡗗頭、兑）.
+    - 降低重碼.
     - 调整简码.
     - 全码后置.
     - 增加词语,包含成语和诗词.
 
 switches:
-  - options: [forfudan_freq_only, forfudan_freq_first, utf8]
-    states: [常用字过滤, 常用字前置, UTF-8]
+  - options: [forfudan_freq_only, utf8]
+    states: [常用字过滤, 原始字集]
     reset: 1
+  - options: [forfudan_freq_first, utf8]
+    states: [常用字前置, 原始字序]
+    reset: 0
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
@@ -31,7 +36,7 @@ switches:
     reset: 0
   - name: chaifen
     states: ["无拆分", "有拆分"]
-    reset: 1
+    reset: 0
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
@@ -136,12 +141,16 @@ chaifen:
 punctuator:
   import_preset: default
   half_shape:
+    "*": "*"
+    "\\": "、"
+    "[": "「"
+    "]": "」"
+    "{": "『"
+    "}": "』"
     "/": "/"
 
 key_binder:
-  import_preset: default
   bindings:
-    # PgUp and PgDn
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
@@ -151,8 +160,8 @@ key_binder:
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 4 } # 引号三选
-    - { when: paging, accept: bracketleft, send: Page_Up }
-    - { when: has_menu, accept: bracketright, send: Page_Down }
+    # - { when: paging, accept: bracketleft, send: Page_Up }
+    # - { when: has_menu, accept: bracketright, send: Page_Down }
 
 recognizer:
   patterns:
