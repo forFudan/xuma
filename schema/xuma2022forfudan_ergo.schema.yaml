@@ -15,8 +15,8 @@ schema:
     - 調整字根,大量減少 Z 鍵和 X 鍵的按鍵頻率,提升手感.包括:
         小碼改動（移除所有XZ鍵上的小碼).
         大小碼同時改動（XZ上的副根只保留冫米羊）.
-        字根增加（微頭、𡗗頭、兑）.
-    - 降低重碼.
+        字根增加（微頭、𡗗頭）.
+    - 降低重碼（GB2312重碼從320箇降低到278箇）.
     - 调整简码.
     - 全码后置.
     - 增加词语,包含成语和诗词.
@@ -36,7 +36,7 @@ switches:
     reset: 0
   - name: chaifen
     states: ["无拆分", "有拆分"]
-    reset: 0
+    reset: 1
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
@@ -92,7 +92,7 @@ forfudan_freq_only:
 traditionalize:
   tags: [abc, reverse_lookup]
   option_name: traditionalization
-  opencc_config: s2tw.json
+  opencc_config: s2t.json
   tips: all
   comment_format:
     - xform/^/〔/
@@ -132,7 +132,7 @@ reverse_lookup:
     - xform/([nljqxy])v/$1ü/
 
 chaifen:
-  opencc_config: xuma2022chaifen.json
+  opencc_config: xuma_forfudan_chaifen.json
   option_name: chaifen
   show_in_comment: true
   tags: [abc, reverse_lookup]
