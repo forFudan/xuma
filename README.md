@@ -92,7 +92,7 @@ forFudan <https://zhuyuhao.com/xuma>
 
 在安装了 Rime（小狼毫、鼠须管、同文）后，将 [/schema](https://github.com/forFudan/xuma/tree/main/schema) 文件夹下的所有文件复制到 Rime 目录下。同时在 default.custom.yaml 文件中加入以下内容：
 
-```
+```yaml
 patch:
   schema_list:
     - schema: xuma2022forfudan
