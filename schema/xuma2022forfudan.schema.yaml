@@ -13,26 +13,40 @@ schema:
     QQ群 761401688
     forFudan 修订方案 <https://github.com/forFudan/xuma>
     特点:
+    - 汉字全拆分.
     - 调整简码.
     - 全码后置.
     - 增加词语,包含成语和诗词.
+  requirments: |
+    - clover
+    - forfudan_freq_filter.lua
+    - forfudan_single_char_only_for_full_code.lua
+    - xuma_2022_forfudan_chaifen.json
+    - xuma_2022_forfudan_chaifen.txt
+  chaifen: |
+    徐碼·爾雅輸入法非官方拆分表 xuma_2022_forfudan_chaifen.txt
+    版本 20230105
+    本拆分表包含至 CJK-H 區的所有漢字的拆分
+    本拆分表爲全拆分表，卽包含所有構字部件
+    拆分後附有徐碼，以大小寫區分大小碼
+    末尾標注※號的爲拆分方法同官方碼表存在不同、需要修正或商榷的漢字
 
 switches:
-  - options: [forfudan_freq_only, utf8]
-    states: [常用字过滤, 原始字集]
+  - options: [forfudan_freq_only, forfudan_freq_first, utf8]
+    states: [常用字过滤, 常用字前置, UTF-8]
     reset: 1
-  - options: [forfudan_freq_first, utf8]
-    states: [常用字前置, 原始字序]
-    reset: 0
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
-  - name: forfudan_single_char_full_code
+  - name: simplification
+    reset: 0
+    states: [繁保持, 繁转简]
+  - name: forfudan_single_char_only_for_full_code
     states: [字词同出, 全码出单]
     reset: 0
   - name: chaifen
     states: ["无拆分", "有拆分"]
-    reset: 1
+    reset: 0
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
@@ -46,8 +60,14 @@ menu:
   page_size: 9
 
 style:
+  # font_point: 20
+  # candidate_list_layout: stacked
+  # text_orientation: horizontal
+  # horizontal: true
   inline_preedit: true
   preedit_type: preview
+  # label_format: ""
+  # label_format: "%s."
   theme_name: cosmic
 
 engine:
@@ -72,14 +92,15 @@ engine:
     - table_translator
     - reverse_lookup_translator
   filters:
-    - lua_filter@forfudan_single_char_full_code
+    - lua_filter@forfudan_single_char_only_for_full_code
     - lua_filter@forfudan_freq_first
     - lua_filter@forfudan_freq_only
     - simplifier@traditionalize
+    - simplifier@simplify
     - simplifier@chaifen
     - uniquifier
 
-forfudan_single_char_full_code:
+forfudan_single_char_only_for_full_code:
   tags: [abc]
 
 forfudan_freq_only:
@@ -88,8 +109,17 @@ forfudan_freq_only:
 traditionalize:
   tags: [abc, reverse_lookup]
   option_name: traditionalization
-  opencc_config: s2tw.json
-  # tips: all
+  opencc_config: s2t.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+simplify:
+  tags: [abc, reverse_lookup]
+  option_name: simplification
+  opencc_config: t2s.json
+  tips: all
   comment_format:
     - xform/^/〔/
     - xform/$/〕/
@@ -128,7 +158,7 @@ reverse_lookup:
     - xform/([nljqxy])v/$1ü/
 
 chaifen:
-  opencc_config: xuma2022chaifen.json
+  opencc_config: xuma_2022_forfudan_chaifen.json
   option_name: chaifen
   show_in_comment: true
   tags: [abc, reverse_lookup]
@@ -144,10 +174,11 @@ key_binder:
   bindings:
     # PgUp and PgDn
     - { when: always, accept: "Control+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
     - { when: always, accept: "Control+Shift+I", toggle: forfudan_freq_first } # 常用词前置
-    - { when: always, accept: "Control+Shift+D", toggle: forfudan_single_char_full_code } # 全码出单
+    - { when: always, accept: "Control+Shift+D", toggle: forfudan_single_char_only_for_full_code } # 全码出单
     - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 显示拆分
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
