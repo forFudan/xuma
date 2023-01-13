@@ -79,6 +79,8 @@ forFudan <https://zhuyuhao.com/xuma>
 
 [點擊此處閱讀我所寫的《徐碼輸入法簡明教程》（繁體版）來瞭解和學習徐碼。](tutorial.md)
 
+![字根图](/resources/keymap_gb2312.jpg)
+
 ### 1.3. RIME平台
 
 徐码的使用可依托第三方输入法平台，其中RIME的开源性、定制化，使其成为了挂载平台的首选之一。
