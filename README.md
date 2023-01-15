@@ -77,7 +77,7 @@ forFudan <https://zhuyuhao.com/xuma>
 
 [點擊此處閱讀我所寫的《徐碼輸入法簡明教程》（繁體版）來瞭解和學習徐碼。](tutorial.md)
 
-![字根图](/resources/keymap_gb2312.jpg)
+![字根图](/resources/徐码简化字字根图.jpg)
 
 ### 1.3. RIME平台
 
