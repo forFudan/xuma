@@ -1,5 +1,5 @@
 patch:
   schema_list:
-    - schema: xuma2022forfudan
+    - schema: xuma2023forfudan
     - schema: xuma2022forfudan_ergo
   menu/page_size: 9
