@@ -1,0 +1,192 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: xuma_forfudan
+  name: 尔雅·徐码
+  version: 20230115
+  author:
+    - 发明人 徐国银先生
+    - Rime方案 forFudan
+  description: |
+    徐码简繁通打
+    官方网址：<http://xumax.cn>
+    官方QQ群 761401688
+    forFudan 修订方案 <https://github.com/forFudan/xuma>
+    特点:
+    - 提供CJK汉字全字拆分.
+    - 为简化字调整单字和词语简码.
+    - 扩充简体和繁体词库.
+  requirments: |
+    - clover - 反查
+    - forfudan_freq_filter.lua - 过滤常用汉字
+    - forfudan_single_char_only_for_full_code.lua - 四码出单
+    - xuma_forfudan_chaifen.json - 拆分设置
+    - xuma_forfudan_chaifen.txt - 拆分表
+  chaifen: |
+    本拆分表基於徐碼官方碼表（2023年1月15日版本）製作。
+    本拆分表包含至 CJK-H 區的所有漢字的拆分。
+    本拆分表爲全字部件拆分表，卽包含所有構字部件。
+    拆分後附有徐碼，以大小寫區分大小碼。
+    本拆分表經過字形校驗。
+    字形標準取自《中華人民共和國國家標準 GB 18030--2022 信息技術 中文編碼字符集》中刊載的漢字。
+    末尾標注 � 號的拆分方法，同官方碼表存在不同，需要進一步核查。
+    未尾標注 ※ 號的拆分方法，是根據標準字形進行修正的，同官方碼表存在不同。
+
+switches:
+  - options: [forfudan_freq_only, utf8]
+    states: [常用字过滤, CJK全字集]
+    reset: 1
+  - options: [forfudan_freq_first, utf8]
+    states: [常用字前置, 原始字序]
+    reset: 0
+  - name: traditionalization
+    states: [简保持, 简转繁]
+    reset: 0
+  - name: simplification
+    reset: 0
+    states: [繁保持, 繁转简]
+  - name: forfudan_single_char_only_for_full_code
+    states: [四码出词, 四码出单]
+    reset: 0
+  - name: chaifen
+    states: ["无拆分", "有拆分"]
+    reset: 1
+  - name: ascii_punct
+    states: [。，, ．，]
+    reset: 0
+  - name: ascii_mode
+    states: [中文, 西文]
+  - name: full_shape
+    states: ["半角", "全角"]
+    reset: 0
+
+menu:
+  page_size: 9
+
+style:
+  inline_preedit: true
+  preedit_type: preview
+  theme_name: cosmic
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator@fixed
+    - table_translator
+    - reverse_lookup_translator
+  filters:
+    - lua_filter@forfudan_single_char_only_for_full_code
+    - lua_filter@forfudan_freq_first
+    - lua_filter@forfudan_freq_only
+    - simplifier@traditionalize
+    - simplifier@simplify
+    - simplifier@chaifen
+    - uniquifier
+
+forfudan_single_char_only_for_full_code:
+  tags: [abc]
+
+forfudan_freq_only:
+  tags: [abc]
+
+traditionalize:
+  tags: [abc, reverse_lookup]
+  option_name: traditionalization
+  opencc_config: s2t.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+simplify:
+  tags: [abc, reverse_lookup]
+  option_name: simplification
+  opencc_config: t2s.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '/"
+  max_code_length: 4
+  auto_select: true
+
+translator:
+  dictionary: xuma_forfudan
+  prism: xuma_forfudan
+  enable_completion: true
+  enable_sentence: true
+  enable_user_dict: true
+  enable_encoder: true
+  encode_commit_history: false # 对连续上屏的词自动成词
+  max_phrase_length: 4 # 自动成词的最大词长
+  preedit_format: []
+
+# 固定词库词的权重，防止自动调频
+fixed:
+  __include: translator
+  enable_user_dict: false
+  enable_sentence: false
+  initial_quality: 1000000
+
+reverse_lookup:
+  dictionary: clover
+  prefix: "`"
+  tips: 〔全拼反查〕
+  closing_tips: 〔反查关闭〕
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+chaifen:
+  opencc_config: xuma_forfudan_chaifen.json
+  option_name: chaifen
+  show_in_comment: true
+  tags: [abc, reverse_lookup]
+  tips: char
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  bindings:
+    # PgUp and PgDn
+    - { when: always, accept: "Control+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+J", toggle: simplification }
+    - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
+    - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
+    - { when: always, accept: "Control+Shift+I", toggle: forfudan_freq_first } # 常用词前置
+    - {
+        when: always,
+        accept: "Control+Shift+D",
+        toggle: forfudan_single_char_only_for_full_code,
+      } # 全码出单
+    - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 显示拆分
+    - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
+    - { when: has_menu, accept: Tab, send: 4 } # 引号三选
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
+
+recognizer:
+  patterns:
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup: "^`([a-z]+?)*$"

@@ -95,7 +95,7 @@ forFudan <https://zhuyuhao.com/xuma>
 ```yaml
 patch:
   schema_list:
-    - schema: xuma2023forfudan
+    - schema: xuma_forfudan
 ```
 
 点击「部署」之后即可使用。
@@ -104,8 +104,8 @@ patch:
 
 文件介绍：
 
-- xuma2023forfudan.schema.yaml 方案文件
-- xuma2023forfudan.dict.yaml 字典文件
+- xuma_forfudan.schema.yaml 方案文件
+- xuma_forfudan.dict.yaml 字典文件
 - rime.lua 脚本设定
 - lua/forfudan_freq_filter.lua 字符集过滤脚本。可在第38行添加自定字符。
 - opencc/... 單字拆分表
