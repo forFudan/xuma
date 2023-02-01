@@ -35,11 +35,11 @@ schema:
 
 switches:
   - options: [forfudan_freq_only, utf8]
-    states: [常用字过滤, CJK全字集]
+    states: [只出常用字, CJK全字集]
     reset: 1
   - options: [forfudan_freq_first, utf8]
     states: [常用字前置, 原始字序]
-    reset: 0
+    reset: 1
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
