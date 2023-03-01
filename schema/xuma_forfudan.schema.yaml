@@ -21,6 +21,7 @@ schema:
     - clover - 反查
     - forfudan_freq_filter.lua - 过滤常用汉字
     - forfudan_single_char_only_for_full_code.lua - 四码出单
+    - xuma_postpone_full_code.lua - 全码单字后置
     - xuma_forfudan_chaifen.json - 拆分设置
     - xuma_forfudan_chaifen.txt - 拆分表
   chaifen: |
@@ -28,30 +29,42 @@ schema:
     本拆分表包含至 CJK-H 區的所有漢字的拆分。
     本拆分表爲全字部件拆分表，卽包含所有構字部件。
     拆分後附有徐碼，以大小寫區分大小碼。
-    本拆分表經過字形校驗。
-    字形標準取自《中華人民共和國國家標準 GB 18030--2022 信息技術 中文編碼字符集》中刊載的漢字。
-    末尾標注 � 號的拆分方法，同官方碼表存在不同，需要進一步核查。
-    未尾標注 ※ 號的拆分方法，是根據標準字形進行修正的，同官方碼表存在不同。
+    本拆分表經過字形校驗。字形標準取自：
+      -《中華人民共和國國家標準 GB 18030--2022 信息技術 中文編碼字符集》中刊載的漢字。
+      - The Unicode Standard, Version 15.0 中刊載的漢字字形。
+    末尾標注 ⁇ 號的拆分方法，同官方碼表存在不同，需要進一步核查。
+    未尾標注 ✓ 號的拆分方法，同官方碼表存在不同，但根據標準字形進行了修正。
+    未尾標注 ⊖ 號的拆分方法，官方碼表没有收録，本拆分表給予補充。
 
 switches:
   - options: [forfudan_freq_only, utf8]
     states: [只出常用字, CJK全字集]
     reset: 1
+    # Control+Shift+O
   - options: [forfudan_freq_first, utf8]
     states: [常用字前置, 原始字序]
     reset: 1
-  - name: traditionalization
-    states: [简保持, 简转繁]
-    reset: 0
-  - name: simplification
-    reset: 0
-    states: [繁保持, 繁转简]
+    # Control+Shift+I
   - name: forfudan_single_char_only_for_full_code
     states: [四码出词, 四码出单]
     reset: 0
+    # Control+Shift+D
+  - name: xuma_postpone_full_code
+    reset: 1
+    states: [原始排序, 全码后置]
+    # Control+Shift+H
+  - name: traditionalization
+    states: [简保持, 简转繁]
+    reset: 0
+    # Control+Shift+F
+  - name: simplification
+    reset: 0
+    states: [繁保持, 繁转简]
+    # Control+Shift+J
   - name: chaifen
     states: ["无拆分", "有拆分"]
     reset: 1
+    # Control+Shift+C
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
@@ -61,13 +74,12 @@ switches:
     states: ["半角", "全角"]
     reset: 0
 
-menu:
-  page_size: 9
+# menu:
+#   page_size: 5
 
 style:
   inline_preedit: true
   preedit_type: preview
-  theme_name: cosmic
 
 engine:
   processors:
@@ -92,6 +104,7 @@ engine:
     - reverse_lookup_translator
   filters:
     - lua_filter@forfudan_single_char_only_for_full_code
+    - lua_filter@xuma_postpone_full_code
     - lua_filter@forfudan_freq_first
     - lua_filter@forfudan_freq_only
     - simplifier@traditionalize
@@ -102,7 +115,18 @@ engine:
 forfudan_single_char_only_for_full_code:
   tags: [abc]
 
+xuma_postpone_full_code:
+  tags: [abc]
+  lua:
+    max_index: 5 # 最大后置位置，默认为 4
+
+schema_name:
+  code: xuma_forfudan
+
 forfudan_freq_only:
+  tags: [abc]
+
+forfudan_freq_first:
   tags: [abc]
 
 traditionalize:
@@ -166,6 +190,11 @@ chaifen:
 punctuator:
   import_preset: default
 
+history:
+  input: dl
+  size: 1
+  initial_quality: 2000
+
 key_binder:
   bindings:
     # PgUp and PgDn
@@ -179,6 +208,11 @@ key_binder:
         accept: "Control+Shift+D",
         toggle: forfudan_single_char_only_for_full_code,
       } # 全码出单
+    - {
+        when: always,
+        accept: "Control+Shift+H",
+        toggle: xuma_postpone_full_code,
+      } # 全码后置
     - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 显示拆分
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
