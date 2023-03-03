@@ -37,16 +37,16 @@ schema:
     未尾標注 ⊖ 號的拆分方法，官方碼表没有收録，本拆分表給予補充。
 
 switches:
-  - options: [forfudan_freq_only, utf8]
-    states: [只出常用字, CJK全字集]
-    reset: 1
-    # Control+Shift+O
-  - options: [forfudan_freq_first, utf8]
-    states: [常用字前置, 原始字序]
-    reset: 1
-    # Control+Shift+I
+  - options:
+    - forfudan_tc_only
+    - forfudan_tc_first
+    - cjk
+    states: [ 只出常用字, 常用字前置, 全字集原排序 ]
+    reset: 0
+    # Control+Shift+O: 只出常用字
+    # Control+Shift+I: 常用字前置
   - name: forfudan_single_char_only_for_full_code
-    states: [四码出词, 四码出单]
+    states: [四码出词, 四码屏蔽词语]
     reset: 0
     # Control+Shift+D
   - name: xuma_postpone_full_code
@@ -102,6 +102,7 @@ engine:
     - table_translator@fixed
     - table_translator
     - reverse_lookup_translator
+    - lua_translator@forfudan_helper
   filters:
     - lua_filter@forfudan_single_char_only_for_full_code
     - lua_filter@xuma_postpone_full_code
