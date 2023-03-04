@@ -78,7 +78,7 @@ switches:
     reset: 0
 
 menu:
-  page_size: 6
+  page_size: 5
 
 engine:
   processors:
@@ -160,7 +160,7 @@ speller:
 translator:
   dictionary: xuma_forfudan_tc
   prism: xuma_forfudan_tc
-  enable_completion: false
+  enable_completion: true
   enable_sentence: false
   enable_user_dict: false
   enable_encoder: true
@@ -205,15 +205,16 @@ key_binder:
   bindings:
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
-    - { when: always, accept: "Control+Shift+O", toggle: forfudan_tc_only } # 常用词过滤
-    - { when: always, accept: "Control+Shift+I", toggle: forfudan_tc_first } # 常用词前置
-    - { when: has_menu, accept: "/", toggle: forfudan_tc_only } # 常用词过滤
+    - { when: always, accept: "Control+Shift+O", toggle: forfudan_tc_only } # 常用詞過濾
+    - { when: always, accept: "Control+Shift+I", toggle: forfudan_tc_first } # 常用詞前置
+    - { when: has_menu, accept: "/", toggle: forfudan_tc_only } # 常用詞過濾
     - {
         when: always,
         accept: "Control+Shift+D",
         toggle: forfudan_single_char_only_for_full_code,
       } # 全码出单
     - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
+    - { when: has_menu, accept: "0", toggle: chaifen } # 拆分
     # - { when: always, accept: "Control+Shift+G", toggle: guji } # 反查
     - {
         when: always,
