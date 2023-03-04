@@ -1,5 +1,5 @@
 patch:
   schema_list:
     - schema: xuma_forfudan
+    - schema: xuma_forfudan_tc
     # - schema: xuma_forfudan_ergo
-  menu/page_size: 9
