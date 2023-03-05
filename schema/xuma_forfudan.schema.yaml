@@ -205,7 +205,7 @@ key_binder:
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
     - { when: always, accept: "Control+Shift+I", toggle: forfudan_freq_first } # 常用词前置
-    - { when: has_menu, accept: "/", toggle: forfudan_freq_only } # 常用詞過濾
+    - { when: has_menu, accept: "0", toggle: forfudan_freq_only } # 常用詞過濾
     - {
         when: always,
         accept: "Control+Shift+D",
@@ -217,7 +217,7 @@ key_binder:
         toggle: xuma_postpone_full_code,
       } # 全码后置
     - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 显示拆分
-    - { when: has_menu, accept: "0", toggle: chaifen } # 显示拆分
+    - { when: has_menu, accept: "/", toggle: chaifen } # 显示拆分
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 4 } # 引号三选
