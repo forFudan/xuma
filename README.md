@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Rime·徐码·CJK全汉字拆分·三重注解·自定义常用字集
 
-forFudan <https://zhuyuhao.com/xuma>
+forFudan
 
 - 2022年3月31日 初版
 - 2022年11月8日 更新
