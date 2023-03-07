@@ -10,7 +10,7 @@
 不	〔不・Gb・GB2312〕
 与	〔丂一・EGuk・GB2312〕
 丐	〔丅一㇉・JGCu・GB2312〕
-丑	〔コ十・DEu・GB2312〕
+丑	〔ユ十・DEu・GB2312〕
 专	〔二㇉丶・ECWe・GB2312〕
 且	〔且・Nq・GB2312〕
 丕	〔不一・GGub・GB2312〕
@@ -33,7 +33,7 @@
 中	〔口丨・OKu・GB2312〕
 丰	〔丰・If・GB2312〕
 串	〔口口丨・OOKu・GB2312〕
-临	〔〢{⺮右}𫩏・LPKu・GB2312〕
+临	〔〢{⺮右}{橫日}・LPKu・GB2312〕
 丶	〔丶・Wu・GB2312〕
 丸	〔九丶・RWuj・GB2312〕
 丹	〔{周框}亠・SYu・GB2312〕
@@ -323,7 +323,7 @@
 僖	〔亻士口䒑口・TJXO・GB2312〕
 僚	〔亻大丷日小・TFKC・GB2312〕
 僦	〔亻亠口小尤・TYCJ・GB2312〕
-僧	〔亻丷𫩏丷日・TXXK・GB2312〕
+僧	〔亻丷{橫日}丷日・TXXK・GB2312〕
 僬	〔亻隹灬・TTXh・GB2312〕
 僭	〔亻匚儿匚儿日・TFVK・GB2312〕
 僮	〔亻音土・TYJv・GB2312〕
@@ -933,7 +933,7 @@
 嘹	〔口大丷日小・OFKC・GB2312〕
 嘻	〔口士口䒑口・OJXO・GB2312〕
 嘿	〔口黑・OMh・GB2312〕
-噌	〔口丷𫩏丷日・OXXK・GB2312〕
+噌	〔口丷{橫日}丷日・OXXK・GB2312〕
 噍	〔口隹灬・OTXh・GB2312〕
 噎	〔口士冖一口䒑・OJOX・GB2312〕
 噔	〔口癶一口䒑・ODOX・GB2312〕
@@ -1120,7 +1120,7 @@
 墓	〔艹日大土・HKFJ・GB2312〕
 墙	〔土十䒑囗口・JENO・GB2312〕
 墚	〔土氵刀八木・JZTI・GB2312〕
-增	〔土丷𫩏丷日・JXXK・GB2312〕
+增	〔土丷{橫日}丷日・JXXK・GB2312〕
 墟	〔土虍〢䒑・JLLX・GB2312〕
 墨	〔黑土・MJvh・GB2312〕
 墩	〔土亠口子攵・JYBP・GB2312〕
@@ -1204,7 +1204,7 @@
 妖	〔女夭・CRy・GB2312〕
 妗	〔女人丶乛・CUWB・GB2312〕
 妙	〔女𡭔丿・CCPu・GB2312〕
-妞	〔女コ十・CDEu・GB2312〕
+妞	〔女ユ十・CDEu・GB2312〕
 妣	〔女比・CVb・GB2312〕
 妤	〔女予・CBy・GB2312〕
 妥	〔爫女・VCv・GB2312〕
@@ -1752,7 +1752,7 @@
 忮	〔忄十又・UEDo・GB2312〕
 忱	〔忄冖儿・UQVe・GB2312〕
 念	〔人丶乛心・UWBR・GB2312〕
-忸	〔忄コ十・UDEu・GB2312〕
+忸	〔忄ユ十・UDEu・GB2312〕
 忻	〔忄𠂆丅・URJu・GB2312〕
 忽	〔勹{两撇}心・SSRx・GB2312〕
 忾	〔忄气・UPq・GB2312〕
@@ -1907,7 +1907,7 @@
 慵	〔忄广彐月丨・UWSK・GB2312〕
 慷	〔忄广彐氺・UWBA・GB2312〕
 憋	〔丷巾八攵心・XMPR・GB2312〕
-憎	〔忄丷𫩏丷日・UXXK・GB2312〕
+憎	〔忄丷{橫日}丷日・UXXK・GB2312〕
 憔	〔忄隹灬・UTXh・GB2312〕
 憝	〔亠口子攵心・YOPR・GB2312〕
 憧	〔忄音土・UYJv・GB2312〕
@@ -1980,7 +1980,7 @@
 扪	〔扌门・FZm・GB2312〕
 扫	〔扌彐・FBu・GB2312〕
 扬	〔扌𠄎{两撇}・FBSu・GB2312〕
-扭	〔扌コ十・FDEu・GB2312〕
+扭	〔扌ユ十・FDEu・GB2312〕
 扮	〔扌八刀・FTDd・GB2312〕
 扯	〔扌止・FLz・GB2312〕
 扰	〔扌尤・FJo・GB2312〕
@@ -2409,7 +2409,7 @@
 曷	〔日勹人𠃊・KSUC・GB2312〕
 曹	〔龷日日・HKKv・GB2312〕
 曼	〔日罒又・KMDo・GB2312〕
-曾	〔丷𫩏丷日・XKXK・GB2312〕
+曾	〔丷{橫日}丷日・XKXK・GB2312〕
 替	〔夫夫日・JJKf・GB2312〕
 最	〔日耳又・KHDo・GB2312〕
 月	〔月・Sv・GB2312〕
@@ -3345,7 +3345,7 @@
 犹	〔犭尤・VJoq・GB2312〕
 狁	〔犭厶儿・VAVq・GB2312〕
 狂	〔犭王・VEvq・GB2312〕
-狃	〔犭コ十・VDEq・GB2312〕
+狃	〔犭ユ十・VDEq・GB2312〕
 狄	〔犭火・VXvq・GB2312〕
 狈	〔犭贝・VMbq・GB2312〕
 狍	〔犭勹巳・VSDq・GB2312〕
@@ -3512,7 +3512,7 @@
 甄	〔覀土瓦・EJHx・GB2312〕
 甍	〔艹罒冖瓦・HMQH・GB2312〕
 甏	〔士口䒑彡瓦・JOSH・GB2312〕
-甑	〔丷𫩏丷日瓦・XKKH・GB2312〕
+甑	〔丷{橫日}丷日瓦・XKKH・GB2312〕
 甓	〔尸口辛瓦・DOYH・GB2312〕
 甘	〔卄二・HEe・GB2312〕
 甙	〔弋卄二・FHEi・GB2312〕
@@ -4216,7 +4216,7 @@
 纸	〔纟{卬左}七・CVFj・GB2312〕
 纹	〔纟文・CYwj・GB2312〕
 纺	〔纟方・CYuj・GB2312〕
-纽	〔纟コ十・CDEj・GB2312〕
+纽	〔纟ユ十・CDEj・GB2312〕
 纾	〔纟予・CByj・GB2312〕
 线	〔纟一戈・CGFj・GB2312〕
 绀	〔纟卄二・CHEj・GB2312〕
@@ -4323,7 +4323,7 @@
 缬	〔纟士口丆贝・CJMj・GB2312〕
 缭	〔纟大丷日小・CFCj・GB2312〕
 缮	〔纟羊䒑口・CXOj・GB2312〕
-缯	〔纟丷𫩏丷日・CXKj・GB2312〕
+缯	〔纟丷{橫日}丷日・CXKj・GB2312〕
 缰	〔纟三田田・CIKj・GB2312〕
 缱	〔纟口丄尸コ辶・COZj・GB2312〕
 缲	〔纟口口口木・COIj・GB2312〕
@@ -4354,7 +4354,7 @@
 署	〔罒耂日・MJKw・GB2312〕
 罴	〔罒土厶灬・MJXw・GB2312〕
 罹	〔罒忄隹・MUTw・GB2312〕
-罾	〔罒丷𫩏丷日・MXKw・GB2312〕
+罾	〔罒丷{橫日}丷日・MXKw・GB2312〕
 羁	〔罒革马・MHAw・GB2312〕
 羊	〔羊・Xy・GB2312〕
 羌	〔⺶乚・XCuy・GB2312〕
@@ -4362,7 +4362,7 @@
 羔	〔䒑土灬・XJXh・GB2312〕
 羚	〔羊人丶龴・XUDy・GB2312〕
 羝	〔羊{卬左}七丶・XVWy・GB2312〕
-羞	〔⺶コ十・XDEy・GB2312〕
+羞	〔⺶ユ十・XDEy・GB2312〕
 羟	〔羊ス工・XDIy・GB2312〕
 羡	〔䒑土冫欠・XJXQ・GB2312〕
 群	〔彐丿口羊・BPOX・GB2312〕
@@ -5158,7 +5158,7 @@
 蠹	〔十口冖石虫虫・EOLL・GB2312〕
 蠼	〔虫目目隹又・LNTD・GB2312〕
 血	〔丿皿・PMm・GB2312〕
-衄	〔丿皿コ十・PMDE・GB2312〕
+衄	〔丿皿ユ十・PMDE・GB2312〕
 衅	〔丿皿丷キ・PMXF・GB2312〕
 行	〔行・Sx・GB2312〕
 衍	〔行氵・SZvx・GB2312〕
@@ -5514,7 +5514,7 @@
 赜	〔匚丨口丨龶贝・FKMf・GB2312〕
 赝	〔厂亻隹贝・GTMc・GB2312〕
 赞	〔⺧儿⺧儿贝・PVVM・GB2312〕
-赠	〔贝丷𫩏丷日・MXKb・GB2312〕
+赠	〔贝丷{橫日}丷日・MXKb・GB2312〕
 赡	〔贝⺈厂八言・MQYb・GB2312〕
 赢	〔亠𠃊口月贝凡・YCMQ・GB2312〕
 赣	〔立早夂工贝・YKMl・GB2312〕
@@ -5613,7 +5613,7 @@
 蹦	〔⻊山月月・OMSz・GB2312〕
 蹩	〔丷巾八攵口龰・XMOL・GB2312〕
 蹬	〔⻊癶一口䒑・ODXz・GB2312〕
-蹭	〔⻊丷𫩏丷日・OXKz・GB2312〕
+蹭	〔⻊丷{橫日}丷日・OXKz・GB2312〕
 蹯	〔⻊丿米田・OPKz・GB2312〕
 蹰	〔⻊厂一口䒑寸・OGIz・GB2312〕
 蹲	〔⻊丷酉寸・OXIz・GB2312〕
@@ -5974,7 +5974,7 @@
 钫	〔钅方・PYuj・GB2312〕
 钬	〔钅火・PXvj・GB2312〕
 钭	〔钅⺀十・PZEj・GB2312〕
-钮	〔钅コ十・PDEj・GB2312〕
+钮	〔钅ユ十・PDEj・GB2312〕
 钯	〔钅巴・PDbj・GB2312〕
 钰	〔钅王丶・PEWj・GB2312〕
 钱	〔钅一戈・PGFj・GB2312〕
@@ -6445,7 +6445,7 @@
 馋	〔饣⺈口儿⺀・QQZi・GB2312〕
 馍	〔饣艹日大・QHFi・GB2312〕
 馏	〔饣{卬左}丶刀刀田・QVKi・GB2312〕
-馐	〔饣⺶コ十・QXEi・GB2312〕
+馐	〔饣⺶ユ十・QXEi・GB2312〕
 馑	〔饣革二・QHEi・GB2312〕
 馒	〔饣日罒又・QKDi・GB2312〕
 馓	〔饣龷⺝攵・QHPi・GB2312〕
@@ -7018,7 +7018,7 @@
 侱	〔亻口王・TOEv・GBK〕
 侲	〔亻辰・TGn・GBK〕
 侳	〔亻人人土・TUUJ・GBK〕
-侴	〔人一コ十刂・UGEL・GBK〕
+侴	〔人一ユ十刂・UGEL・GBK〕
 侶	〔亻口{囟框}・TOUu・GBK〕
 侷	〔亻尸𠃌口・TDBO・GBK〕
 侸	〔亻一口䒑・TGOX・GBK〕
@@ -7263,7 +7263,7 @@
 儃	〔亻亠囗口日一・TYKG・GBK〕
 億	〔亻音心・TYRx・GBK〕
 儅	〔亻⺌冖口田・TNOK・GBK〕
-儈	〔亻人一𫩏丷日・TUXK・GBK〕
+儈	〔亻人一{橫日}丷日・TUXK・GBK〕
 儉	〔亻僉・TUq・GBK〕
 儊	〔亻木木乛龰・TIBL・GBK〕
 儌	〔亻白方攵・TUYP・GBK〕
@@ -7489,7 +7489,7 @@
 劆	〔广䒑彐〢八刂・WXLg・GBK〕
 劇	〔虍豕刂・LGLh・GBK〕
 劉	〔{卬左}丶刀刀金刂・VWVL・GBK〕
-劊	〔人一𫩏丷日刂・UGKL・GBK〕
+劊	〔人一{橫日}丷日刂・UGKL・GBK〕
 劋	〔口口口木刂・OOIL・GBK〕
 劌	〔止戊一𣥂刂・LFLz・GBK〕
 劍	〔僉刂・ULdq・GBK〕
@@ -7709,7 +7709,7 @@
 吘	〔口𠂉十・OPEu・GBK〕
 吙	〔口火・OXv・GBK〕
 吚	〔口彐丿・OBPu・GBK〕
-吜	〔口コ十・ODEu・GBK〕
+吜	〔口ユ十・ODEu・GBK〕
 吢	〔心口・ROvx・GBK〕
 吤	〔口人{丿丨}・OUTu・GBK〕
 吥	〔口不・OGb・GBK〕
@@ -8032,7 +8032,7 @@
 噮	〔口罒一口𧘇・OMOR・GBK〕
 噯	〔口爫冖心夊・OVRV・GBK〕
 噰	〔口亠{纟上}丿隹・OYPT・GBK〕
-噲	〔口人一𫩏丷日・OUXK・GBK〕
+噲	〔口人一{橫日}丷日・OUXK・GBK〕
 噳	〔口虍口一大・OLGF・GBK〕
 噴	〔口十廾貝・OEHN・GBK〕
 噵	〔䒑自辶口・XTZO・GBK〕
@@ -8111,7 +8111,7 @@
 囋	〔口⺧儿⺧儿貝・OPVN・GBK〕
 囌	〔口艹魚禾・OHQR・GBK〕
 囍	〔士㗊士䒑・JOJX・GBK〕
-囎	〔口貝丷𫩏丷日・ONXK・GBK〕
+囎	〔口貝丷{橫日}丷日・ONXK・GBK〕
 囏	〔卄一口夫士口䒑口・HGXO・GBK〕
 囐	〔口虍一口冂䒑丨犬・OLKJ・GBK〕
 囑	〔口尸氺罒勹虫・ODSL・GBK〕
@@ -8863,7 +8863,7 @@
 嬏	〔女丿米田・CPXK・GBK〕
 嬐	〔女僉・CUq・GBK〕
 嬑	〔女音心・CYRx・GBK〕
-嬒	〔女人一𫩏丷日・CUXK・GBK〕
+嬒	〔女人一{橫日}丷日・CUXK・GBK〕
 嬓	〔女白方攵・CUYP・GBK〕
 嬔	〔女⺈口儿丶生・CQWP・GBK〕
 嬕	〔女罒土䒑十・CMXE・GBK〕
@@ -9057,7 +9057,7 @@
 屝	〔尸非・DLf・GBK〕
 屟	〔尸世木・DHIv・GBK〕
 屢	〔尸口十口女・DOOC・GBK〕
-層	〔尸丷𫩏丷日・DXXK・GBK〕
+層	〔尸丷{橫日}丷日・DXXK・GBK〕
 屧	〔尸彳世木・DSHI・GBK〕
 屨	〔尸彳口十口女・DSOC・GBK〕
 屩	〔尸彳夭口冂口・DSMO・GBK〕
@@ -9149,7 +9149,7 @@
 峬	〔山甫・MEf・GBK〕
 峮	〔山彐丿口・MBPO・GBK〕
 峯	〔山夂丰・MVIf・GBK〕
-峱	〔犭コ十山・VDMq・GBK〕
+峱	〔犭ユ十山・VDMq・GBK〕
 峲	〔山禾刂・MRLd・GBK〕
 峳	〔山亻丨攵・MTKP・GBK〕
 峴	〔山見・MNj・GBK〕
@@ -9278,7 +9278,7 @@
 嶏	〔山厂酉己・MGED・GBK〕
 嶐	〔山阝夂一生・MBGP・GBK〕
 嶑	〔山⺈口𧰨・MQOR・GBK〕
-嶒	〔山丷𫩏丷日・MXXK・GBK〕
+嶒	〔山丷{橫日}丷日・MXXK・GBK〕
 嶓	〔山丿米田・MPXK・GBK〕
 嶔	〔山釒欠・MVQq・GBK〕
 嶕	〔山隹灬・MTXh・GBK〕
@@ -9505,7 +9505,7 @@
 廢	〔广癶弓殳・WDQg・GBK〕
 廣	〔广龷由八・WHTg・GBK〕
 廤	〔广車口匕・WJVg・GBK〕
-廥	〔广人一𫩏丷日・WUKg・GBK〕
+廥	〔广人一{橫日}丷日・WUKg・GBK〕
 廦	〔广尸口辛・WDYg・GBK〕
 廧	〔广土人人囗口・WJOg・GBK〕
 廩	〔广亠囗口禾・WYRg・GBK〕
@@ -9634,7 +9634,7 @@
 徸	〔彳音土・SYJr・GBK〕
 徹	〔彳亠厶⺝攵・SYPr・GBK〕
 徺	〔彳土土土兀・SJGr・GBK〕
-徻	〔彳人一𫩏丷日・SUKr・GBK〕
+徻	〔彳人一{橫日}丷日・SUKr・GBK〕
 徾	〔{微上}言・SYv・GBK〕
 徿	〔彳立⺝{龍右}・SYLr・GBK〕
 忀	〔彳衣口口一龷・SWHr・GBK〕
@@ -9959,7 +9959,7 @@
 憼	〔艹勹口攵心・HSPR・GBK〕
 憽	〔忄艹勹{两撇}丶心・UHWR・GBK〕
 憿	〔忄白方攵・UUYP・GBK〕
-懀	〔忄人一𫩏丷日・UUXK・GBK〕
+懀	〔忄人一{橫日}丷日・UUXK・GBK〕
 懁	〔忄罒一口𧘇・UMOR・GBK〕
 懃	〔革二力心・HERg・GBK〕
 懄	〔忄革二力・UHEC・GBK〕
@@ -10613,7 +10613,7 @@
 旚	〔方𠂉覀示・YPEF・GBK〕
 旛	〔方𠂉丿米田・YPXK・GBK〕
 旜	〔方𠂉亠囗口日一・YPKG・GBK〕
-旝	〔方𠂉人一𫩏丷日・YPXK・GBK〕
+旝	〔方𠂉人一{橫日}丷日・YPXK・GBK〕
 旞	〔方𠂉䒑𧰨辶・YPRZ・GBK〕
 旟	〔方𠂉𦥑丂丄八・YPOT・GBK〕
 旡	〔匚儿・FVef・GBK〕
@@ -10694,7 +10694,7 @@
 晣	〔日扌𠂆丅・KFRJ・GBK〕
 晥	〔日宀一兀・KWGG・GBK〕
 晧	〔日⺧口・KPOv・GBK〕
-晩	〔日⺈𫩏儿・KQKV・GBK〕
+晩	〔日⺈{橫日}儿・KQKV・GBK〕
 晪	〔日冂龷八・KMHT・GBK〕
 晫	〔日⺊早・KLKz・GBK〕
 晬	〔日亠人人十・KYUE・GBK〕
@@ -10810,11 +10810,11 @@
 曽	〔丷田曰・XKKu・GBK〕
 朁	〔匚儿匚儿日・FVKf・GBK〕
 朂	〔日耳力・KHCl・GBK〕
-會	〔人一𫩏丷日・UGXK・GBK〕
+會	〔人一{橫日}丷日・UGXK・GBK〕
 朄	〔申木囗丷・KIXs・GBK〕
 朅	〔土厶日勹人𠃊・JAUC・GBK〕
-朆	〔丷𫩏丷日勹{两撇}・XKSS・GBK〕
-朇	〔人一𫩏丷日白千・UGUR・GBK〕
+朆	〔丷{橫日}丷日勹{两撇}・XKSS・GBK〕
+朇	〔人一{橫日}丷日白千・UGUR・GBK〕
 朌	〔月八刀・STDd・GBK〕
 朎	〔月人丶龴・SUWD・GBK〕
 朏	〔月屮凵・SAAu・GBK〕
@@ -10877,7 +10877,7 @@
 杸	〔木殳・IQs・GBK〕
 杹	〔木亻匕・ITVi・GBK〕
 杺	〔木心・IRx・GBK〕
-杻	〔木コ十・IDEu・GBK〕
+杻	〔木ユ十・IDEu・GBK〕
 杽	〔木手・IRs・GBK〕
 枀	〔八厶木・TAIv・GBK〕
 枂	〔木月・ISv・GBK〕
@@ -11390,7 +11390,7 @@
 橣	〔木宀心用・IWRS・GBK〕
 橤	〔心心心木・RRIx・GBK〕
 橦	〔木音土・IYJv・GBK〕
-橧	〔木丷𫩏丷日・IXXK・GBK〕
+橧	〔木丷{橫日}丷日・IXXK・GBK〕
 橨	〔木十廾貝・IEHN・GBK〕
 橩	〔木火火冖几・IXQQ・GBK〕
 橪	〔木{炙上}犬灬・ISJX・GBK〕
@@ -11408,7 +11408,7 @@
 橷	〔木白丬匕儿・IUVV・GBK〕
 橸	〔木日日日・IKKK・GBK〕
 橺	〔木門日・INKv・GBK〕
-橻	〔木コ十コ十コ十・IDDE・GBK〕
+橻	〔木ユ十ユ十ユ十・IDDE・GBK〕
 橽	〔木土羊辶・IJXZ・GBK〕
 橾	〔木口口口木・IOOI・GBK〕
 橿	〔木三田田・IIKK・GBK〕
@@ -11434,7 +11434,7 @@
 檙	〔木目爿片・INAT・GBK〕
 檚	〔木木木乛龰・IIBL・GBK〕
 檛	〔木冎口辶・INOZ・GBK〕
-檜	〔木人一𫩏丷日・IUXK・GBK〕
+檜	〔木人一{橫日}丷日・IUXK・GBK〕
 檝	〔木口耳戈・IOHF・GBK〕
 檞	〔木⺈用刀牛・IQDP・GBK〕
 檟	〔木覀貝・IENb・GBK〕
@@ -11789,7 +11789,7 @@
 沋	〔氵尤・ZJo・GBK〕
 沍	〔氵二{互中}・ZECu・GBK〕
 沎	〔氵亻匕・ZTVi・GBK〕
-沑	〔氵コ十・ZDEu・GBK〕
+沑	〔氵ユ十・ZDEu・GBK〕
 沒	〔氵⺈又・ZQDo・GBK〕
 沕	〔氵勹{两撇}・ZSSu・GBK〕
 沖	〔氵口丨・ZOKu・GBK〕
@@ -12231,7 +12231,7 @@
 潣	〔氵門文・ZNYw・GBK〕
 潤	〔氵門王・ZNEv・GBK〕
 潥	〔氵覀米・ZEXm・GBK〕
-潧	〔氵丷𫩏丷日・ZXXK・GBK〕
+潧	〔氵丷{橫日}丷日・ZXXK・GBK〕
 潨	〔氵丿罒亻{两撇}ㄑ・ZPST・GBK〕
 潩	〔氵田龷八・ZKHT・GBK〕
 潪	〔氵矢口日・ZPOK・GBK〕
@@ -12286,7 +12286,7 @@
 澫	〔氵艹禺・ZHKo・GBK〕
 澬	〔氵冫欠貝・ZXQN・GBK〕
 澭	〔氵亠{纟上}丿隹・ZYPT・GBK〕
-澮	〔氵人一𫩏丷日・ZUXK・GBK〕
+澮	〔氵人一{橫日}丷日・ZUXK・GBK〕
 澯	〔氵⺊夕又米・ZLDX・GBK〕
 澰	〔氵僉・ZUq・GBK〕
 澱	〔氵尸龷八殳・ZDTQ・GBK〕
@@ -12466,7 +12466,7 @@
 炁	〔匚儿灬・FVXf・GBK〕
 炂	〔火八厶・XTAi・GBK〕
 炃	〔八刀火・TDXv・GBK〕
-炄	〔火コ十・XDEu・GBK〕
+炄	〔火ユ十・XDEu・GBK〕
 炆	〔火文・XYw・GBK〕
 炇	〔火攵・XPp・GBK〕
 炈	〔火殳・XQs・GBK〕
@@ -12685,7 +12685,7 @@
 熲	〔匕火頁・VXGi・GBK〕
 熴	〔火山日比・XMKV・GBK〕
 熶	〔火日耳又・XKHD・GBK〕
-熷	〔火丷𫩏丷日・XXXK・GBK〕
+熷	〔火丷{橫日}丷日・XXXK・GBK〕
 熸	〔火匚儿匚儿日・XFVK・GBK〕
 熺	〔火士口䒑口・XJXO・GBK〕
 熻	〔火人一口羽・XUOC・GBK〕
@@ -12737,7 +12737,7 @@
 燱	〔火音心・XYRx・GBK〕
 燲	〔火力力力貝・XCCN・GBK〕
 燳	〔火日刀口灬・XKOX・GBK〕
-燴	〔火人一𫩏丷日・XUXK・GBK〕
+燴	〔火人一{橫日}丷日・XUXK・GBK〕
 燵	〔火土羊辶・XJXZ・GBK〕
 燶	〔火冂龷辰・XMHG・GBK〕
 燷	〔火亠囗口示・XYOF・GBK〕
@@ -12992,7 +12992,7 @@
 獧	〔犭罒一口𧘇・VMRq・GBK〕
 獨	〔犭罒勹虫・VMLq・GBK〕
 獩	〔犭止戊一𣥂・VLNq・GBK〕
-獪	〔犭人一𫩏丷日・VUKq・GBK〕
+獪	〔犭人一{橫日}丷日・VUKq・GBK〕
 獫	〔犭僉・VUqq・GBK〕
 獮	〔犭爾・VJeq・GBK〕
 獰	〔犭宀心皿丁・VWEq・GBK〕
@@ -13206,7 +13206,7 @@
 璑	〔𤣩𠂉卌一灬・EPGX・GBK〕
 璒	〔𤣩癶一口䒑・EDOX・GBK〕
 璓	〔𤣩艹禾乃・EHRA・GBK〕
-璔	〔𤣩丷𫩏丷日・EXXK・GBK〕
+璔	〔𤣩丷{橫日}丷日・EXXK・GBK〕
 璕	〔𤣩彐工口寸・EBOI・GBK〕
 璖	〔𤣩氵匚コ木・EZDI・GBK〕
 璗	〔氵日一勹{两撇}王丶・ZKEW・GBK〕
@@ -13228,7 +13228,7 @@
 璬	〔𤣩白方攵・EUYP・GBK〕
 璭	〔𤣩冖車辶・EQJZ・GBK〕
 璮	〔𤣩亠囗口日一・EYKG・GBK〕
-璯	〔𤣩人一𫩏丷日・EUXK・GBK〕
+璯	〔𤣩人一{橫日}丷日・EUXK・GBK〕
 環	〔𤣩罒一口𧘇・EMOR・GBK〕
 璱	〔𤣩𤣩王心丿・EERP・GBK〕
 璲	〔𤣩䒑𧰨辶・EXRZ・GBK〕
@@ -13486,7 +13486,7 @@
 癋	〔疒一{亞下}心・WGRb・GBK〕
 癎	〔疒門日・WNKb・GBK〕
 癏	〔疒罒一口𧘇・WMRb・GBK〕
-癐	〔疒人一𫩏丷日・WUKb・GBK〕
+癐	〔疒人一{橫日}丷日・WUKb・GBK〕
 癑	〔疒冂龷辰・WMGb・GBK〕
 癒	〔疒人一⺝刂心・WURb・GBK〕
 癓	〔疒{微上}一几・WSQb・GBK〕
@@ -13731,7 +13731,7 @@
 瞷	〔目門日・NNKv・GBK〕
 瞸	〔目艹世木・NHHI・GBK〕
 瞹	〔目爫冖心夊・NVRV・GBK〕
-瞺	〔目人一𫩏丷日・NUXK・GBK〕
+瞺	〔目人一{橫日}丷日・NUXK・GBK〕
 瞼	〔目僉・NUq・GBK〕
 瞾	〔目目穴工・NNWI・GBK〕
 矀	〔目{微上}一几・NSGQ・GBK〕
@@ -13769,7 +13769,7 @@
 矨	〔矢夭・PRyi・GBK〕
 矪	〔矢舟・PRoi・GBK〕
 矯	〔矢夭口冂口・PROi・GBK〕
-矰	〔矢丷𫩏丷日・PXKi・GBK〕
+矰	〔矢丷{橫日}丷日・PXKi・GBK〕
 矱	〔矢艹隹又・PHDi・GBK〕
 矲	〔矢罒厶⺝匕匕・PMVi・GBK〕
 矴	〔石丁・GEd・GBK〕
@@ -13936,7 +13936,7 @@
 磯	〔石幺幺戈人・GAFU・GBK〕
 磰	〔石羊䒑口・GXXO・GBK〕
 磱	〔石火火冖力・GXQC・GBK〕
-磳	〔石丷𫩏丷日・GXXK・GBK〕
+磳	〔石丷{橫日}丷日・GXXK・GBK〕
 磵	〔石門日・GNKv・GBK〕
 磶	〔石臼勹灬・GUSX・GBK〕
 磸	〔石丷酉大・GXEF・GBK〕
@@ -14076,7 +14076,7 @@
 禩	〔礻田龷八・WKTs・GBK〕
 禪	〔礻口口日十・WOEs・GBK〕
 禫	〔礻覀早・WEKs・GBK〕
-禬	〔礻人一𫩏丷日・WUKs・GBK〕
+禬	〔礻人一{橫日}丷日・WUKs・GBK〕
 禭	〔礻䒑𧰨辶・WXZs・GBK〕
 禮	〔礻冂龷一口䒑・WMXs・GBK〕
 禯	〔礻冂龷辰・WMGs・GBK〕
@@ -14306,7 +14306,7 @@
 竮	〔立尸䒑廾・YDHl・GBK〕
 竰	〔立厂甲二・YGEl・GBK〕
 竱	〔立車丶寸・YJIl・GBK〕
-竲	〔立丷𫩏丷日・YXKl・GBK〕
+竲	〔立丷{橫日}丷日・YXKl・GBK〕
 竳	〔立癶一口䒑・YDXl・GBK〕
 竴	〔立丷酉寸・YXIl・GBK〕
 竵	〔立一口㐄冂䒑丨・YGKl・GBK〕
@@ -14596,7 +14596,7 @@
 粅	〔米勹{两撇}・XSSm・GBK〕
 粆	〔米𡭔丿・XCPm・GBK〕
 粇	〔米亠几・XYQm・GBK〕
-粈	〔米コ十・XDEm・GBK〕
+粈	〔米ユ十・XDEm・GBK〕
 粊	〔比米・VXmb・GBK〕
 粋	〔米九十・XREm・GBK〕
 粌	〔米弓丨・XDKm・GBK〕
@@ -14656,7 +14656,7 @@
 糥	〔米而而・XGGm・GBK〕
 糦	〔米士口䒑口・XJOm・GBK〕
 糧	〔米日一甲二・XKEm・GBK〕
-糩	〔米人一𫩏丷日・XUKm・GBK〕
+糩	〔米人一{橫日}丷日・XUKm・GBK〕
 糪	〔尸口辛米・DOYX・GBK〕
 糫	〔米罒一口𧘇・XMRm・GBK〕
 糬	〔米罒耂日・XMKm・GBK〕
@@ -14691,7 +14691,7 @@
 納	〔糹冂人・AMUu・GBK〕
 紎	〔糹犬・AJq・GBK〕
 紏	〔糹⺀十・AZEu・GBK〕
-紐	〔糹コ十・ADEu・GBK〕
+紐	〔糹ユ十・ADEu・GBK〕
 紑	〔糹不・AGb・GBK〕
 紒	〔糹人{丿丨}・AUTu・GBK〕
 紓	〔糹予・ABy・GBK〕
@@ -15001,7 +15001,7 @@
 繏	〔糹巳巳龷八・ADHT・GBK〕
 繐	〔糹車丶心・AJWR・GBK〕
 繑	〔糹夭口冂口・ARMO・GBK〕
-繒	〔糹丷𫩏丷日・AXXK・GBK〕
+繒	〔糹丷{橫日}丷日・AXXK・GBK〕
 繓	〔糹日耳又・AKHD・GBK〕
 織	〔糹音戈・AYFg・GBK〕
 繕	〔糹羊䒑口・AXXO・GBK〕
@@ -15025,7 +15025,7 @@
 繧	〔糹雨二厶・AJEA・GBK〕
 繨	〔糹土羊辶・AJXZ・GBK〕
 繩	〔糹黽・AOm・GBK〕
-繪	〔糹人一𫩏丷日・AUXK・GBK〕
+繪	〔糹人一{橫日}丷日・AUXK・GBK〕
 繫	〔車凵殳糸・JAAc・GBK〕
 繬	〔糹土人人囗口・AJNO・GBK〕
 繭	〔艹冂丨糹虫・HMAL・GBK〕
@@ -15478,7 +15478,7 @@
 膹	〔月十廾貝・SEHN・GBK〕
 膼	〔月冎口辶・SNOZ・GBK〕
 膽	〔月⺈厂八言・SQTY・GBK〕
-膾	〔月人一𫩏丷日・SUXK・GBK〕
+膾	〔月人一{橫日}丷日・SUXK・GBK〕
 膿	〔月冂龷辰・SMHG・GBK〕
 臄	〔月虍豕・SLGs・GBK〕
 臅	〔月罒勹虫・SMSL・GBK〕
@@ -15742,7 +15742,7 @@
 莢	〔艹大人人・HFUU・GBK〕
 莣	〔艹亠𠃊心・HYCR・GBK〕
 莤	〔艹酉・HEy・GBK〕
-莥	〔艹犭コ十・HVDE・GBK〕
+莥	〔艹犭ユ十・HVDE・GBK〕
 莦	〔艹⺌⺝・HNSv・GBK〕
 莧	〔艹見・HNj・GBK〕
 莬	〔艹⺈口儿・HQOV・GBK〕
@@ -16072,7 +16072,7 @@
 薂	〔艹白方攵・HUYP・GBK〕
 薃	〔艹氵亠口冂口・HZMO・GBK〕
 薆	〔艹爫冖心夊・HVRV・GBK〕
-薈	〔艹人一𫩏丷日・HUXK・GBK〕
+薈	〔艹人一{橫日}丷日・HUXK・GBK〕
 薉	〔艹止戊一𣥂・HLGN・GBK〕
 薊	〔艹魚刂・HQLd・GBK〕
 薋	〔艹冫欠貝・HXQN・GBK〕
@@ -16771,7 +16771,7 @@
 襕	〔衤门木囗丷・WZXi・GBK〕
 襖	〔衤{囟框}米大・WUFi・GBK〕
 襗	〔衤罒土䒑十・WMEi・GBK〕
-襘	〔衤人一𫩏丷日・WUKi・GBK〕
+襘	〔衤人一{橫日}丷日・WUKi・GBK〕
 襙	〔衤口口口木・WOIi・GBK〕
 襚	〔衤䒑𧰨辶・WXZi・GBK〕
 襛	〔衤冂龷辰・WMGi・GBK〕
@@ -17219,7 +17219,7 @@
 譁	〔訁艹干龷・YHEH・GBK〕
 譂	〔訁口口日十・YOKE・GBK〕
 譃	〔訁虍〢䒑・YLLX・GBK〕
-譄	〔訁丷𫩏丷日・YXXK・GBK〕
+譄	〔訁丷{橫日}丷日・YXXK・GBK〕
 譅	〔訁刀丶刀丶止止・YDLL・GBK〕
 譆	〔訁士口䒑口・YJXO・GBK〕
 譇	〔訁大耂日・YFJK・GBK〕
@@ -17259,7 +17259,7 @@
 譪	〔訁艹日勹人𠃊・YHUC・GBK〕
 譫	〔訁⺈厂八言・YQTY・GBK〕
 譭	〔訁臼工殳・YUIQ・GBK〕
-譮	〔訁人一𫩏丷日・YUXK・GBK〕
+譮	〔訁人一{橫日}丷日・YUXK・GBK〕
 譯	〔訁罒土䒑十・YMXE・GBK〕
 議	〔訁䒑土丿扌戈・YXFF・GBK〕
 譱	〔羊訁言・XYYy・GBK〕
@@ -17503,7 +17503,7 @@
 贅	〔龶⺈攵貝・EQPN・GBK〕
 贆	〔貝犬犬犬・NJJb・GBK〕
 贇	〔文一戈止貝・YGNw・GBK〕
-贈	〔貝丷𫩏丷日・NXKb・GBK〕
+贈	〔貝丷{橫日}丷日・NXKb・GBK〕
 贉	〔貝覀早・NEKb・GBK〕
 贊	〔⺧儿⺧儿貝・PVVN・GBK〕
 贋	〔厂亻隹貝・GTNc・GBK〕
@@ -18159,7 +18159,7 @@
 鄨	〔丷巾八攵口巴・XMOD・GBK〕
 鄩	〔彐工口寸阝・BIIB・GBK〕
 鄪	〔弓{丿丨}貝阝・DTBg・GBK〕
-鄫	〔丷𫩏丷日阝・XKKB・GBK〕
+鄫	〔丷{橫日}丷日阝・XKKB・GBK〕
 鄬	〔爫{爲下}阝・VSBv・GBK〕
 鄭	〔丷酉大阝・XEFB・GBK〕
 鄮	〔{卬左}丶刀刀貝阝・VWNB・GBK〕
@@ -18168,7 +18168,7 @@
 鄳	〔黽阝・OBvm・GBK〕
 鄴	〔〢䒑䒑未阝・LXIB・GBK〕
 鄵	〔口口口木阝・OOIB・GBK〕
-鄶	〔人一𫩏丷日阝・UGKB・GBK〕
+鄶	〔人一{橫日}丷日阝・UGKB・GBK〕
 鄷	〔冂龷一口䒑阝・MHXB・GBK〕
 鄸	〔艹罒冖夕阝・HMQB・GBK〕
 鄺	〔广龷由八阝・WHBg・GBK〕
@@ -18324,7 +18324,7 @@
 鈒	〔釒乃丶・VAWu・GBK〕
 鈓	〔釒壬・VRr・GBK〕
 鈔	〔釒𡭔丿・VCPu・GBK〕
-鈕	〔釒コ十・VDEu・GBK〕
+鈕	〔釒ユ十・VDEu・GBK〕
 鈖	〔釒八刀・VTDd・GBK〕
 鈗	〔釒厶儿・VAVe・GBK〕
 鈘	〔釒十又・VEDo・GBK〕
@@ -18792,7 +18792,7 @@
 鏰	〔釒山月月・VMSS・GBK〕
 鏱	〔釒立早・VYKz・GBK〕
 鏲	〔釒亠幺冖牛・VYQP・GBK〕
-鏳	〔釒丷𫩏丷日・VXXK・GBK〕
+鏳	〔釒丷{橫日}丷日・VXXK・GBK〕
 鏴	〔釒⻊夂口・VOVO・GBK〕
 鏵	〔釒艹干龷・VHEH・GBK〕
 鏶	〔釒隹木・VTIv・GBK〕
@@ -19300,7 +19300,7 @@
 靰	〔革兀・HGwg・GBK〕
 靱	〔革刀乀・HDWg・GBK〕
 靲	〔革人丶乛・HUBg・GBK〕
-靵	〔革コ十・HDEg・GBK〕
+靵	〔革ユ十・HDEg・GBK〕
 靷	〔革弓丨・HDKg・GBK〕
 靸	〔革乃丶・HAWg・GBK〕
 靹	〔革冂人・HMUg・GBK〕
@@ -19681,7 +19681,7 @@
 饅	〔飠日罒又・VKDs・GBK〕
 饆	〔飠日龷十・VKEs・GBK〕
 饇	〔飠匚口口口・VFOs・GBK〕
-饈	〔飠⺶コ十・VXEs・GBK〕
+饈	〔飠⺶ユ十・VXEs・GBK〕
 饉	〔飠革二・VHEs・GBK〕
 饊	〔飠龷⺝攵・VHPs・GBK〕
 饋	〔飠口丄貝・VONs・GBK〕
@@ -19901,7 +19901,7 @@
 驐	〔馬亠口子攵・EYPm・GBK〕
 驑	〔馬丌匚コ田・EHKm・GBK〕
 驒	〔馬口口日十・EOEm・GBK〕
-驓	〔馬丷𫩏丷日・EXKm・GBK〕
+驓	〔馬丷{橫日}丷日・EXKm・GBK〕
 驔	〔馬覀早・EEKm・GBK〕
 驕	〔馬夭口冂口・EROm・GBK〕
 驖	〔馬十戈口王・EEEm・GBK〕
@@ -20019,13 +20019,13 @@
 鬖	〔髟厶厶厶人彡・EASb・GBK〕
 鬗	〔髟卄一丨冂入入・EHVb・GBK〕
 鬘	〔髟日罒又・EKDb・GBK〕
-鬙	〔髟丷𫩏丷日・EXKb・GBK〕
+鬙	〔髟丷{橫日}丷日・EXKb・GBK〕
 鬚	〔髟彡頁・ESGb・GBK〕
 鬛	〔髟囗㐅𠄌{四點}𠄌乚・ENCb・GBK〕
 鬜	〔髟門月・ENSb・GBK〕
 鬝	〔髟門日・ENKb・GBK〕
 鬞	〔髟冂龷辰・EMGb・GBK〕
-鬠	〔髟人一𫩏丷日・EUKb・GBK〕
+鬠	〔髟人一{橫日}丷日・EUKb・GBK〕
 鬡	〔髟宀心皿丁・EWEb・GBK〕
 鬢	〔髟宀一𣥂貝・EWNb・GBK〕
 鬤	〔髟衣口口一龷・EWHb・GBK〕
@@ -20299,7 +20299,7 @@
 鱀	〔彐厶匚儿魚・BAVQ・GBK〕
 鱁	〔魚豕辶・QGZd・GBK〕
 鱂	〔魚爿{炙上}寸・QASI・GBK〕
-鱃	〔魚⺶コ十・QXDE・GBK〕
+鱃	〔魚⺶ユ十・QXDE・GBK〕
 鱄	〔魚車丶寸・QJWI・GBK〕
 鱅	〔魚广彐月丨・QWSK・GBK〕
 鱆	〔魚立早・QYKz・GBK〕
@@ -20323,12 +20323,12 @@
 鱘	〔魚彐工口寸・QBOI・GBK〕
 鱙	〔魚土土土兀・QJJG・GBK〕
 鱚	〔魚士口䒑口・QJXO・GBK〕
-鱛	〔魚丷𫩏丷日・QXXK・GBK〕
+鱛	〔魚丷{橫日}丷日・QXXK・GBK〕
 鱜	〔魚{纟上}丿丶彐厶阝・QCAB・GBK〕
 鱝	〔魚十廾貝・QEHN・GBK〕
 鱞	〔魚罒一口𧘇・QMOR・GBK〕
 鱟	〔𦥑㐅乂冖魚・UTQQ・GBK〕
-鱠	〔魚人一𫩏丷日・QUXK・GBK〕
+鱠	〔魚人一{橫日}丷日・QUXK・GBK〕
 鱡	〔魚貝戈𠂇・QNFH・GBK〕
 鱢	〔魚口口口木・QOOI・GBK〕
 鱣	〔魚亠囗口日一・QYKG・GBK〕
@@ -22313,7 +22313,7 @@
 㣏	〔大早彡・FKSd・CJK-A〕
 㣐	〔白水彡・UASb・CJK-A〕
 㣑	〔广彐月丨彡・WBSg・CJK-A〕
-㣒	〔丷𫩏丷日彡・XKKS・CJK-A〕
+㣒	〔丷{橫日}丷日彡・XKKS・CJK-A〕
 㣓	〔⺊夕又米彡・LQXS・CJK-A〕
 㣔	〔彳丁・SEdr・CJK-A〕
 㣕	〔彳大・SFdr・CJK-A〕
@@ -22893,9 +22893,9 @@
 㬚	〔日亠厶⺝攵・KYSP・CJK-A〕
 㬛	〔日人一口羽・KUOC・CJK-A〕
 㬜	〔至至日・FFKz・CJK-A〕
-㬝	〔日丷𫩏丷日・KXXK・CJK-A〕
+㬝	〔日丷{橫日}丷日・KXXK・CJK-A〕
 㬞	〔日山日勹人𠃊・KMUC・CJK-A〕
-㬟	〔勹{两撇}丷𫩏丷日・SSXK・CJK-A〕
+㬟	〔勹{两撇}丷{橫日}丷日・SSXK・CJK-A〕
 㬠	〔日⺈彐攵灬・KQPX・CJK-A〕
 㬡	〔日雨人丶龴・KJWD・CJK-A〕
 㬢	〔日䒑土丿扌戈・KXFF・CJK-A〕
@@ -23807,7 +23807,7 @@
 㺯	〔王大・EFd・CJK-A〕
 㺰	〔𤣩一巾・EGMj・CJK-A〕
 㺱	〔亻乃王丶・TAEW・CJK-A〕
-㺲	〔𤣩コ十・EDEu・CJK-A〕
+㺲	〔𤣩ユ十・EDEu・CJK-A〕
 㺳	〔𤣩攴・ELp・CJK-A〕
 㺴	〔𤣩犬・EJq・CJK-A〕
 㺵	〔𤣩欠・EQq・CJK-A〕
@@ -23991,7 +23991,7 @@
 㽧	〔田䒑幺幺・KXAt・CJK-A〕
 㽨	〔田⺶工・KXIt・CJK-A〕
 㽩	〔田厶厶厶人彡・KASt・CJK-A〕
-㽪	〔田丷𫩏丷日・KXKt・CJK-A〕
+㽪	〔田丷{橫日}丷日・KXKt・CJK-A〕
 㽫	〔亠{纟上}丿隹田・YCTK・CJK-A〕
 㽬	〔一口田一口田・GOOK・CJK-A〕
 㽭	〔田雨而・KJGt・CJK-A〕
@@ -24248,7 +24248,7 @@
 䁩	〔目魚・NQv・CJK-A〕
 䁪	〔目車𠂆丅・NJRJ・CJK-A〕
 䁫	〔目黑・NMh・CJK-A〕
-䁬	〔目丷𫩏丷日・NXXK・CJK-A〕
+䁬	〔目丷{橫日}丷日・NXXK・CJK-A〕
 䁭	〔目犬犬犬・NJJJ・CJK-A〕
 䁮	〔目匚儿匚儿日・NFVK・CJK-A〕
 䁯	〔目人一口羽・NUOC・CJK-A〕
@@ -24275,7 +24275,7 @@
 䂄	〔目目目隹又・NNTD・CJK-A〕
 䂅	〔目言糹糹虫・NYAL・CJK-A〕
 䂆	〔矛勹丶・BSWm・CJK-A〕
-䂇	〔矛コ十・BDEm・CJK-A〕
+䂇	〔矛ユ十・BDEm・CJK-A〕
 䂈	〔矛虫・BLvm・CJK-A〕
 䂉	〔矛亻コ矢・BTPm・CJK-A〕
 䂊	〔矛⺈口𧰨・BQRm・CJK-A〕
@@ -24576,7 +24576,7 @@
 䆲	〔穴广彐氺・WWAx・CJK-A〕
 䆳	〔穴豕辶・WGZx・CJK-A〕
 䆴	〔穴⺈日电・WQKx・CJK-A〕
-䆵	〔穴丷𫩏丷日・WXKx・CJK-A〕
+䆵	〔穴丷{橫日}丷日・WXKx・CJK-A〕
 䆶	〔穴隹灬・WTXx・CJK-A〕
 䆷	〔穴矛冂八口・WBOx・CJK-A〕
 䆸	〔穴癶一口䒑・WDXx・CJK-A〕
@@ -24736,7 +24736,7 @@
 䉒	〔⺮丿米田・PPXK・CJK-A〕
 䉓	〔⺮木日木・PIKI・CJK-A〕
 䉔	〔⺮歹戈戈・PGFF・CJK-A〕
-䉕	〔⺮丷𫩏丷日・PXXK・CJK-A〕
+䉕	〔⺮丷{橫日}丷日・PXXK・CJK-A〕
 䉖	〔⺮車人丶龴・PJWD・CJK-A〕
 䉗	〔⺮扌口耳・PFOH・CJK-A〕
 䉘	〔⺮木宀示・PIWF・CJK-A〕
@@ -25056,7 +25056,7 @@
 䎓	〔羽水日・CAKy・CJK-A〕
 䎔	〔羽甫寸・CEIy・CJK-A〕
 䎕	〔火火冖羽・XXQC・CJK-A〕
-䎖	〔丷𫩏丷日羽・XKKC・CJK-A〕
+䎖	〔丷{橫日}丷日羽・XKKC・CJK-A〕
 䎗	〔夭口冂口羽・ROCy・CJK-A〕
 䎘	〔彐十片爿羽・BEAC・CJK-A〕
 䎙	〔宀一𣥂貝羽・WGNC・CJK-A〕
@@ -25116,7 +25116,7 @@
 䏑	〔{炙上}冂人人・SMUU・CJK-A〕
 䏒	〔月片・STp・CJK-A〕
 䏓	〔⺼一兀・SGGw・CJK-A〕
-䏔	〔月コ十・SDEu・CJK-A〕
+䏔	〔月ユ十・SDEu・CJK-A〕
 䏕	〔月壬・SRr・CJK-A〕
 䏖	〔月弓丨・SDKu・CJK-A〕
 䏗	〔月气・SPq・CJK-A〕
@@ -25302,7 +25302,7 @@
 䒌	〔冖日亠八⺈巴・QKQD・CJK-A〕
 䒍	〔亠丷冖方⺈巴・YXQD・CJK-A〕
 䒎	〔艹犬廾⺈巴・HJQD・CJK-A〕
-䒏	〔丷𫩏丷日⺈巴・XKQD・CJK-A〕
+䒏	〔丷{橫日}丷日⺈巴・XKQD・CJK-A〕
 䒐	〔艹罒冖目⺈巴・HMQD・CJK-A〕
 䒑	〔䒑・Xu・CJK-A〕
 䒒	〔艹𠃌㇀・HBGu・CJK-A〕
@@ -25575,7 +25575,7 @@
 䖞	〔虫寸・LIc・CJK-A〕
 䖟	〔亠𠃊虫・YCLv・CJK-A〕
 䖠	〔虫凡・LQa・CJK-A〕
-䖡	〔虫コ十・LDEu・CJK-A〕
+䖡	〔虫ユ十・LDEu・CJK-A〕
 䖢	〔虫𡭔丿・LCPu・CJK-A〕
 䖣	〔虫爪・LRz・CJK-A〕
 䖤	〔夕㔾虫・QBLx・CJK-A〕
@@ -25766,7 +25766,7 @@
 䙞	〔衤癶一口䒑・WDXi・CJK-A〕
 䙟	〔衤囗韋・WNDi・CJK-A〕
 䙠	〔衤厂䒑屮欠・WGQi・CJK-A〕
-䙢	〔衤丷𫩏丷日・WXKi・CJK-A〕
+䙢	〔衤丷{橫日}丷日・WXKi・CJK-A〕
 䙣	〔衤一大非・WGLi・CJK-A〕
 䙤	〔衤冎口辶・WNZi・CJK-A〕
 䙥	〔衤雨人丶龴・WJDi・CJK-A〕
@@ -25856,7 +25856,7 @@
 䚹	〔訁比・YVb・CJK-A〕
 䚺	〔訁攵・YPp・CJK-A〕
 䚻	〔{炙上}言・SYv・CJK-A〕
-䚼	〔訁コ十・YDEu・CJK-A〕
+䚼	〔訁ユ十・YDEu・CJK-A〕
 䚽	〔訁毛・YRm・CJK-A〕
 䚾	〔訁壬・YRr・CJK-A〕
 䚿	〔訁欠・YQq・CJK-A〕
@@ -25889,7 +25889,7 @@
 䛚	〔丰刀言・IDYf・CJK-A〕
 䛛	〔訁囗口・YNOv・CJK-A〕
 䛜	〔訁{囟框}㐅・YUTi・CJK-A〕
-䛝	〔訁コ十山・YDEM・CJK-A〕
+䛝	〔訁ユ十山・YDEM・CJK-A〕
 䛞	〔訁日干・YKEg・CJK-A〕
 䛟	〔訁大人人・YFUU・CJK-A〕
 䛠	〔訁一口䒑・YGOX・CJK-A〕
@@ -26284,7 +26284,7 @@
 䡪	〔車户羽・JZCc・CJK-A〕
 䡫	〔車夂丰辶・JVZc・CJK-A〕
 䡬	〔車日罒又・JKDc・CJK-A〕
-䡭	〔車⺶コ十・JXEc・CJK-A〕
+䡭	〔車⺶ユ十・JXEc・CJK-A〕
 䡮	〔車彳人人龰・JSLc・CJK-A〕
 䡯	〔車{囟框}夊心・JURc・CJK-A〕
 䡰	〔士𠃜殳車・JDQJ・CJK-A〕
@@ -26311,7 +26311,7 @@
 䢅	〔臼辰・UGnj・CJK-A〕
 䢆	〔冖几辰寸・QQGI・CJK-A〕
 䢇	〔宀几辰寸・WQGI・CJK-A〕
-䢈	〔辰人一𫩏丷日・GUKn・CJK-A〕
+䢈	〔辰人一{橫日}丷日・GUKn・CJK-A〕
 䢉	〔𦥑{囟框}㐅辰・UUTG・CJK-A〕
 䢊	〔子辶・BZdz・CJK-A〕
 䢋	〔丌辶・HZdj・CJK-A〕
@@ -27025,7 +27025,7 @@
 䭚	〔飠音土・VYJs・CJK-A〕
 䭛	〔飠乛耳攵・VBPs・CJK-A〕
 䭜	〔飠大丷日小・VFCs・CJK-A〕
-䭝	〔飠人一𫩏丷日・VUKs・CJK-A〕
+䭝	〔飠人一{橫日}丷日・VUKs・CJK-A〕
 䭞	〔飠罒土䒑十・VMEs・CJK-A〕
 䭟	〔飠艹世木・VHIs・CJK-A〕
 䭠	〔飠广䒑彐〢八・VWTs・CJK-A〕
@@ -27160,7 +27160,7 @@
 䯡	〔骨䒑彐〢八・NXTg・CJK-A〕
 䯢	〔麻骨・WNgm・CJK-A〕
 䯣	〔骨口丄貝・NONg・CJK-A〕
-䯤	〔骨人一𫩏丷日・NUKg・CJK-A〕
+䯤	〔骨人一{橫日}丷日・NUKg・CJK-A〕
 䯥	〔骨日幺幺灬・NKXg・CJK-A〕
 䯦	〔骨艹罒戊丶・NHWg・CJK-A〕
 䯧	〔亠口冖冂口・YOMO・CJK-A〕
@@ -27217,7 +27217,7 @@
 䰚	〔一口冂䒑丨文・GOKY・CJK-A〕
 䰛	〔一口冂䒑丨瓦・GOKH・CJK-A〕
 䰜	〔弓一口冂䒑丨弓・DGDg・CJK-A〕
-䰝	〔一口冂䒑丨丷𫩏丷日・GOXK・CJK-A〕
+䰝	〔一口冂䒑丨丷{橫日}丷日・GOXK・CJK-A〕
 䰞	〔弓耂日弓一口冂䒑丨・DJKg・CJK-A〕
 䰟	〔二厶鬼・EAUe・CJK-A〕
 䰠	〔鬼申・UKsg・CJK-A〕
@@ -27546,7 +27546,7 @@
 䵰	〔黑𠂉日一勹{两撇}・MPSh・CJK-A〕
 䵱	〔黑士口䒑口・MJOh・CJK-A〕
 䵲	〔黑口口口木・MOIh・CJK-A〕
-䵳	〔黑人一𫩏丷日・MUKh・CJK-A〕
+䵳	〔黑人一{橫日}丷日・MUKh・CJK-A〕
 䵴	〔黑黽・MOmh・CJK-A〕
 䵵	〔⺮目大黑・PNFM・CJK-A〕
 䵶	〔勹口黽・SOOm・CJK-A〕
@@ -27569,13 +27569,13 @@
 䶇	〔鼠由⺝・UKSs・CJK-A〕
 䶈	〔鼠甫寸・UEIs・CJK-A〕
 䶉	〔鼠{卬左}丶刀刀田・UVKs・CJK-A〕
-䶊	〔鼻コ十・TDEb・CJK-A〕
+䶊	〔鼻ユ十・TDEb・CJK-A〕
 䶋	〔鼻乃丶・TAWb・CJK-A〕
 䶌	〔鼻勹巳・TSDb・CJK-A〕
 䶍	〔至鼻・FTbz・CJK-A〕
 䶎	〔鼻人一口・TUOb・CJK-A〕
 䶏	〔丷弓丨丿鼻・XDPT・CJK-A〕
-䶐	〔鼻人一𫩏丷日・TUKb・CJK-A〕
+䶐	〔鼻人一{橫日}丷日・TUKb・CJK-A〕
 䶑	〔鼻十冖田厶龰・TELb・CJK-A〕
 䶒	〔亠丷丨刀{卬左}丶{丿丨}二女・YXEC・CJK-A〕
 䶓	〔巾亠丷丨刀{卬左}丶{丿丨}二・MYEj・CJK-A〕
@@ -27712,11 +27712,11 @@
 𠁗	〔十丆日丆日大・EGKF・CJK-B〕
 𠁘	〔丅𠘨黑・JQMh・CJK-B〕
 𠁙	〔不訁𠂉{乍下}・GYLb・CJK-B〕
-𠁚	〔丅丶人一𫩏丷日・JWXK・CJK-B〕
+𠁚	〔丅丶人一{橫日}丷日・JWXK・CJK-B〕
 𠁛	〔不䒑自辶・GXZb・CJK-B〕
 𠁜	〔䒑〢䒑龴用力・XLSC・CJK-B〕
 𠁝	〔䒑〢䒑戊一口・XLGO・CJK-B〕
-𠁞	〔不人一𫩏丷日・GUKb・CJK-B〕
+𠁞	〔不人一{橫日}丷日・GUKb・CJK-B〕
 𠁟	〔䒑〢䒑䒑彐〢八・XLLT・CJK-B〕
 𠁠	〔且且且且・NNNq・CJK-B〕
 𠁡	〔丨𠃍・KBu・CJK-B〕
@@ -28291,7 +28291,7 @@
 𠊠	〔亻艹八刀・THTD・CJK-B〕
 𠊡	〔亻⺶乚・TXCu・CJK-B〕
 𠊢	〔亻穴女・TWCv・CJK-B〕
-𠊣	〔亻コ十コ十・TDDE・CJK-B〕
+𠊣	〔亻ユ十ユ十・TDDE・CJK-B〕
 𠊤	〔亻虍人・TLUu・CJK-B〕
 𠊥	〔亻水水・TAAs・CJK-B〕
 𠊦	〔亻巛一止・TCGL・CJK-B〕
@@ -28753,7 +28753,7 @@
 𠑮	〔人口⻊目豕・UONG・CJK-B〕
 𠑯	〔亻土非一頁・TJGG・CJK-B〕
 𠑰	〔人干口人干口人干口・UEEO・CJK-B〕
-𠑱	〔人一𫩏丷日日亠口小・UGOC・CJK-B〕
+𠑱	〔人一{橫日}丷日日亠口小・UGOC・CJK-B〕
 𠑲	〔僉僉・UUqq・CJK-B〕
 𠑳	〔人臣臣一止豕・UFLG・CJK-B〕
 𠑴	〔人一口虫虫氵龶⺝・UGES・CJK-B〕
@@ -28777,7 +28777,7 @@
 𠒆	〔{向框}乂兀・UTGw・CJK-B〕
 𠒇	〔丿囗丷儿・PNXV・CJK-B〕⁇
 𠒈	〔十冖一兀・EQGG・CJK-B〕
-𠒉	〔一兀コ十・GGDE・CJK-B〕
+𠒉	〔一兀ユ十・GGDE・CJK-B〕
 𠒊	〔厶丨厶兀・AKGi・CJK-B〕⁇
 𠒋	〔亠㐅凵儿・YTAV・CJK-B〕
 𠒌	〔艹土儿・HJVe・CJK-B〕
@@ -29165,7 +29165,7 @@
 𠘋	〔冫目爿片・XNTs・CJK-B〕
 𠘌	〔冫三田田・XIKs・CJK-B〕
 𠘍	〔冫⺊囗人人木・XLIs・CJK-B〕
-𠘎	〔冫人一𫩏丷日・XUKs・CJK-B〕
+𠘎	〔冫人一{橫日}丷日・XUKs・CJK-B〕
 𠘏	〔冫罒木木・XMIs・CJK-B〕
 𠘐	〔冫亠囗口日一・XYGs・CJK-B〕
 𠘑	〔冫臣己灬・XFXs・CJK-B〕
@@ -29418,7 +29418,7 @@
 𠜈	〔彐キ刂・BFLd・CJK-B〕
 𠜉	〔乛水一刂・BAGL・CJK-B〕
 𠜊	〔巛冂一刂・CMLc・CJK-B〕
-𠜋	〔人コ十刂・UDEL・CJK-B〕
+𠜋	〔人ユ十刂・UDEL・CJK-B〕
 𠜌	〔⺈冂⺈冂・QMQM・CJK-B〕
 𠜍	〔冖一兀刂・QGGL・CJK-B〕
 𠜎	〔⺧儿刂・PVLd・CJK-B〕
@@ -29601,7 +29601,7 @@
 𠞿	〔厶厶貝刂・AALi・CJK-B〕
 𠟀	〔刀鳥・DUnd・CJK-B〕
 𠟁	〔山金刂・MVLd・CJK-B〕
-𠟂	〔丷𫩏丷日刂・XKKL・CJK-B〕
+𠟂	〔丷{橫日}丷日刂・XKKL・CJK-B〕
 𠟃	〔丷酉寸刂・XEIL・CJK-B〕
 𠟄	〔厂禾禾刀・GRDc・CJK-B〕
 𠟅	〔⺮至刂・PFLd・CJK-B〕
@@ -30082,7 +30082,7 @@
 𠦡	〔十龷十・EHEu・CJK-B〕
 𠦢	〔十刀刀刀・EDDD・CJK-B〕
 𠦣	〔𠃊口⺝十・COSE・CJK-B〕⁇
-𠦤	〔𫩏日十・KKEu・CJK-B〕
+𠦤	〔{橫日}日十・KKEu・CJK-B〕
 𠦥	〔冫𠂤十・XUEs・CJK-B〕
 𠦦	〔石凡十・GQEu・CJK-B〕
 𠦧	〔土䒑十十・JXEE・CJK-B〕
@@ -30668,7 +30668,7 @@
 𠯫	〔口戈・OFg・CJK-B〕
 𠯬	〔口龰・OLu・CJK-B〕
 𠯭	〔口日・OKv・CJK-B〕
-𠯮	〔口𫩏・OKu・CJK-B〕
+𠯮	〔口{橫日}・OKu・CJK-B〕
 𠯯	〔口片・OTp・CJK-B〕
 𠯰	〔口亻十・OTEu・CJK-B〕
 𠯱	〔口入入・OVVr・CJK-B〕
@@ -30958,7 +30958,7 @@
 𠴍	〔口刀丶心・ODWR・CJK-B〕
 𠴎	〔口氵夭・OZRy・CJK-B〕
 𠴏	〔口艹亠𠃊・OHYC・CJK-B〕
-𠴐	〔口忄コ十・OUDE・CJK-B〕
+𠴐	〔口忄ユ十・OUDE・CJK-B〕
 𠴑	〔口艹女・OHCv・CJK-B〕
 𠴒	〔口亻人丶龴・OTWD・CJK-B〕
 𠴓	〔口亻{卬左}七丶・OTFW・CJK-B〕
@@ -31004,7 +31004,7 @@
 𠴻	〔口阝𠂉也・OBPB・CJK-B〕
 𠴼	〔口至刂・OFLd・CJK-B〕
 𠴽	〔口亠夕夕・OYQQ・CJK-B〕
-𠴾	〔口コ十コ十・ODDE・CJK-B〕
+𠴾	〔口ユ十ユ十・ODDE・CJK-B〕
 𠴿	〔口丿囗二〢・OPEL・CJK-B〕⁇
 𠵀	〔口口口十・OOOE・CJK-B〕
 𠵁	〔{周框}土口口・SJOO・CJK-B〕
@@ -31908,7 +31908,7 @@
 𡃃	〔口糹口耳・OAOH・CJK-B〕
 𡃄	〔口來貝・OINb・CJK-B〕
 𡃅	〔口火火冖王丶・OXEW・CJK-B〕
-𡃆	〔口尸丷𫩏丷日・ODXK・CJK-B〕
+𡃆	〔口尸丷{橫日}丷日・ODXK・CJK-B〕
 𡃇	〔口丷巾八攵廾・OXPH・CJK-B〕
 𡃈	〔口糹革・OAHg・CJK-B〕
 𡃉	〔口力口馬・OCOE・CJK-B〕
@@ -32146,7 +32146,7 @@
 𡆱	〔囗彡・NSsw・CJK-B〕
 𡆲	〔囗亠𠃊・NYCw・CJK-B〕
 𡆳	〔囗巳・NDsw・CJK-B〕
-𡆴	〔囗コ十・NDEw・CJK-B〕
+𡆴	〔囗ユ十・NDEw・CJK-B〕
 𡆵	〔囗𠃎𠃊𠃎Γ・NBCw・CJK-B〕⁇
 𡆶	〔囗干乚・NECw・CJK-B〕
 𡆷	〔囗口一・NOGw・CJK-B〕
@@ -32843,7 +32843,7 @@
 𡑪	〔土艹日勹人𠃊・JHUC・CJK-B〕
 𡑫	〔宀豕土土・WGJJ・CJK-B〕
 𡑬	〔土厂禾夕㐄・JGQF・CJK-B〕
-𡑭	〔土人一𫩏丷日・JUXK・CJK-B〕
+𡑭	〔土人一{橫日}丷日・JUXK・CJK-B〕
 𡑮	〔土宀一龷八土・JWTJ・CJK-B〕
 𡑯	〔土僉・JUq・CJK-B〕
 𡑰	〔土囗土口𧘇・JNOR・CJK-B〕
@@ -32918,7 +32918,7 @@
 𡒵	〔土宀艹見丶・JWNW・CJK-B〕
 𡒶	〔土䒑夫丶艮・JXWB・CJK-B〕
 𡒷	〔土广丿米田・JWXK・CJK-B〕
-𡒸	〔土尸丷𫩏丷日・JDXK・CJK-B〕
+𡒸	〔土尸丷{橫日}丷日・JDXK・CJK-B〕
 𡒹	〔土艹土厶虫・JHAL・CJK-B〕
 𡒺	〔土⺮户𠕁・JPZM・CJK-B〕
 𡒻	〔土𠂆丅𠂆丅貝・JRJN・CJK-B〕
@@ -32995,14 +32995,14 @@
 𡔂	〔宀工工工工火土・WIXJ・CJK-B〕
 𡔃	〔土卄一口夫隹・JHJT・CJK-B〕
 𡔄	〔土⺮罒土䒑十・JPXE・CJK-B〕
-𡔅	〔爫𫩏丷𫩏丷大土・VKFJ・CJK-B〕
+𡔅	〔爫{橫日}丷{橫日}丷大土・VKFJ・CJK-B〕
 𡔆	〔氵立⺝{龍右}土・ZYLJ・CJK-B〕
 𡔇	〔米犬頁土・XJJm・CJK-B〕
 𡔈	〔一八𠘨貝貝土・GTNJ・CJK-B〕
 𡔉	〔土一冂⺀一冂鹿・JGMW・CJK-B〕
 𡔊	〔亠口日卝干⺄キ土・YOFJ・CJK-B〕
 𡔋	〔土亠口日羊攴・JYXL・CJK-B〕
-𡔌	〔囗凵𫩏丷𫩏丷八土・NAJw・CJK-B〕
+𡔌	〔囗凵{橫日}丷{橫日}丷八土・NAJw・CJK-B〕
 𡔍	〔土穴士罒貝・JWMN・CJK-B〕
 𡔎	〔土虍一口冂䒑丨犬・JLKJ・CJK-B〕
 𡔏	〔广巛口巴隹土・WCJg・CJK-B〕
@@ -33434,7 +33434,7 @@
 𡚺	〔女九丶・CRWu・CJK-B〕
 𡚻	〔女大・CFd・CJK-B〕
 𡚼	〔女{卬左}七・CVFq・CJK-B〕
-𡚽	〔コ十女・DECv・CJK-B〕
+𡚽	〔ユ十女・DECv・CJK-B〕
 𡚾	〔女殳・CQs・CJK-B〕
 𡚿	〔女心・CRx・CJK-B〕
 𡛀	〔女𠂇又・CHDo・CJK-B〕
@@ -33838,7 +33838,7 @@
 𡡎	〔女口一口丨女・COKC・CJK-B〕⁇
 𡡏	〔禾⺌⺝女・RNSC・CJK-B〕
 𡡐	〔女〢䒑䒑夫・CLXJ・CJK-B〕
-𡡑	〔女丷𫩏丷日・CXXK・CJK-B〕
+𡡑	〔女丷{橫日}丷日・CXXK・CJK-B〕
 𡡒	〔女其𠂆丅・CHRJ・CJK-B〕
 𡡓	〔彡女頁・SCGs・CJK-B〕
 𡡔	〔女日耳又・CKHD・CJK-B〕
@@ -34083,7 +34083,7 @@
 𡥃	〔子女・BCvz・CJK-B〕
 𡥄	〔子口・BOvz・CJK-B〕
 𡥅	〔扌子・FBz・CJK-B〕
-𡥆	〔コ十子・DEBz・CJK-B〕
+𡥆	〔ユ十子・DEBz・CJK-B〕
 𡥇	〔十丿子乀・EPBW・CJK-B〕⁇
 𡥈	〔㐅乂子・TTBi・CJK-B〕
 𡥉	〔㐅𠂇子・THBi・CJK-B〕
@@ -34429,7 +34429,7 @@
 𡪝	〔宀⺊冎口・WLNO・CJK-B〕
 𡪞	〔宀夂口又口・WVDO・CJK-B〕
 𡪟	〔宀忄音・WUYn・CJK-B〕
-𡪠	〔宀丷𫩏丷日・WXXK・CJK-B〕
+𡪠	〔宀丷{橫日}丷日・WXXK・CJK-B〕
 𡪡	〔宀士示欠・WJFQ・CJK-B〕
 𡪢	〔宀亻彐冖巾又・WTMD・CJK-B〕
 𡪣	〔宀毛毛毛・WRRR・CJK-B〕
@@ -35023,7 +35023,7 @@
 𡳰	〔尸口十口女古・DOCJ・CJK-B〕
 𡳱	〔尸毛艹禺・DRHK・CJK-B〕
 𡳲	〔尸毛爫艹禺・DRHK・CJK-B〕⁇
-𡳳	〔尸毛人一𫩏丷日・DRXK・CJK-B〕
+𡳳	〔尸毛人一{橫日}丷日・DRXK・CJK-B〕
 𡳴	〔亠𠃊口月卄一尸凡・YCDQ・CJK-B〕
 𡳵	〔尸米女艹丨日・DXKK・CJK-B〕
 𡳶	〔艹丨日尸米女・HKXC・CJK-B〕
@@ -35298,7 +35298,7 @@
 𡸃	〔山人二ッ・MUEZ・CJK-B〕
 𡸄	〔山人人土・MUUJ・CJK-B〕
 𡸅	〔山弓攵・MDPp・CJK-B〕
-𡸆	〔山コ十山・MDEM・CJK-B〕
+𡸆	〔山ユ十山・MDEM・CJK-B〕
 𡸇	〔山夂朩・MVIu・CJK-B〕
 𡸈	〔山日䒑・MKXu・CJK-B〕
 𡸉	〔山禾刂・MRLd・CJK-B〕
@@ -35599,7 +35599,7 @@
 𡼰	〔山山口口一丂・MMGE・CJK-B〕
 𡼱	〔山囗韋・MNDw・CJK-B〕
 𡼲	〔山釒欠・MVQq・CJK-B〕
-𡼳	〔山丷𫩏丷日・MXXK・CJK-B〕
+𡼳	〔山丷{橫日}丷日・MXXK・CJK-B〕
 𡼴	〔山人人丨厂目・MUGN・CJK-B〕
 𡼵	〔山米夕㐄・MXQF・CJK-B〕
 𡼶	〔山厶厶厶人小丶・MACW・CJK-B〕
@@ -35610,7 +35610,7 @@
 𡼻	〔千龷凵𠂤・RHUq・CJK-B〕
 𡼼	〔山十早月・MEKS・CJK-B〕
 𡼽	〔山飠欠・MVQq・CJK-B〕
-𡼾	〔山人一𫩏丷日・MUXK・CJK-B〕
+𡼾	〔山人一{橫日}丷日・MUXK・CJK-B〕
 𡼿	〔山穴尸屮凵・MWAA・CJK-B〕
 𡽀	〔山乂⁛凵儿夊・MTVV・CJK-B〕
 𡽁	〔山自辛・MTYx・CJK-B〕
@@ -35673,7 +35673,7 @@
 𡽺	〔犭言犬山・VYMq・CJK-B〕
 𡽻	〔山氵車𠂆丅・MZRJ・CJK-B〕
 𡽼	〔山忄亠厶艹木・MUHI・CJK-B〕
-𡽽	〔山𫩏丷火火・MKXX・CJK-B〕
+𡽽	〔山{橫日}丷火火・MKXX・CJK-B〕
 𡽾	〔山臣{⺮右}皿・MFPM・CJK-B〕
 𡽿	〔山山山宀示・MMWF・CJK-B〕
 𡾀	〔山山人人人人一丂・MMGE・CJK-B〕
@@ -35695,7 +35695,7 @@
 𡾐	〔山齒・MLc・CJK-B〕
 𡾑	〔山亻人人人人丆工・MTGI・CJK-B〕
 𡾒	〔山白幺幺木・MUAI・CJK-B〕
-𡾓	〔山尸丷𫩏丷日・MDXK・CJK-B〕
+𡾓	〔山尸丷{橫日}丷日・MDXK・CJK-B〕
 𡾔	〔田田田山・KKMt・CJK-B〕
 𡾕	〔山山氵日一勹{两撇}・MMSS・CJK-B〕
 𡾖	〔山石鬼・MGUg・CJK-B〕
@@ -35737,7 +35737,7 @@
 𡾺	〔山人人戈非一・MULG・CJK-B〕
 𡾻	〔山戈爿臣・MFAF・CJK-B〕
 𡾼	〔山隹隹又・MTTD・CJK-B〕
-𡾽	〔山糹丷𫩏丷日・MAXK・CJK-B〕
+𡾽	〔山糹丷{橫日}丷日・MAXK・CJK-B〕
 𡾾	〔山釒鬼・MVUg・CJK-B〕
 𡾿	〔山山丰丰一口䒑・MMOX・CJK-B〕
 𡿀	〔山山隹冂八口・MMTO・CJK-B〕
@@ -35764,7 +35764,7 @@
 𡿕	〔山虍一口冂䒑丨瓦・MLKH・CJK-B〕
 𡿖	〔山丰刀齒・MIDL・CJK-B〕
 𡿗	〔山艹𠂤辛木・MHYI・CJK-B〕
-𡿘	〔山山糹丷𫩏丷日・MMXK・CJK-B〕
+𡿘	〔山山糹丷{橫日}丷日・MMXK・CJK-B〕
 𡿙	〔山爫幺大鳥・MVFU・CJK-B〕
 𡿚	〔山艹止自巳殳・MHDQ・CJK-B〕⁇
 𡿛	〔山厂石石石木・MGGI・CJK-B〕
@@ -36135,7 +36135,7 @@
 𢅈	〔亠巾亠巾亠巾・YMYM・CJK-B〕
 𢅉	〔白巾白儿・UMVb・CJK-B〕
 𢅊	〔𠂉卌一灬巾・PHXM・CJK-B〕
-𢅋	〔巾丷𫩏丷日・MXKj・CJK-B〕
+𢅋	〔巾丷{橫日}丷日・MXKj・CJK-B〕
 𢅌	〔爫{爲下}巾・VSMj・CJK-B〕
 𢅍	〔士冖石大巾・JQFM・CJK-B〕
 𢅎	〔巾白方攵・MUPj・CJK-B〕
@@ -36211,7 +36211,7 @@
 𢆔	〔口口干・OOEg・CJK-B〕
 𢆕	〔干丷𠂆又・EXDg・CJK-B〕
 𢆖	〔一{五下}口干・GDOE・CJK-B〕
-𢆗	〔䒑廾コ十・XHDE・CJK-B〕
+𢆗	〔䒑廾ユ十・XHDE・CJK-B〕
 𢆘	〔𠂉ヰ欠・PFQq・CJK-B〕
 𢆙	〔刀刀干干・DDEd・CJK-B〕
 𢆚	〔一廾木口・GHIO・CJK-B〕
@@ -36546,7 +36546,7 @@
 𢋣	〔广丆月冖心夊・WGVg・CJK-B〕
 𢋤	〔广木木心夊・WIVg・CJK-B〕
 𢋥	〔广亻匕鳥・WTUg・CJK-B〕
-𢋦	〔广土人人𫩏人人・WJUg・CJK-B〕
+𢋦	〔广土人人{橫日}人人・WJUg・CJK-B〕
 𢋧	〔广石石石・WGGg・CJK-B〕
 𢋨	〔广黑土・WMJg・CJK-B〕
 𢋩	〔广亻隹瓦・WTHg・CJK-B〕
@@ -36718,7 +36718,7 @@
 𢎏	〔弋二一巾入入・FEVi・CJK-B〕
 𢎐	〔丿弋二貝・PFEN・CJK-B〕⁇
 𢎑	〔弋田龷八・FKTi・CJK-B〕
-𢎒	〔丷𫩏丷日弋・XKKF・CJK-B〕
+𢎒	〔丷{橫日}丷日弋・XKKF・CJK-B〕
 𢎓	〔⺈彐攵灬弋・QBXF・CJK-B〕
 𢎔	〔一戈止日勹人𠃊・GFUC・CJK-B〕
 𢎕	〔齒弋・LFic・CJK-B〕
@@ -36858,7 +36858,7 @@
 𢐛	〔弓宀一彐龰・DWLg・CJK-B〕
 𢐜	〔弓弓一囗人人・DDUg・CJK-B〕
 𢐝	〔弓丆日丅巳・DGDg・CJK-B〕
-𢐞	〔弓丷𫩏丷日・DXKg・CJK-B〕
+𢐞	〔弓丷{橫日}丷日・DXKg・CJK-B〕
 𢐟	〔弓夭口冂口・DROg・CJK-B〕
 𢐠	〔弓丿米田・DPKg・CJK-B〕
 𢐡	〔弓一囗人一囗人・DGUg・CJK-B〕
@@ -36883,7 +36883,7 @@
 𢐴	〔弓人人丨人人丨人人丨・DUKg・CJK-B〕
 𢐵	〔弓言厶虫・DYLg・CJK-B〕
 𢐶	〔弓龷丨冂㐅乂㐅乂・DHTg・CJK-B〕
-𢐷	〔弓丷𫩏丷日弓・DXDg・CJK-B〕
+𢐷	〔弓丷{橫日}丷日弓・DXDg・CJK-B〕
 𢐸	〔弓虍田皿・DLMg・CJK-B〕
 𢐹	〔弓亠囗口日一弓・DYDg・CJK-B〕
 𢐺	〔弓千龷凵勹厶弓・DRDg・CJK-B〕
@@ -37792,7 +37792,7 @@
 𢟁	〔舟殳心・RQRo・CJK-B〕
 𢟂	〔亻攵木心・TPIR・CJK-B〕
 𢟃	〔工心⺄屮屮・IRAg・CJK-B〕
-𢟄	〔而心コ十・GREe・CJK-B〕
+𢟄	〔而心ユ十・GREe・CJK-B〕
 𢟅	〔亻丨夂彡心・TKSR・CJK-B〕
 𢟆	〔犭甲二心・VKRq・CJK-B〕
 𢟇	〔女匚矢心・CFPR・CJK-B〕
@@ -38372,7 +38372,7 @@
 𢨆	〔十戈𠃊非・EFCL・CJK-B〕⁇
 𢨇	〔戈田龷八・FKTg・CJK-B〕
 𢨈	〔人人人人日戈・UUKF・CJK-B〕
-𢨉	〔丷𫩏丷日戈・XKKF・CJK-B〕
+𢨉	〔丷{橫日}丷日戈・XKKF・CJK-B〕
 𢨊	〔亠口子戈口一・YOOG・CJK-B〕
 𢨋	〔戈口一戈口一・FOGg・CJK-B〕
 𢨌	〔矛冂八口戈・BMFm・CJK-B〕
@@ -38625,7 +38625,7 @@
 𢬃	〔扌{卬左}一卩・FVGA・CJK-B〕
 𢬄	〔扌冫水・FXAs・CJK-B〕
 𢬅	〔扌𡭔大・FCFd・CJK-B〕
-𢬆	〔扌⺈コ十・FQDE・CJK-B〕
+𢬆	〔扌⺈ユ十・FQDE・CJK-B〕
 𢬇	〔扌宀寸・FWIc・CJK-B〕
 𢬈	〔扌䒑大・FXFd・CJK-B〕
 𢬉	〔扌户匕・FZVi・CJK-B〕
@@ -38650,7 +38650,7 @@
 𢬜	〔扌𠂉{𠂢下}・FPRu・CJK-B〕
 𢬝	〔扌入土丶・FVJW・CJK-B〕
 𢬞	〔扌彐彐・FBBu・CJK-B〕
-𢬟	〔扌龴コ十・FDDE・CJK-B〕
+𢬟	〔扌龴ユ十・FDDE・CJK-B〕
 𢬠	〔扌丶乛水・FWBA・CJK-B〕
 𢬡	〔扌糸・FAv・CJK-B〕
 𢬢	〔扌口巾・FOMj・CJK-B〕
@@ -38678,7 +38678,7 @@
 𢬸	〔扌{卬左}七口・FVFO・CJK-B〕
 𢬹	〔扌土乚土・FJCJ・CJK-B〕⁇
 𢬺	〔扌犭木・FVIv・CJK-B〕
-𢬻	〔扌囗コ十・FNDE・CJK-B〕
+𢬻	〔扌囗ユ十・FNDE・CJK-B〕
 𢬼	〔扌囗七凵・FNFA・CJK-B〕
 𢬽	〔扌田丨十・FKKE・CJK-B〕⁇
 𢬾	〔扌㐅𠂇巾・FTHM・CJK-B〕
@@ -38781,7 +38781,7 @@
 𢮟	〔{五下}巛冖手・DCQR・CJK-B〕
 𢮠	〔丂一丂一手・EGRk・CJK-B〕
 𢮡	〔扌人羊・FUXy・CJK-B〕
-𢮢	〔扌コ十コ十・FDDE・CJK-B〕
+𢮢	〔扌ユ十ユ十・FDDE・CJK-B〕
 𢮣	〔爫立手・VYRs・CJK-B〕⁇
 𢮤	〔扌爫巴・FVDb・CJK-B〕
 𢮥	〔扌厶大小・FAFC・CJK-B〕
@@ -39166,7 +39166,7 @@
 𢴠	〔扌音戈・FYFg・CJK-B〕
 𢴡	〔扌臣又手・FFDR・CJK-B〕
 𢴢	〔扌十廾貝・FEHN・CJK-B〕
-𢴣	〔扌丷𫩏丷日・FXXK・CJK-B〕
+𢴣	〔扌丷{橫日}丷日・FXXK・CJK-B〕
 𢴤	〔扌⺌冖口木・FNOI・CJK-B〕
 𢴥	〔扌車丶心・FJWR・CJK-B〕
 𢴦	〔扌工頁・FIGy・CJK-B〕
@@ -39277,7 +39277,7 @@
 𢶏	〔扌覀示刂・FEFL・CJK-B〕
 𢶐	〔扌虍一口䒑・FLOX・CJK-B〕
 𢶑	〔扌{鳥上}衣・FUWy・CJK-B〕
-𢶒	〔扌人一𫩏丷日・FUXK・CJK-B〕
+𢶒	〔扌人一{橫日}丷日・FUXK・CJK-B〕
 𢶓	〔扌自辛・FTYx・CJK-B〕
 𢶔	〔扌日罒丆𠃌・FKGB・CJK-B〕⁇
 𢶕	〔扌䒑⺝刂灬・FXLX・CJK-B〕
@@ -40271,7 +40271,7 @@
 𣅱	〔𡭔一日・CGKx・CJK-B〕
 𣅲	〔{卬左}{于下}日・VIKv・CJK-B〕
 𣅳	〔𠃑大日・CFKv・CJK-B〕⁇
-𣅴	〔日コ十・KDEu・CJK-B〕
+𣅴	〔日ユ十・KDEu・CJK-B〕
 𣅵	〔日心・KRx・CJK-B〕
 𣅶	〔日亠八・KYTu・CJK-B〕
 𣅷	〔日口儿・KOVe・CJK-B〕
@@ -40627,7 +40627,7 @@
 𣋕	〔三人日三人キ・IUFs・CJK-B〕
 𣋖	〔日罒非・KMLf・CJK-B〕
 𣋗	〔日頁日・KGKv・CJK-B〕
-𣋘	〔日人一𫩏丷日・KUXK・CJK-B〕
+𣋘	〔日人一{橫日}丷日・KUXK・CJK-B〕
 𣋙	〔日尸龷八殳・KDTQ・CJK-B〕
 𣋚	〔日音欠・KYQq・CJK-B〕
 𣋛	〔日艹氵夂口・KHVO・CJK-B〕
@@ -40742,12 +40742,12 @@
 𣍈	〔丰丰日䒑・IIXf・CJK-B〕
 𣍉	〔日亠口子阝・KYBB・CJK-B〕
 𣍊	〔日勹人𠃊尸乀⺀・KSWZ・CJK-B〕
-𣍋	〔人一𫩏丷日丅丶・UGJW・CJK-B〕
+𣍋	〔人一{橫日}丷日丅丶・UGJW・CJK-B〕
 𣍌	〔歹歹歹日・GGKd・CJK-B〕
 𣍍	〔冖⺈口儿丶冂龷・QQMH・CJK-B〕
-𣍎	〔丷𫩏丷日一兀・XKGG・CJK-B〕
+𣍎	〔丷{橫日}丷日一兀・XKGG・CJK-B〕
 𣍏	〔一日乂⺶工・GKXI・CJK-B〕⁇
-𣍐	〔勹{两撇}人一𫩏丷日・SSXK・CJK-B〕
+𣍐	〔勹{两撇}人一{橫日}丷日・SSXK・CJK-B〕
 𣍑	〔日{纟上}丿白巾弋・KCMF・CJK-B〕
 𣍒	〔水日一幺幺土・AKJs・CJK-B〕
 𣍓	〔日爾・KJe・CJK-B〕
@@ -41201,7 +41201,7 @@
 𣔓	〔木彳皮・ISDp・CJK-B〕
 𣔔	〔木爫一丌・IVGH・CJK-B〕
 𣔕	〔入夕㐄木・VQIr・CJK-B〕
-𣔖	〔木コ十コ十・IDDE・CJK-B〕
+𣔖	〔木ユ十ユ十・IDDE・CJK-B〕
 𣔗	〔厶口木凡・AOQi・CJK-B〕
 𣔘	〔土土刀木・JJDI・CJK-B〕
 𣔙	〔木𠂆丅欠・IRJQ・CJK-B〕
@@ -41823,7 +41823,7 @@
 𣞁	〔木火火冖木・IXQI・CJK-B〕
 𣞂	〔木⺮彐冖巾・IPQM・CJK-B〕
 𣞃	〔口木匚口口口・OIOO・CJK-B〕
-𣞄	〔末人一𫩏丷日・IUKm・CJK-B〕
+𣞄	〔末人一{橫日}丷日・IUKm・CJK-B〕
 𣞅	〔日木月䒑大・KIXF・CJK-B〕
 𣞆	〔屮屮木木木・AAII・CJK-B〕
 𣞇	〔訁木言・YIYv・CJK-B〕
@@ -42405,7 +42405,7 @@
 𣧇	〔歹儿丶・GVWd・CJK-B〕
 𣧈	〔歹山・GMvd・CJK-B〕
 𣧉	〔歹乃丶・GAWd・CJK-B〕⁇
-𣧊	〔歹コ十・GDEd・CJK-B〕
+𣧊	〔歹ユ十・GDEd・CJK-B〕
 𣧋	〔歹欠・GQqd・CJK-B〕
 𣧌	〔歹戈・GFgd・CJK-B〕
 𣧍	〔歹冂入・GMVd・CJK-B〕
@@ -42569,7 +42569,7 @@
 𣩫	〔歹〢䒑䒑未・GLId・CJK-B〕
 𣩬	〔歹木冂貝・GINd・CJK-B〕
 𣩭	〔八人口欠歹匕・TUGV・CJK-B〕
-𣩮	〔歹人一𫩏丷日・GUKd・CJK-B〕
+𣩮	〔歹人一{橫日}丷日・GUKd・CJK-B〕
 𣩯	〔歹日幺幺灬・GKXd・CJK-B〕
 𣩰	〔歹羽隹・GCTd・CJK-B〕
 𣩱	〔歹艹土厶皿・GHMd・CJK-B〕
@@ -42693,7 +42693,7 @@
 𣫧	〔艹厂禾禾止殳・HGLQ・CJK-B〕
 𣫨	〔士𠃜殳人一罒皿・JDMM・CJK-B〕
 𣫩	〔〢䒑䒑土臼木殳・LXIQ・CJK-B〕
-𣫪	〔士冖禾殳人一𫩏丷日・JQXK・CJK-B〕
+𣫪	〔士冖禾殳人一{橫日}丷日・JQXK・CJK-B〕
 𣫫	〔匚矢殳釒金・FPVf・CJK-B〕
 𣫬	〔{母框}艹・CHv・CJK-B〕
 𣫭	〔亠母・YCm・CJK-B〕
@@ -42970,7 +42970,7 @@
 𣯼	〔覀米毛・EXRx・CJK-B〕
 𣯽	〔䒑〢䒑日毛・XLKR・CJK-B〕
 𣯾	〔毛人一口羽・RUCm・CJK-B〕
-𣯿	〔毛丷𫩏丷日・RXKm・CJK-B〕
+𣯿	〔毛丷{橫日}丷日・RXKm・CJK-B〕
 𣰀	〔毛癶弓殳・RDQm・CJK-B〕
 𣰁	〔毛艹宀示・RHFm・CJK-B〕
 𣰂	〔毛{炙上}犬灬・RSXm・CJK-B〕
@@ -43020,7 +43020,7 @@
 𣰮	〔⺊囗人人米毛・LNXR・CJK-B〕
 𣰯	〔魚日毛・QKRm・CJK-B〕
 𣰰	〔大丆日丆日毛・FGRd・CJK-B〕
-𣰱	〔𫩏田一毛丆日・KKGK・CJK-B〕
+𣰱	〔{橫日}田一毛丆日・KKGK・CJK-B〕
 𣰲	〔矛冂八口𡭔丿毛・BMRm・CJK-B〕
 𣰳	〔毛⺮立电・RPKm・CJK-B〕
 𣰴	〔⺮立电毛・PYKR・CJK-B〕
@@ -44161,7 +44161,7 @@
 𤂣	〔氵艹彐米{丿丨}・ZHXT・CJK-B〕
 𤂤	〔氵大牛牜牛・ZFPP・CJK-B〕
 𤂥	〔氵矢口日一丂・ZPGE・CJK-B〕
-𤂦	〔氵䒑𫩏隹・ZXKT・CJK-B〕
+𤂦	〔氵䒑{橫日}隹・ZXKT・CJK-B〕
 𤂧	〔氵艹夂丰辶・ZHIZ・CJK-B〕
 𤂨	〔氵木艹日大・ZIKF・CJK-B〕
 𤂩	〔氵⺧儿耂日・ZPJK・CJK-B〕
@@ -44525,7 +44525,7 @@
 𤈐	〔火丿未・XPIw・CJK-B〕
 𤈑	〔火日匕・XKVi・CJK-B〕
 𤈒	〔火缶・XPf・CJK-B〕
-𤈓	〔火ココ十・XDDE・CJK-B〕
+𤈓	〔火コユ十・XDDE・CJK-B〕
 𤈔	〔土弓灬・JDXh・CJK-B〕
 𤈕	〔夕夕灬・QQXx・CJK-B〕
 𤈖	〔⺈巴灬・QDXh・CJK-B〕
@@ -44661,7 +44661,7 @@
 𤊘	〔牜勹{两撇}火・PSXn・CJK-B〕
 𤊙	〔隹火・TXvw・CJK-B〕
 𤊚	〔火爫几二・XVQE・CJK-B〕
-𤊛	〔火コ十コ十・XDDE・CJK-B〕
+𤊛	〔火ユ十ユ十・XDDE・CJK-B〕
 𤊜	〔厶口大火・AOXi・CJK-B〕
 𤊝	〔勹冂丿冂丿灬・SMPX・CJK-B〕⁇
 𤊞	〔火長・XEz・CJK-B〕
@@ -44738,7 +44738,7 @@
 𤋥	〔勹口攵灬・SOPX・CJK-B〕
 𤋦	〔禾火灬・RXXh・CJK-B〕
 𤋧	〔月⺊口灬・SLOX・CJK-B〕
-𤋨	〔火𠂇工コ十・XHDE・CJK-B〕
+𤋨	〔火𠂇工ユ十・XHDE・CJK-B〕
 𤋩	〔火⺌冖文・XNQY・CJK-B〕
 𤋪	〔火日屮凵・XKAA・CJK-B〕
 𤋫	〔火山山山・XMMM・CJK-B〕
@@ -44937,8 +44937,8 @@
 𤎬	〔火䒑屮火又・XXXD・CJK-B〕
 𤎭	〔火火亠囗口・XXNO・CJK-B〕
 𤎮	〔土八土⺄キ火・JTFX・CJK-B〕
-𤎯	〔丷𫩏丷日火・XKKX・CJK-B〕
-𤎰	〔丷𫩏丷日灬・XKKX・CJK-B〕
+𤎯	〔丷{橫日}丷日火・XKKX・CJK-B〕
+𤎰	〔丷{橫日}丷日灬・XKKX・CJK-B〕
 𤎱	〔火隹{雋下}・XTMu・CJK-B〕
 𤎲	〔火日一甲二・XKKE・CJK-B〕
 𤎳	〔火人人人人日・XUUK・CJK-B〕
@@ -45215,7 +45215,7 @@
 𤓂	〔火艹千黑・XHRM・CJK-B〕
 𤓃	〔火⺮門日・XPNK・CJK-B〕
 𤓄	〔火木冖乂⁛凵匕又・XIVD・CJK-B〕
-𤓅	〔𫩏丷火火尸兀几・KXGQ・CJK-B〕
+𤓅	〔{橫日}丷火火尸兀几・KXGQ・CJK-B〕
 𤓆	〔火艹臣{⺮右}皿・XHPM・CJK-B〕
 𤓇	〔火𤣩⺈冂人目夊・XENV・CJK-B〕
 𤓈	〔火艹白幺幺木・XHAI・CJK-B〕
@@ -45662,7 +45662,7 @@
 𤚁	〔㐅𠂇⺝牛・THPi・CJK-B〕
 𤚂	〔牜勹小小・PSCn・CJK-B〕
 𤚃	〔牜广{卬左}七一・PWGn・CJK-B〕
-𤚄	〔牜コ十コ十・PDEn・CJK-B〕
+𤚄	〔牜ユ十ユ十・PDEn・CJK-B〕
 𤚅	〔厶牛厶牛・APPi・CJK-B〕
 𤚆	〔牜阝皮・PBDn・CJK-B〕
 𤚇	〔牜䒑土又・PXDn・CJK-B〕
@@ -45756,7 +45756,7 @@
 𤛟	〔牜艹勹用・PHSn・CJK-B〕⁇
 𤛠	〔牜口十口女・POCn・CJK-B〕
 𤛡	〔牜厶厶厶糸・PAAn・CJK-B〕
-𤛢	〔牜丷𫩏丷日・PXKn・CJK-B〕
+𤛢	〔牜丷{橫日}丷日・PXKn・CJK-B〕
 𤛣	〔牜人一口羽・PUCn・CJK-B〕
 𤛤	〔牜厶厶厶人小丶・PAWn・CJK-B〕
 𤛥	〔牜龷由八・PHTn・CJK-B〕
@@ -45979,7 +45979,7 @@
 𤞾	〔犭日工・VKIq・CJK-B〕
 𤞿	〔犭干犬・VEJq・CJK-B〕
 𤟀	〔白七犬・UFJb・CJK-B〕⁇
-𤟁	〔犭刀丶𫩏・VDKq・CJK-B〕
+𤟁	〔犭刀丶{橫日}・VDKq・CJK-B〕
 𤟂	〔犭亠𠃊⺝・VYSq・CJK-B〕
 𤟃	〔犭一彐龰・VGLq・CJK-B〕
 𤟄	〔犭穴工・VWIq・CJK-B〕
@@ -46595,7 +46595,7 @@
 𤨦	〔𤣩犭大丁口・EVEO・CJK-B〕
 𤨧	〔𤣩覀示・EEFs・CJK-B〕
 𤨨	〔𤣩𠂉母攵・EPCP・CJK-B〕
-𤨩	〔𤣩⺶コ十・EXDE・CJK-B〕
+𤨩	〔𤣩⺶ユ十・EXDE・CJK-B〕
 𤨪	〔𤣩⺊夕又木・ELDI・CJK-B〕
 𤨫	〔𤣩广彐丨心・EWKR・CJK-B〕
 𤨬	〔𤣩亠丷冂古・EYMJ・CJK-B〕
@@ -47553,7 +47553,7 @@
 𤷥	〔疒八厶⺝・WTSb・CJK-B〕
 𤷦	〔疒亠口小・WYCb・CJK-B〕
 𤷧	〔疒宀夕㔾・WWBb・CJK-B〕
-𤷨	〔疒コ十コ十・WDEb・CJK-B〕
+𤷨	〔疒ユ十ユ十・WDEb・CJK-B〕
 𤷩	〔疒氵厶口・WZOb・CJK-B〕
 𤷪	〔疒子皿・WBMb・CJK-B〕
 𤷫	〔疒木冂刂・WILb・CJK-B〕
@@ -47737,14 +47737,14 @@
 𤺝	〔疒虍{卬左}一几・WLQb・CJK-B〕⁇
 𤺞	〔疒虍〢䒑・WLXb・CJK-B〕
 𤺟	〔疒羽人小丶・WCWb・CJK-B〕
-𤺠	〔疒人一𫩏丷山・WUMb・CJK-B〕
+𤺠	〔疒人一{橫日}丷山・WUMb・CJK-B〕
 𤺡	〔疒一囗口示・WGFb・CJK-B〕
 𤺢	〔疒木木木・WIIb・CJK-B〕
 𤺣	〔疒木木灬・WIXb・CJK-B〕
 𤺤	〔疒厂䒑屮欠・WGQb・CJK-B〕
 𤺥	〔疒⺮人一口・WPOb・CJK-B〕
 𤺦	〔疒丷夫士口・WXOb・CJK-B〕
-𤺧	〔疒丷𫩏丷日・WXKb・CJK-B〕
+𤺧	〔疒丷{橫日}丷日・WXKb・CJK-B〕
 𤺨	〔疒人丶彐丿口刂・WULb・CJK-B〕
 𤺩	〔疒月丷夫力・WSCb・CJK-B〕
 𤺪	〔疒羊䒑口・WXOb・CJK-B〕
@@ -47998,7 +47998,7 @@
 𤾢	〔白癶一口䒑・UDXb・CJK-B〕
 𤾣	〔白〢䒑䒑夫・ULJb・CJK-B〕
 𤾤	〔白一𠃍乀亠丷冖巾・UGMb・CJK-B〕⁇
-𤾥	〔白丷𫩏丷日・UXKb・CJK-B〕
+𤾥	〔白丷{橫日}丷日・UXKb・CJK-B〕
 𤾦	〔白弓工工口・UDOb・CJK-B〕
 𤾧	〔白〢䒑䒑未・ULIb・CJK-B〕
 𤾨	〔白雨人丶龴・UJDb・CJK-B〕
@@ -48062,7 +48062,7 @@
 𤿢	〔西皮・EDpx・CJK-B〕
 𤿣	〔山干皮・MEDp・CJK-B〕
 𤿤	〔⺮皮・PDp・CJK-B〕
-𤿥	〔⺈コ十皮・QDED・CJK-B〕
+𤿥	〔⺈ユ十皮・QDED・CJK-B〕
 𤿦	〔皮夕夕・DQQp・CJK-B〕
 𤿧	〔日干皮・KEDp・CJK-B〕
 𤿨	〔⺌⺝皮・NSDp・CJK-B〕
@@ -48071,7 +48071,7 @@
 𤿫	〔八口儿皮・TOVD・CJK-B〕
 𤿬	〔皮王廾・DEHp・CJK-B〕
 𤿭	〔皮甫・DEfp・CJK-B〕
-𤿮	〔口コ十皮・ODED・CJK-B〕
+𤿮	〔口ユ十皮・ODED・CJK-B〕
 𤿯	〔⺈口儿皮・QOVD・CJK-B〕
 𤿰	〔王廾皮・EHDp・CJK-B〕
 𤿱	〔口力刂皮・OCLD・CJK-B〕
@@ -48088,7 +48088,7 @@
 𤿼	〔⺌冂口皮・NMOD・CJK-B〕
 𤿽	〔水日皮・AKDs・CJK-B〕
 𤿾	〔白千皮・URDb・CJK-B〕
-𤿿	〔コ十コ十皮・DEED・CJK-B〕
+𤿿	〔ユ十ユ十皮・DEED・CJK-B〕
 𥀀	〔土羊皮・JXDp・CJK-B〕
 𥀁	〔耂日皮・JKDp・CJK-B〕
 𥀂	〔土土寸皮・JJID・CJK-B〕
@@ -48119,7 +48119,7 @@
 𥀛	〔皮龷日日・DHKp・CJK-B〕
 𥀜	〔皮口古口・DOOp・CJK-B〕
 𥀝	〔皮宀亻丆日・DWKp・CJK-B〕
-𥀞	〔⺶コ十皮・XDDy・CJK-B〕
+𥀞	〔⺶ユ十皮・XDDy・CJK-B〕
 𥀟	〔人人人人日皮・UUKD・CJK-B〕
 𥀠	〔皮口丄貝・DONp・CJK-B〕
 𥀡	〔厶一⺝乚二匕皮・AGDi・CJK-B〕
@@ -48306,7 +48306,7 @@
 𥃖	〔𦥑𦥑二㇉皿・UUCM・CJK-B〕
 𥃗	〔飠戈戈皿・VFMs・CJK-B〕
 𥃘	〔𦥑冂一口冖火皿・UMXM・CJK-B〕
-𥃙	〔䒑土皿丷𫩏丷日・XJXK・CJK-B〕
+𥃙	〔䒑土皿丷{橫日}丷日・XJXK・CJK-B〕
 𥃚	〔音舟殳皿・YRMn・CJK-B〕
 𥃛	〔舟殳皿音・RQYo・CJK-B〕
 𥃜	〔𦥑𦥑氺皿・UUAM・CJK-B〕
@@ -48385,7 +48385,7 @@
 𥄥	〔毛目・RNvm・CJK-B〕
 𥄦	〔目亠几・NYQj・CJK-B〕
 𥄧	〔目灬・NXh・CJK-B〕
-𥄨	〔目コ十・NDEu・CJK-B〕
+𥄨	〔目ユ十・NDEu・CJK-B〕
 𥄩	〔目幺乚・NACu・CJK-B〕
 𥄪	〔一{五下}目・GDNv・CJK-B〕
 𥄫	〔目乃丶・NAWu・CJK-B〕
@@ -48972,7 +48972,7 @@
 𥍰	〔矛艹勹丶・BHWm・CJK-B〕
 𥍱	〔矛⺧口・BPOm・CJK-B〕
 𥍲	〔矛木冂入・BIVm・CJK-B〕
-𥍳	〔矛木コ十・BIEm・CJK-B〕
+𥍳	〔矛木ユ十・BIEm・CJK-B〕
 𥍴	〔矛日勹{两撇}・BKSm・CJK-B〕
 𥍵	〔矛人丶乛心・BURm・CJK-B〕
 𥍶	〔矛⺈厂矢・BQPm・CJK-B〕
@@ -49538,7 +49538,7 @@
 𥖦	〔石爫冖心夊・GVRV・CJK-B〕
 𥖧	〔石匕鳥・GVUn・CJK-B〕
 𥖨	〔石口口口木・GOOI・CJK-B〕
-𥖩	〔石人一𫩏丷日・GUXK・CJK-B〕
+𥖩	〔石人一{橫日}丷日・GUXK・CJK-B〕
 𥖪	〔石艹隹又・GHTD・CJK-B〕
 𥖫	〔士口䒑皮石・JODG・CJK-B〕
 𥖬	〔石冫馬几・GXEQ・CJK-B〕
@@ -49983,7 +49983,7 @@
 𥝣	〔禾不・RGb・CJK-B〕
 𥝤	〔禾勹{两撇}・RSSu・CJK-B〕
 𥝥	〔禾乃丶・RAWu・CJK-B〕
-𥝦	〔禾コ十・RDEu・CJK-B〕
+𥝦	〔禾ユ十・RDEu・CJK-B〕
 𥝧	〔禾巴・RDb・CJK-B〕
 𥝨	〔禾人⺀・RUZu・CJK-B〕
 𥝩	〔爫禾・VRv・CJK-B〕
@@ -50128,7 +50128,7 @@
 𥟴	〔禾{卬左}七日・RVFK・CJK-B〕
 𥟵	〔禾九亠日・RRYK・CJK-B〕
 𥟶	〔禾宀夕㔾・RWQB・CJK-B〕
-𥟷	〔禾コ十コ十・RDDE・CJK-B〕
+𥟷	〔禾ユ十ユ十・RDDE・CJK-B〕
 𥟸	〔巛冂一刂禾・CMRc・CJK-B〕
 𥟹	〔禾几一口乂・RQOT・CJK-B〕
 𥟺	〔禾几而・RQGe・CJK-B〕
@@ -50302,7 +50302,7 @@
 𥢢	〔禾口丄貝・ROON・CJK-B〕
 𥢣	〔禾白一小彡・RUCS・CJK-B〕
 𥢤	〔禾丿人人人人十一・RPEG・CJK-B〕⁇
-𥢥	〔禾丷𫩏丷日・RXXK・CJK-B〕
+𥢥	〔禾丷{橫日}丷日・RXXK・CJK-B〕
 𥢦	〔禾夂田灬・RVKX・CJK-B〕
 𥢧	〔禾音戈・RYFg・CJK-B〕
 𥢨	〔禾尸子子子・RDBB・CJK-B〕
@@ -50319,7 +50319,7 @@
 𥢳	〔禾氵耂日・RZJK・CJK-B〕
 𥢴	〔禾雨人丶龴・RJWD・CJK-B〕
 𥢵	〔亠𠃊口月禾凡・YCRQ・CJK-B〕
-𥢶	〔禾人一𫩏丷日・RUXK・CJK-B〕
+𥢶	〔禾人一{橫日}丷日・RUXK・CJK-B〕
 𥢷	〔禾⺌冖口田・RNOK・CJK-B〕
 𥢸	〔禾艹日勹人𠃊・RHUC・CJK-B〕
 𥢹	〔禾白方攵・RUYP・CJK-B〕
@@ -50526,7 +50526,7 @@
 𥦂	〔穴口力刂・WOLx・CJK-B〕
 𥦃	〔穴尸木・WDIx・CJK-B〕
 𥦄	〔穴己攵・WDPx・CJK-B〕
-𥦅	〔穴コ十阝・WDBx・CJK-B〕
+𥦅	〔穴ユ十阝・WDBx・CJK-B〕
 𥦆	〔穴扌殳・WFQx・CJK-B〕
 𥦇	〔穴⺈丨日・WQKx・CJK-B〕
 𥦈	〔穴木口・WIOx・CJK-B〕
@@ -50842,7 +50842,7 @@
 𥪾	〔立口口貝・YONl・CJK-B〕
 𥪿	〔立艹丿車一・YHGl・CJK-B〕
 𥫀	〔立一口口冂儿丅・YGJl・CJK-B〕
-𥫁	〔立人一𫩏丷日・YUKl・CJK-B〕
+𥫁	〔立人一{橫日}丷日・YUKl・CJK-B〕
 𥫂	〔勹日音土・SKYJ・CJK-B〕
 𥫃	〔立䒑土丿扌戈・YXFl・CJK-B〕
 𥫄	〔立⺝己衣・YSWl・CJK-B〕
@@ -51066,7 +51066,7 @@
 𥮟	〔⺮匚凵キ・PFAF・CJK-B〕
 𥮠	〔⺮扌⺊口・PFLO・CJK-B〕
 𥮡	〔⺮人一口卩・PUOA・CJK-B〕
-𥮢	〔⺮コ十コ十・PDDE・CJK-B〕
+𥮢	〔⺮ユ十ユ十・PDDE・CJK-B〕
 𥮣	〔⺮冂㐅木・PMTI・CJK-B〕
 𥮤	〔⺮彐氺・PBAs・CJK-B〕
 𥮥	〔⺮木𠂆丅・PIRJ・CJK-B〕
@@ -51490,7 +51490,7 @@
 𥵇	〔⺮𤣩山而・PEMG・CJK-B〕
 𥵈	〔⺮土𠂉口皿・PJOM・CJK-B〕
 𥵉	〔⺮雨田・PJKt・CJK-B〕
-𥵊	〔⺮人一𫩏丷日・PUXK・CJK-B〕
+𥵊	〔⺮人一{橫日}丷日・PUXK・CJK-B〕
 𥵋	〔⺮人一罒{周框}{周框}一・PUSG・CJK-B〕
 𥵌	〔⺮人鳥・PUUn・CJK-B〕
 𥵍	〔⺮犭𠂤一巾・PVGM・CJK-B〕
@@ -51592,7 +51592,7 @@
 𥶭	〔⺮十早人一朩・PEGI・CJK-B〕
 𥶮	〔⺮木山隹・PIMT・CJK-B〕
 𥶯	〔鬼⺮由・UPKg・CJK-B〕
-𥶰	〔⺮尸丷𫩏丷日・PDXK・CJK-B〕
+𥶰	〔⺮尸丷{橫日}丷日・PDXK・CJK-B〕
 𥶱	〔⺮白鬼・PUUg・CJK-B〕
 𥶲	〔⺮石石石・PGGG・CJK-B〕
 𥶳	〔⺮糹戊一口・PAGO・CJK-B〕
@@ -51712,7 +51712,7 @@
 𥸥	〔𠃌米・BXm・CJK-B〕
 𥸦	〔⺄米・BXmi・CJK-B〕
 𥸧	〔米丁・XEdm・CJK-B〕
-𥸨	〔ュ米・・CJK-B〕⁇
+𥸨	〔ユ米・DXm・CJK-B〕
 𥸩	〔米又・XDom・CJK-B〕
 𥸪	〔米人・XUum・CJK-B〕
 𥸫	〔丿𠘨米・PQXm・CJK-B〕
@@ -51835,7 +51835,7 @@
 𥺠	〔廾口冖米・HOQX・CJK-B〕
 𥺡	〔米阝𠂉也・XBBm・CJK-B〕
 𥺢	〔米夂田・XVKm・CJK-B〕
-𥺣	〔米コ十コ十・XDEm・CJK-B〕
+𥺣	〔米ユ十ユ十・XDEm・CJK-B〕
 𥺤	〔上小又米・LCXs・CJK-B〕
 𥺥	〔米宀且・XWNm・CJK-B〕
 𥺦	〔米广⺊口・XWOm・CJK-B〕
@@ -51907,7 +51907,7 @@
 𥻨	〔米十冖糸・XEAm・CJK-B〕
 𥻩	〔米冖日亠八・XQTm・CJK-B〕
 𥻪	〔米キ丨キ一八・XFTm・CJK-B〕
-𥻫	〔ュ米ュ米・・CJK-B〕⁇
+𥻫	〔ユ米ユ米・DXDX・CJK-B〕
 𥻬	〔米隹又・XTDm・CJK-B〕
 𥻭	〔米亠丷冖方・XYYm・CJK-B〕
 𥻮	〔米宀辛・XWYm・CJK-B〕
@@ -52170,7 +52170,7 @@
 𥿯	〔糹𠂆{𠂢下}・ARRu・CJK-B〕
 𥿰	〔糹乃木・AAIv・CJK-B〕
 𥿱	〔糹乃子・AABz・CJK-B〕
-𥿲	〔糹ココ十・ADDE・CJK-B〕
+𥿲	〔糹コユ十・ADDE・CJK-B〕
 𥿳	〔糹{囟框}㐅・AUTi・CJK-B〕
 𥿴	〔糹七木・AFIv・CJK-B〕
 𥿵	〔糹厶𠂉十・AAPE・CJK-B〕
@@ -52249,7 +52249,7 @@
 𦀾	〔糹广木・AWIv・CJK-B〕
 𦀿	〔糹尸毛・ADRm・CJK-B〕
 𦁀	〔糹貝・ANb・CJK-B〕
-𦁁	〔糹忄コ十・AUDE・CJK-B〕
+𦁁	〔糹忄ユ十・AUDE・CJK-B〕
 𦁂	〔糹亻丷キ・ATXF・CJK-B〕
 𦁃	〔糹八田・ATKt・CJK-B〕
 𦁄	〔糹辰・AGn・CJK-B〕
@@ -52976,12 +52976,12 @@
 𦌕	〔罒⻊夂口・MOOw・CJK-B〕
 𦌖	〔罒丷丆亅{两撇}丶十又・MXDw・CJK-B〕
 𦌗	〔罒火火欠・MXQw・CJK-B〕
-𦌘	〔冂人丷𫩏丷日・MUXK・CJK-B〕
+𦌘	〔冂人丷{橫日}丷日・MUXK・CJK-B〕
 𦌙	〔罒土䒑十攵・MJPw・CJK-B〕
 𦌚	〔罒丷酉大・MXFw・CJK-B〕
-𦌛	〔冖八丷𫩏丷日・QTXK・CJK-B〕⁇
+𦌛	〔冖八丷{橫日}丷日・QTXK・CJK-B〕⁇
 𦌜	〔冂㐅㐅音土・MTYJ・CJK-B〕
-𦌝	〔冂㐅㐅丷𫩏丷日・MTXK・CJK-B〕
+𦌝	〔冂㐅㐅丷{橫日}丷日・MTXK・CJK-B〕
 𦌞	〔冂㐅㐅厂火火刂・MTXL・CJK-B〕
 𦌟	〔罒礻彐氺・MWAw・CJK-B〕⁇
 𦌠	〔罒尸口辛・MDYw・CJK-B〕
@@ -53046,7 +53046,7 @@
 𦍜	〔羊丿㇉丨丿・XPPy・CJK-B〕
 𦍝	〔羊一幺・XGAy・CJK-B〕
 𦍞	〔羊二{互中}・XECy・CJK-B〕
-𦍟	〔卝干コ十・HEDE・CJK-B〕
+𦍟	〔卝干ユ十・HEDE・CJK-B〕
 𦍠	〔羊厂力・XGCy・CJK-B〕
 𦍡	〔䒑土文・XJYw・CJK-B〕
 𦍢	〔文羊・YXyw・CJK-B〕
@@ -53061,7 +53061,7 @@
 𦍫	〔羊亠幺・XYAy・CJK-B〕
 𦍬	〔古羊・JXyg・CJK-B〕
 𦍭	〔羊瓦・XHwy・CJK-B〕
-𦍮	〔卝土コ十・HJDE・CJK-B〕
+𦍮	〔卝土ユ十・HJDE・CJK-B〕
 𦍯	〔䒑土女厶・XJCA・CJK-B〕
 𦍰	〔䒑土八廾・XJTH・CJK-B〕
 𦍱	〔羊𠂇又丶・XHWy・CJK-B〕
@@ -53358,7 +53358,7 @@
 𦒔	〔羽矛冂八口・CBOy・CJK-B〕
 𦒕	〔止舟刂羽・LRCz・CJK-B〕
 𦒖	〔羽田龷八・CKTy・CJK-B〕
-𦒗	〔羽丷𫩏丷日・CXKy・CJK-B〕
+𦒗	〔羽丷{橫日}丷日・CXKy・CJK-B〕
 𦒘	〔覀大巳羽・EFCx・CJK-B〕
 𦒙	〔其八厶羽・HTCq・CJK-B〕
 𦒚	〔羽⺌冂口攵・CNPy・CJK-B〕
@@ -53409,7 +53409,7 @@
 𦓇	〔耂匕匚口口口・JVOO・CJK-B〕
 𦓈	〔耂匕耂比耂・JVVJ・CJK-B〕
 𦓉	〔耂匕⻊夂口・JVVO・CJK-B〕
-𦓊	〔耂匕人一𫩏丷日・JVXK・CJK-B〕
+𦓊	〔耂匕人一{橫日}丷日・JVXK・CJK-B〕
 𦓋	〔耂比耂耂比耂・JVVJ・CJK-B〕⁇
 𦓌	〔禾女鬼耂匕・RCJV・CJK-B〕
 𦓍	〔耂日口口日十亻二・JKTE・CJK-B〕
@@ -53501,7 +53501,7 @@
 𦔣	〔一未戊𠃌母・GIBC・CJK-B〕
 𦔤	〔一未戊𠃌皿・GIBM・CJK-B〕
 𦔥	〔一未罒土䒑十・GIXE・CJK-B〕
-𦔦	〔一未人一𫩏丷日・GIXK・CJK-B〕
+𦔦	〔一未人一{橫日}丷日・GIXK・CJK-B〕
 𦔧	〔一未禺心・GIKR・CJK-B〕
 𦔨	〔一未日罒丆𠃌・GIGB・CJK-B〕⁇
 𦔩	〔一未鹿灬・GIWX・CJK-B〕
@@ -53897,7 +53897,7 @@
 𦚯	〔丿一厶⺝乚・PGSC・CJK-B〕⁇
 𦚰	〔月刀刀刀・SDDD・CJK-B〕
 𦚱	〔⺼耂匕・SJVi・CJK-B〕
-𦚲	〔⺼龴コ十・SDDE・CJK-B〕
+𦚲	〔⺼龴ユ十・SDDE・CJK-B〕
 𦚳	〔⺼亠厶儿・SYAV・CJK-B〕
 𦚴	〔龷八⺼・HTSv・CJK-B〕
 𦚵	〔⺼西・SEx・CJK-B〕
@@ -53928,7 +53928,7 @@
 𦛎	〔月山巾・SMMj・CJK-B〕
 𦛏	〔月大土・SFJv・CJK-B〕
 𦛐	〔月𠂆巴・SRDb・CJK-B〕
-𦛑	〔月ココ十・SDDE・CJK-B〕
+𦛑	〔月コユ十・SDDE・CJK-B〕
 𦛒	〔月𠂇⺝・SHSv・CJK-B〕
 𦛓	〔月臼・SUj・CJK-B〕
 𦛔	〔月𠂉乛龰・SPBL・CJK-B〕
@@ -53973,7 +53973,7 @@
 𦛻	〔月木寸・SIIc・CJK-B〕
 𦛼	〔⺼亻工八・STIT・CJK-B〕
 𦛽	〔月口人丶乛・SOWB・CJK-B〕
-𦛾	〔月忄コ十・SUDE・CJK-B〕
+𦛾	〔月忄ユ十・SUDE・CJK-B〕
 𦛿	〔月艹亠𠃊・SHYC・CJK-B〕
 𦜀	〔月口犬・SOJq・CJK-B〕
 𦜁	〔冂人人夂丰・MUVI・CJK-B〕
@@ -54014,7 +54014,7 @@
 𦜤	〔⺼𠂇二月・SHES・CJK-B〕
 𦜥	〔⺼山人丶龴・SMWD・CJK-B〕⁇
 𦜦	〔⺼口丨心・SOKR・CJK-B〕
-𦜧	〔⺼𫩏巴・SKDb・CJK-B〕
+𦜧	〔⺼{橫日}巴・SKDb・CJK-B〕
 𦜨	〔⺼止⺝・SLSv・CJK-B〕
 𦜩	〔⺼勹{两撇}心・SSSR・CJK-B〕
 𦜪	〔月卄一木・SHGI・CJK-B〕
@@ -54034,7 +54034,7 @@
 𦜸	〔月宀丆亅{两撇}・SWBS・CJK-B〕
 𦜹	〔戶攴⺝・RLSh・CJK-B〕
 𦜺	〔月彐𠂇又丶・SBDW・CJK-B〕
-𦜻	〔月コ十コ十・SDDE・CJK-B〕
+𦜻	〔月ユ十ユ十・SDDE・CJK-B〕
 𦜼	〔月{互中}丆丿巾・SCPM・CJK-B〕
 𦜽	〔冂人人大电・MUFK・CJK-B〕
 𦜾	〔牛冂刂冂人人・PMUn・CJK-B〕
@@ -54203,7 +54203,7 @@
 𦟡	〔白匕匚儿冂人人・UVUb・CJK-B〕
 𦟢	〔月豕日・SGKv・CJK-B〕
 𦟣	〔月{囟框}㐅八夊・SUTV・CJK-B〕
-𦟤	〔月⺶コ十・SXDE・CJK-B〕
+𦟤	〔月⺶ユ十・SXDE・CJK-B〕
 𦟥	〔月豕辶・SGZd・CJK-B〕
 𦟦	〔冂人人艹日大・MUKF・CJK-B〕
 𦟧	〔月匚丨口丨一口・SFGO・CJK-B〕
@@ -54238,7 +54238,7 @@
 𦠄	〔月幺幺戈人・SAFU・CJK-B〕
 𦠅	〔月彐工口寸・SBOI・CJK-B〕
 𦠆	〔月巳巳龷八・SDHT・CJK-B〕
-𦠇	〔月丷𫩏丷日・SXXK・CJK-B〕
+𦠇	〔月丷{橫日}丷日・SXXK・CJK-B〕
 𦠈	〔月矛冂儿口・SBVO・CJK-B〕
 𦠉	〔月士冖一口䒑・SJOX・CJK-B〕
 𦠊	〔月止止止・SLLL・CJK-B〕
@@ -54497,7 +54497,7 @@
 𦤇	〔自𠂆又・TRDz・CJK-B〕
 𦤈	〔自人人・TUUz・CJK-B〕
 𦤉	〔自八厶・TTAz・CJK-B〕
-𦤊	〔自コ十・TDEz・CJK-B〕
+𦤊	〔自ユ十・TDEz・CJK-B〕
 𦤋	〔𠃜自・DTz・CJK-B〕
 𦤌	〔自{两撇}𠄌ㄑ・TSTz・CJK-B〕
 𦤍	〔自干凵・TEAz・CJK-B〕
@@ -54832,7 +54832,7 @@
 𦩖	〔舟白千・RURo・CJK-B〕
 𦩗	〔舟火火・RXXo・CJK-B〕
 𦩘	〔舟宀一龰・RWLo・CJK-B〕
-𦩙	〔舟コ十コ十・RDEo・CJK-B〕
+𦩙	〔舟ユ十ユ十・RDEo・CJK-B〕
 𦩚	〔舟木攵・RIPo・CJK-B〕
 𦩛	〔舟{具上}八・RNTo・CJK-B〕
 𦩜	〔舟立口・RYOo・CJK-B〕
@@ -54882,7 +54882,7 @@
 𦪈	〔龶⺈攵舟・EQPR・CJK-B〕
 𦪉	〔舟氵隹・RZTo・CJK-B〕
 𦪊	〔舟戊上小・RFCo・CJK-B〕
-𦪋	〔舟⺶コ十・RXEo・CJK-B〕
+𦪋	〔舟⺶ユ十・RXEo・CJK-B〕
 𦪌	〔舟宀大丁口・RWOo・CJK-B〕
 𦪍	〔舟止一口䒑・RLXo・CJK-B〕
 𦪎	〔舟夂丰辶・RVZo・CJK-B〕
@@ -55076,7 +55076,7 @@
 𦭊	〔艹丿廾丶・HPHW・CJK-B〕
 𦭋	〔艹𠂇乚力・HHCC・CJK-B〕
 𦭌	〔艹上卜・HLLb・CJK-B〕
-𦭍	〔艹𠃍コ十・HBDE・CJK-B〕
+𦭍	〔艹𠃍ユ十・HBDE・CJK-B〕
 𦭎	〔艹工卩・HIAe・CJK-B〕
 𦭏	〔艹人彡・HUSs・CJK-B〕
 𦭐	〔艹𠂆丅丶・HRJW・CJK-B〕
@@ -55137,7 +55137,7 @@
 𦮇	〔艹七木・HFIv・CJK-B〕
 𦮈	〔艹厂一幺・HGGA・CJK-B〕
 𦮉	〔艹丌口・HHOv・CJK-B〕
-𦮊	〔艹ココ十・HDDE・CJK-B〕
+𦮊	〔艹コユ十・HDDE・CJK-B〕
 𦮋	〔艹亠𠃊巛・HYCC・CJK-B〕
 𦮌	〔艹厶⺝・HASv・CJK-B〕
 𦮍	〔艹勹十凵・HSEA・CJK-B〕
@@ -55344,7 +55344,7 @@
 𦱖	〔艹阝亻寸・HBTI・CJK-B〕
 𦱗	〔艹屮一日・HAGK・CJK-B〕
 𦱘	〔艹亠勹方・HYSY・CJK-B〕
-𦱙	〔艹月コ十・HSDE・CJK-B〕
+𦱙	〔艹月ユ十・HSDE・CJK-B〕
 𦱚	〔艹二厶二厶・HEEA・CJK-B〕
 𦱛	〔艹目夊・HNVu・CJK-B〕
 𦱜	〔艹禾勹丶・HRSW・CJK-B〕
@@ -55361,7 +55361,7 @@
 𦱧	〔屮屮屮木一・AAIG・CJK-B〕
 𦱨	〔艹弓人小・HDUC・CJK-B〕
 𦱩	〔艹勹口又一・HSDG・CJK-B〕
-𦱪	〔艹コ十コ十・HDDE・CJK-B〕
+𦱪	〔艹ユ十ユ十・HDDE・CJK-B〕
 𦱫	〔艹𠃊口冂丄・HCMO・CJK-B〕⁇
 𦱬	〔艹癶土・HDJv・CJK-B〕
 𦱭	〔艹丩匕廾・HAVH・CJK-B〕
@@ -55645,7 +55645,7 @@
 𦶃	〔艹{向框}土比・HUJV・CJK-B〕
 𦶄	〔艹氵日土・HZKJ・CJK-B〕
 𦶅	〔艹西辶・HEZd・CJK-B〕
-𦶆	〔艹糹コ十・HADE・CJK-B〕
+𦶆	〔艹糹ユ十・HADE・CJK-B〕
 𦶇	〔艹耳毛・HHRm・CJK-B〕
 𦶈	〔艹耳冂二・HHME・CJK-B〕
 𦶉	〔艹疒止匕・HWLV・CJK-B〕
@@ -56038,7 +56038,7 @@
 𦼌	〔千艹禺・RHKq・CJK-B〕
 𦼍	〔艹白宀一兀・HUGG・CJK-B〕
 𦼎	〔艹舟舟・HRRo・CJK-B〕
-𦼏	〔艹丷𫩏丷日・HXXK・CJK-B〕
+𦼏	〔艹丷{橫日}丷日・HXXK・CJK-B〕
 𦼐	〔艹火火火・HXXX・CJK-B〕
 𦼑	〔艹穴亻白・HWTU・CJK-B〕
 𦼒	〔艹厶厶厶人小丶・HACW・CJK-B〕
@@ -56632,7 +56632,7 @@
 𧅞	〔艹耳又艹耳又・HHHD・CJK-B〕
 𧅟	〔艹二厶木艹二厶木・HEAI・CJK-B〕⁇
 𧅠	〔艹亠丷丨刀{卬左}丶目目・HYNN・CJK-B〕
-𧅡	〔艹𫩏丷火火士口・HKJO・CJK-B〕
+𧅡	〔艹{橫日}丷火火士口・HKJO・CJK-B〕
 𧅢	〔艹骨𠂇工冂人人・HNUU・CJK-B〕
 𧅣	〔艹彐十片爿辶・HBAZ・CJK-B〕
 𧅤	〔艹宀𤣩⺈小貝・HWCN・CJK-B〕
@@ -56815,7 +56815,7 @@
 𧈕	〔由虍田皿・KLMy・CJK-B〕
 𧈖	〔車凵殳虍几・JAQc・CJK-B〕⁇
 𧈗	〔車凵殳虍几・JAQc・CJK-B〕⁇
-𧈘	〔虍⺈𫩏丷灬日・LQKh・CJK-B〕
+𧈘	〔虍⺈{橫日}丷灬日・LQKh・CJK-B〕
 𧈙	〔虍几士乛工一口寸・LQIh・CJK-B〕
 𧈚	〔虍一口䒑宀丁皿・LGMh・CJK-B〕
 𧈛	〔人文凵冂厶𠂆虍几・UYLQ・CJK-B〕⁇
@@ -57016,7 +57016,7 @@
 𧋞	〔虫艹一大・LHGF・CJK-B〕
 𧋟	〔虫𠂉母・LPCm・CJK-B〕
 𧋠	〔豕虫・GLvs・CJK-B〕
-𧋡	〔虫囗コ十・LNDE・CJK-B〕
+𧋡	〔虫囗ユ十・LNDE・CJK-B〕
 𧋢	〔虫十冖子・LEQB・CJK-B〕
 𧋣	〔虫{卬左}七口・LVFO・CJK-B〕
 𧋤	〔虫土厶刀・LJAD・CJK-B〕
@@ -57478,7 +57478,7 @@
 𧒬	〔虫{鳥上}衣・LUWy・CJK-B〕
 𧒭	〔虫口丄贝辶・LOMZ・CJK-B〕
 𧒮	〔虫口口口木・LOOI・CJK-B〕
-𧒯	〔虫人一𫩏丷日・LUXK・CJK-B〕
+𧒯	〔虫人一{橫日}丷日・LUXK・CJK-B〕
 𧒰	〔虫{微上}一几・LSGQ・CJK-B〕
 𧒱	〔虫亠{纟上}丿隹・LYPT・CJK-B〕
 𧒲	〔虫立丿彐〢八・LYLT・CJK-B〕
@@ -57852,7 +57852,7 @@
 𧘢	〔衤二{互中}・WECi・CJK-B〕
 𧘣	〔衤殳・WQsi・CJK-B〕
 𧘤	〔衤勹厶・WSAi・CJK-B〕
-𧘥	〔衤コ十・WDEi・CJK-B〕
+𧘥	〔衤ユ十・WDEi・CJK-B〕
 𧘦	〔衣王・WEvy・CJK-B〕
 𧘧	〔衤丿一一㇉・WPCi・CJK-B〕
 𧘨	〔衣弓丨・WDKy・CJK-B〕
@@ -57875,7 +57875,7 @@
 𧘹	〔衤大丶・WFWi・CJK-B〕
 𧘺	〔衤𠘨又・WQDi・CJK-B〕
 𧘻	〔衤𠂆丅・WRJi・CJK-B〕
-𧘼	〔衣𫩏・WKuy・CJK-B〕
+𧘼	〔衣{橫日}・WKuy・CJK-B〕
 𧘽	〔女又衣・CDWy・CJK-B〕
 𧘾	〔衤一丩𠄌ㄑ・WGTi・CJK-B〕⁇
 𧘿	〔衤一止・WGLi・CJK-B〕
@@ -57923,7 +57923,7 @@
 𧙩	〔衣歹刂・WGLy・CJK-B〕
 𧙪	〔亠囗口𧘇・YNOR・CJK-B〕⁇
 𧙫	〔衤耳・WHei・CJK-B〕
-𧙬	〔亠𫩏衣・YKWy・CJK-B〕
+𧙬	〔亠{橫日}衣・YKWy・CJK-B〕
 𧙭	〔弓弓衣・DDWg・CJK-B〕
 𧙮	〔衤䒑几刂・WXLi・CJK-B〕
 𧙯	〔丷夫衣・XJWy・CJK-B〕
@@ -58237,7 +58237,7 @@
 𧞣	〔衤厂日⺝犬・WGJi・CJK-B〕
 𧞤	〔衤艹隹又・WHDi・CJK-B〕
 𧞥	〔衣冂八口爫女・WMCy・CJK-B〕
-𧞦	〔衤⺈𫩏丷丂灬・WQXi・CJK-B〕
+𧞦	〔衤⺈{橫日}丷丂灬・WQXi・CJK-B〕
 𧞧	〔衤鹿灬・WWXi・CJK-B〕
 𧞨	〔衤匚口口口欠・WFQi・CJK-B〕
 𧞩	〔衤𡭔隹戈・WCFi・CJK-B〕
@@ -58471,7 +58471,7 @@
 𧢍	〔丷巾八攵見・XMPN・CJK-B〕
 𧢎	〔木㐅乂木見・ITIN・CJK-B〕
 𧢏	〔止厂土土見・LGNz・CJK-B〕
-𧢐	〔丷𫩏丷日見・XKKN・CJK-B〕
+𧢐	〔丷{橫日}丷日見・XKKN・CJK-B〕
 𧢑	〔見門日・NNKj・CJK-B〕
 𧢒	〔{微上}一几見・SGQN・CJK-B〕
 𧢓	〔{微上}一几見・SGQN・CJK-B〕
@@ -58925,7 +58925,7 @@
 𧩓	〔訁勹{两撇}心・YSSR・CJK-B〕
 𧩔	〔訁广䒑十・YWXE・CJK-B〕
 𧩕	〔訁立女・YYCv・CJK-B〕
-𧩖	〔訁コ十コ十・YDDE・CJK-B〕
+𧩖	〔訁ユ十ユ十・YDDE・CJK-B〕
 𧩗	〔訁工厂𠂇乚・YIHC・CJK-B〕
 𧩘	〔訁𠃌彡𠃌彡・YBBS・CJK-B〕
 𧩙	〔訁廴日一・YBKG・CJK-B〕⁇
@@ -59305,7 +59305,7 @@
 𧯏	〔厂禾禾八人口・GROc・CJK-B〕
 𧯐	〔八人口日罒丆𠃌・TUGB・CJK-B〕
 𧯑	〔八人口門日・TUNK・CJK-B〕
-𧯒	〔八人口丷𫩏丷日・TUXK・CJK-B〕
+𧯒	〔八人口丷{橫日}丷日・TUXK・CJK-B〕
 𧯓	〔八人口門丁口・TUEO・CJK-B〕
 𧯔	〔八人口自甲𠃋・TUKC・CJK-B〕
 𧯕	〔八人口⺊冖一八人目・TUUN・CJK-B〕
@@ -59484,7 +59484,7 @@
 𧲂	〔豕米夕㐄・GXFs・CJK-B〕
 𧲃	〔豕門文・GNYs・CJK-B〕
 𧲄	〔豕爫{爲下}・GVSs・CJK-B〕
-𧲅	〔豕丷𫩏丷日・GXKs・CJK-B〕
+𧲅	〔豕丷{橫日}丷日・GXKs・CJK-B〕
 𧲆	〔豕口丄貝・GONs・CJK-B〕
 𧲇	〔士冖一口殳豕・JQQG・CJK-B〕
 𧲈	〔豕𠂇工⺝辶・GHZs・CJK-B〕
@@ -59633,7 +59633,7 @@
 𧴗	〔豸亠{纟上}丿隹・VYTz・CJK-B〕
 𧴘	〔豸虍豕・VLGz・CJK-B〕
 𧴙	〔豸刀丶刀丶止止・VDLz・CJK-B〕
-𧴚	〔豸人一𫩏丷日・VUKz・CJK-B〕
+𧴚	〔豸人一{橫日}丷日・VUKz・CJK-B〕
 𧴛	〔豸⺈用刀牛・VQPz・CJK-B〕
 𧴜	〔豸口口口木・VOIz・CJK-B〕
 𧴝	〔豸氵卄一丨冂入入・VZVz・CJK-B〕
@@ -59880,7 +59880,7 @@
 𧸎	〔貝穴皿丁・NWEb・CJK-B〕
 𧸏	〔貝罒貝・NMNb・CJK-B〕
 𧸐	〔貝弋二貝・NFNb・CJK-B〕
-𧸑	〔丷𫩏丷日貝・XKKN・CJK-B〕
+𧸑	〔丷{橫日}丷日貝・XKKN・CJK-B〕
 𧸒	〔矢一口䒑貝・PGNi・CJK-B〕
 𧸓	〔貝氵耂日・NZKb・CJK-B〕
 𧸔	〔貝文一戈止・NYLb・CJK-B〕
@@ -59899,7 +59899,7 @@
 𧸡	〔貝䒑土丿扌戈・NXFb・CJK-B〕
 𧸢	〔貝〢䒑䒑未・NLIb・CJK-B〕
 𧸣	〔貝𡭔丿日冂厶・NCAb・CJK-B〕⁇
-𧸤	〔貝人一𫩏丷日・NUKb・CJK-B〕
+𧸤	〔貝人一{橫日}丷日・NUKb・CJK-B〕
 𧸥	〔貝止八人貝・NLNb・CJK-B〕
 𧸦	〔貝臣{⺮右}皿・NFMb・CJK-B〕
 𧸧	〔𦥑丂丄八貝・UETN・CJK-B〕
@@ -60330,7 +60330,7 @@
 𧿑	〔⻊弋・OFiz・CJK-B〕
 𧿒	〔⻊冖儿・OQVz・CJK-B〕
 𧿓	〔⻊匸亅乀・OFWz・CJK-B〕
-𧿔	〔⻊コ十・ODEz・CJK-B〕
+𧿔	〔⻊ユ十・ODEz・CJK-B〕
 𧿕	〔⻊亻匕・OTVz・CJK-B〕
 𧿖	〔⻊㐅凵・OTAz・CJK-B〕
 𧿗	〔丿亅丿ㄑ口龰・PBOL・CJK-B〕
@@ -60521,7 +60521,7 @@
 𨂐	〔⻊來・OIlz・CJK-B〕
 𨂑	〔⻊虍人・OLUz・CJK-B〕
 𨂒	〔⻊亠亻夂丶・OYWz・CJK-B〕
-𨂓	〔⻊コ十コ十・ODEz・CJK-B〕
+𨂓	〔⻊ユ十ユ十・ODEz・CJK-B〕
 𨂔	〔⻊亠厶⺝・OYSz・CJK-B〕
 𨂕	〔⻊木木・OIIz・CJK-B〕
 𨂖	〔⻊氵立・OZYz・CJK-B〕
@@ -60548,7 +60548,7 @@
 𨂫	〔⻊广䒑屮・OWAz・CJK-B〕
 𨂬	〔十冖田口龰・EQOL・CJK-B〕
 𨂭	〔⻊龶母・OECz・CJK-B〕
-𨂮	〔人一𫩏丷口龰・UGOL・CJK-B〕
+𨂮	〔人一{橫日}丷口龰・UGOL・CJK-B〕
 𨂯	〔⻊亻一日乂・OTTz・CJK-B〕
 𨂰	〔⻊丰刀大・OIFz・CJK-B〕
 𨂱	〔⻊冖車・OQJz・CJK-B〕
@@ -60787,7 +60787,7 @@
 𨆚	〔⻊大一口羽・OFCz・CJK-B〕
 𨆛	〔⻊𠂆十目辶・ORZz・CJK-B〕
 𨆜	〔火頁口龰・XGOL・CJK-B〕
-𨆝	〔⻊人一𫩏丷日・OUKz・CJK-B〕
+𨆝	〔⻊人一{橫日}丷日・OUKz・CJK-B〕
 𨆞	〔⻊冂龷辰・OMGz・CJK-B〕
 𨆟	〔⻊艹丿車一・OHGz・CJK-B〕
 𨆠	〔⻊艹癶一大・OHFz・CJK-B〕
@@ -61078,7 +61078,7 @@
 𨊽	〔車父・JTfc・CJK-B〕
 𨊾	〔車冂㐅・JMTc・CJK-B〕
 𨊿	〔車又又・JDDc・CJK-B〕
-𨋀	〔車コ十・JDEc・CJK-B〕
+𨋀	〔車ユ十・JDEc・CJK-B〕
 𨋁	〔車卩又・JADc・CJK-B〕
 𨋂	〔車八刀・JTDc・CJK-B〕
 𨋃	〔車乃丶・JAWc・CJK-B〕
@@ -61680,7 +61680,7 @@
 𨔗	〔口力口辶・OCOZ・CJK-B〕
 𨔘	〔龷木辶・HIZd・CJK-B〕
 𨔙	〔大石辶・FGZd・CJK-B〕
-𨔚	〔コ十コ十辶・DEEZ・CJK-B〕
+𨔚	〔ユ十ユ十辶・DEEZ・CJK-B〕
 𨔛	〔虍几辶・LQZh・CJK-B〕⁇
 𨔜	〔巛冂一刂辶・CMZc・CJK-B〕
 𨔝	〔丿車一辶・PJGZ・CJK-B〕
@@ -61883,7 +61883,7 @@
 𨗢	〔覀衣辶・EWZx・CJK-B〕
 𨗣	〔土囗丿𠃊日辶・JNKZ・CJK-B〕
 𨗤	〔人一卅一方辶・UGYZ・CJK-B〕⁇
-𨗥	〔人一𫩏丷日辶・UGKZ・CJK-B〕
+𨗥	〔人一{橫日}丷日辶・UGKZ・CJK-B〕
 𨗦	〔僉辶・UZdq・CJK-B〕
 𨗧	〔⺈厂八言辶・QGYZ・CJK-B〕
 𨗨	〔艹韋辶・HDZd・CJK-B〕
@@ -62032,7 +62032,7 @@
 𨙷	〔二{丿丨}阝・ETBe・CJK-B〕
 𨙸	〔十又阝・EDBv・CJK-B〕
 𨙹	〔𡭔丿阝・CPBx・CJK-B〕
-𨙺	〔コ十阝・DEBv・CJK-B〕
+𨙺	〔ユ十阝・DEBv・CJK-B〕
 𨙻	〔冂二阝・MEBv・CJK-B〕
 𨙼	〔壬阝・RBvr・CJK-B〕
 𨙽	〔人丶乛阝・UWBB・CJK-B〕⁇
@@ -62106,7 +62106,7 @@
 𨛁	〔羊阝・XBvy・CJK-B〕
 𨛂	〔火又阝・XDBv・CJK-B〕
 𨛃	〔彐彐阝・BBBv・CJK-B〕
-𨛄	〔ココ十阝・DDEB・CJK-B〕
+𨛄	〔コユ十阝・DDEB・CJK-B〕
 𨛅	〔夕夕阝・QQBx・CJK-B〕
 𨛆	〔丬匕一阝・XVGB・CJK-B〕
 𨛇	〔冂人人阝・MUUB・CJK-B〕
@@ -62174,8 +62174,8 @@
 𨜅	〔大丁口阝・FEBd・CJK-B〕
 𨜆	〔大丷一丂阝・FXBd・CJK-B〕
 𨜇	〔且巛阝・NCBq・CJK-B〕
-𨜈	〔コ十コ十阝・DEEB・CJK-B〕
-𨜉	〔コ十彐丿阝・DEPB・CJK-B〕
+𨜈	〔ユ十ユ十阝・DEEB・CJK-B〕
+𨜉	〔ユ十彐丿阝・DEPB・CJK-B〕
 𨜊	〔{卬左}丿彐厶阝・VPAB・CJK-B〕
 𨜋	〔山古阝・MJBv・CJK-B〕
 𨜌	〔宀尸コ阝・WDDB・CJK-B〕
@@ -62327,10 +62327,10 @@
 𨞞	〔月月皿阝・SSMB・CJK-B〕
 𨞟	〔耳工㐅乂阝・HIBe・CJK-B〕
 𨞠	〔口巴龷八口巴・ODOD・CJK-B〕
-𨞡	〔人一𫩏丷日口巴・UGOD・CJK-B〕
+𨞡	〔人一{橫日}丷日口巴・UGOD・CJK-B〕
 𨞢	〔十人人人冫ㄑ亅阝・EUBB・CJK-B〕⁇
 𨞣	〔止戊一𣥂阝・LFBz・CJK-B〕
-𨞤	〔入一𫩏丷日阝・VGBr・CJK-B〕
+𨞤	〔入一{橫日}丷日阝・VGBr・CJK-B〕
 𨞥	〔亠囗口口十阝・YNEB・CJK-B〕
 𨞦	〔虍豕口巴・LGDh・CJK-B〕
 𨞧	〔火火夕㐄阝・XXFB・CJK-B〕
@@ -62679,7 +62679,7 @@
 𨣾	〔弓爾酉・DJEg・CJK-B〕
 𨣿	〔酉鹿米・EWXy・CJK-B〕
 𨤀	〔酉雨口口口・EJOy・CJK-B〕
-𨤁	〔酉山𫩏丷火火・EMXy・CJK-B〕
+𨤁	〔酉山{橫日}丷火火・EMXy・CJK-B〕
 𨤂	〔酉火火冖酉・EXEy・CJK-B〕
 𨤃	〔酉艹戈爿臣・EHFy・CJK-B〕
 𨤄	〔酉⺮門月・EPSy・CJK-B〕
@@ -63277,7 +63277,7 @@
 𨭔	〔糹糸金・AAVv・CJK-B〕
 𨭕	〔釒{祭上}一口䒑・VSOX・CJK-B〕
 𨭖	〔釒亠囗口日一・VYKG・CJK-B〕
-𨭗	〔釒人一𫩏丷日・VUXK・CJK-B〕
+𨭗	〔釒人一{橫日}丷日・VUXK・CJK-B〕
 𨭘	〔釒黽・VOm・CJK-B〕
 𨭙	〔釒宀一龷八巳・VWTD・CJK-B〕
 𨭚	〔釒覀示刂・VEFL・CJK-B〕
@@ -63621,7 +63621,7 @@
 𨲬	〔镸矛攵力・EBCc・CJK-B〕
 𨲭	〔镸夭口冂口・EROc・CJK-B〕
 𨲮	〔镸火火冖力・EXCc・CJK-B〕
-𨲯	〔镸丷𫩏丷日・EXKc・CJK-B〕
+𨲯	〔镸丷{橫日}丷日・EXKc・CJK-B〕
 𨲰	〔镸毛月月・ERSc・CJK-B〕
 𨲱	〔镸厶厶厶人小丶・EAWc・CJK-B〕
 𨲲	〔镸山日勹人𠃊・EMCc・CJK-B〕
@@ -63645,7 +63645,7 @@
 𨳄	〔镸⺧儿⺧儿貝・EPNc・CJK-B〕
 𨳅	〔镸穴立⺝{龍右}・EWLc・CJK-B〕
 𨳆	〔镸十口冖口口一龷𧘇・EERc・CJK-B〕
-𨳇	〔一⊖丨彐一一⊖𠃊一𠃌一・・CJK-B〕⁇
+𨳇	〔一尸一乚𠃌・GDCB・CJK-B〕
 𨳈	〔𠃊一𠃌丨彐・CGKB・CJK-B〕
 𨳉	〔門乀・NWum・CJK-B〕
 𨳊	〔門九・NRjm・CJK-B〕
@@ -63668,7 +63668,7 @@
 𨳛	〔門乃丶・NAWm・CJK-B〕
 𨳜	〔門𠂆丅・NRJm・CJK-B〕
 𨳝	〔門壬・NRrm・CJK-B〕
-𨳞	〔門コ十・NDEm・CJK-B〕
+𨳞	〔門ユ十・NDEm・CJK-B〕
 𨳟	〔門丩又・NADm・CJK-B〕
 𨳠	〔門冂㐅・NMTm・CJK-B〕
 𨳡	〔門卝・NHvm・CJK-B〕
@@ -63726,7 +63726,7 @@
 𨴕	〔門𠕁一・NMGm・CJK-B〕
 𨴖	〔門亻{两撇}ㄑ・NTTm・CJK-B〕⁇
 𨴗	〔門至・NFzm・CJK-B〕
-𨴘	〔門厶コ十・NAEm・CJK-B〕
+𨴘	〔門厶ユ十・NAEm・CJK-B〕
 𨴙	〔二門火・ENXe・CJK-B〕
 𨴚	〔干干門・EENg・CJK-B〕
 𨴛	〔門耂匕・NJVm・CJK-B〕
@@ -63843,7 +63843,7 @@
 𨶊	〔亻隹門・TTNm・CJK-B〕
 𨶋	〔門癶示・NDFm・CJK-B〕
 𨶌	〔門米辶・NXZm・CJK-B〕
-𨶍	〔門𫩏丷日・NKKm・CJK-B〕
+𨶍	〔門{橫日}丷日・NKKm・CJK-B〕
 𨶎	〔門口貝・NONm・CJK-B〕
 𨶏	〔門缶𠃍大・NPFm・CJK-B〕
 𨶐	〔門千口辶・NRZm・CJK-B〕
@@ -64346,7 +64346,7 @@
 𨾁	〔入上示彐氺・VLAr・CJK-B〕
 𨾂	〔彐氺田龷八・BAHT・CJK-B〕
 𨾃	〔厶口豕彐氺・AOAi・CJK-B〕
-𨾄	〔𫩏丷火火彐氺・KXBA・CJK-B〕
+𨾄	〔{橫日}丷火火彐氺・KXBA・CJK-B〕
 𨾅	〔七隹・FTwq・CJK-B〕
 𨾆	〔𠃌㇀隹・BGTw・CJK-B〕
 𨾇	〔卜隹・LTwb・CJK-B〕
@@ -64416,7 +64416,7 @@
 𨿇	〔隹冂人人・TMUw・CJK-B〕
 𨿈	〔隹灬厶・TXAw・CJK-B〕
 𨿉	〔彐彐隹・BBTw・CJK-B〕
-𨿊	〔龴コ十隹・DDET・CJK-B〕
+𨿊	〔龴ユ十隹・DDET・CJK-B〕
 𨿋	〔一巛工隹・GCIT・CJK-B〕
 𨿌	〔甫隹・ETwf・CJK-B〕
 𨿍	〔丿扌戈隹・PFFT・CJK-B〕
@@ -64624,7 +64624,7 @@
 𩂗	〔雨屮凵・JAAy・CJK-B〕
 𩂘	〔雨甲・JKjy・CJK-B〕
 𩂙	〔雨人夕・JUQy・CJK-B〕
-𩂚	〔雨⊖丆亅{两撇}丿乀・・CJK-B〕⁇
+𩂚	〔雨丆亅丿乀・JGWy・CJK-B〕
 𩂛	〔雨亻寸・JTIy・CJK-B〕
 𩂜	〔雨勹{两撇}丶・JSWy・CJK-B〕
 𩂝	〔雨口乂・JOTy・CJK-B〕
@@ -64672,7 +64672,7 @@
 𩃇	〔雨土勹冫・JJXy・CJK-B〕
 𩃈	〔雨口龰・JOLy・CJK-B〕
 𩃉	〔雨口𠃑大・JOFy・CJK-B〕
-𩃊	〔雨？・・CJK-B〕⁇
+𩃊	〔⻗⺈巳十・JQEy・CJK-B〕
 𩃋	〔雨一廾彡・JGSy・CJK-B〕
 𩃌	〔雨二厶丿七・JEFy・CJK-B〕
 𩃍	〔雨氵八厶・JZAy・CJK-B〕
@@ -64855,7 +64855,7 @@
 𩅾	〔雨二厶其𠃊・JECy・CJK-B〕
 𩅿	〔雨氵甫寸・JZIy・CJK-B〕
 𩆀	〔雨氵隹又・JZDy・CJK-B〕
-𩆁	〔雨人一𫩏丷日・JUKy・CJK-B〕
+𩆁	〔雨人一{橫日}丷日・JUKy・CJK-B〕
 𩆂	〔雨冫欠貝・JXNy・CJK-B〕
 𩆃	〔雨冫欠貝・JXNy・CJK-B〕
 𩆄	〔雨亠{纟上}丿隹・JYTy・CJK-B〕
@@ -64957,7 +64957,7 @@
 𩇤	〔龶⺝亠𠃊口月女⺄キ・ESBF・CJK-B〕⁇
 𩇥	〔龶⺝艹犭隹又・ESTD・CJK-B〕
 𩇦	〔三㇀丿丨三一・IGGs・CJK-B〕⁇
-𩇧	〔𩇧・・CJK-B〕⁇
+𩇧	〔非丷・LXuf・CJK-B〕
 𩇨	〔{丿丨}冫ㄑ冫ㄑ・TXXT・CJK-B〕
 𩇩	〔大非・FLfd・CJK-B〕
 𩇪	〔非巾・LMjf・CJK-B〕
@@ -64989,7 +64989,7 @@
 𩈄	〔面刀丶・GDWm・CJK-B〕⁇
 𩈅	〔面干・GEgm・CJK-B〕
 𩈆	〔面巴・GDbm・CJK-B〕
-𩈇	〔面コ十・GDEm・CJK-B〕
+𩈇	〔面ユ十・GDEm・CJK-B〕
 𩈈	〔面丰・GIfm・CJK-B〕
 𩈉	〔面冖儿・GQVm・CJK-B〕
 𩈊	〔面尤・GJom・CJK-B〕
@@ -65014,7 +65014,7 @@
 𩈝	〔面𠃜又・GDDm・CJK-B〕
 𩈞	〔面𠃊口乂・GCTm・CJK-B〕⁇
 𩈟	〔面彐彐・GBBm・CJK-B〕
-𩈠	〔丿𫩏儿面・PKVG・CJK-B〕⁇
+𩈠	〔丿{橫日}儿面・PKVG・CJK-B〕⁇
 𩈡	〔面一巛工・GGIm・CJK-B〕
 𩈢	〔面刀丶心・GDRm・CJK-B〕
 𩈣	〔面人丶乛口・GUOm・CJK-B〕
@@ -65193,7 +65193,7 @@
 𩋐	〔革艹殳・HHQg・CJK-B〕
 𩋑	〔革一厶木・HGIg・CJK-B〕⁇
 𩋒	〔革月月・HSSg・CJK-B〕
-𩋓	〔革コ十コ十・HDEg・CJK-B〕
+𩋓	〔革ユ十ユ十・HDEg・CJK-B〕
 𩋔	〔革亻土土・HTJg・CJK-B〕
 𩋕	〔革大丷己・HFDg・CJK-B〕
 𩋖	〔革艹亻匕・HHVg・CJK-B〕
@@ -65597,7 +65597,7 @@
 𩑤	〔𠂉十頁・PEGy・CJK-B〕
 𩑥	〔{卬左}七頁・VFGy・CJK-B〕
 𩑦	〔⺈又頁・QDGy・CJK-B〕
-𩑧	〔コ十頁・DEGy・CJK-B〕
+𩑧	〔ユ十頁・DEGy・CJK-B〕
 𩑨	〔上乙頁・LBGs・CJK-B〕
 𩑩	〔牜頁・PGyn・CJK-B〕
 𩑪	〔卄一頁・HGGy・CJK-B〕
@@ -66051,7 +66051,7 @@
 𩘪	〔風穴人口・QWOf・CJK-B〕
 𩘫	〔風氵𠂉母・QZCf・CJK-B〕
 𩘬	〔風艮辶・QBZf・CJK-B〕
-𩘭	〔風⺶コ十・QXEf・CJK-B〕
+𩘭	〔風⺶ユ十・QXEf・CJK-B〕
 𩘮	〔士方攵風・JYPQ・CJK-B〕
 𩘯	〔風車丶寸・QJIf・CJK-B〕
 𩘰	〔風宀亻丆日・QWKf・CJK-B〕
@@ -66156,7 +66156,7 @@
 𩚓	〔巛食・CVsc・CJK-B〕
 𩚔	〔飠女・VCvs・CJK-B〕
 𩚕	〔飠人丶乛・VUBs・CJK-B〕
-𩚖	〔飠コ十・VDEs・CJK-B〕
+𩚖	〔飠ユ十・VDEs・CJK-B〕
 𩚗	〔飠冖几・VQQs・CJK-B〕
 𩚘	〔飠勹厶・VSAs・CJK-B〕
 𩚙	〔飠𡭔丿・VCPs・CJK-B〕
@@ -66570,7 +66570,7 @@
 𩠱	〔䒑自𠂤辶・XTUZ・CJK-B〕
 𩠲	〔䒑自囗戈口一・XTOG・CJK-B〕
 𩠳	〔䒑自木隹・XTIT・CJK-B〕
-𩠴	〔䒑自人一𫩏丷日・XTXK・CJK-B〕
+𩠴	〔䒑自人一{橫日}丷日・XTXK・CJK-B〕
 𩠵	〔䒑自宀一龷八木・XTTI・CJK-B〕
 𩠶	〔女木口攵䒑自・CIXT・CJK-B〕
 𩠷	〔镸彡𠂇又丶䒑自・ESTc・CJK-B〕
@@ -66773,7 +66773,7 @@
 𩣼	〔馬穴工・EWIm・CJK-B〕
 𩣽	〔馬勹米・ESXm・CJK-B〕
 𩣾	〔馬阝𠂉也・EBBm・CJK-B〕
-𩣿	〔馬コ十コ十・EDEm・CJK-B〕
+𩣿	〔馬ユ十ユ十・EDEm・CJK-B〕
 𩤀	〔馬䒑〢䒑・EXXm・CJK-B〕
 𩤁	〔馬囗禾・ENRm・CJK-B〕
 𩤂	〔馬⺈臼・EQUm・CJK-B〕
@@ -66951,7 +66951,7 @@
 𩦮	〔馬罒一口𧘇・EMRm・CJK-B〕
 𩦯	〔馬罒大䒑十・EMEm・CJK-B〕
 𩦰	〔馬亻人人人人一丂・ETEm・CJK-B〕
-𩦱	〔馬人一𫩏丷日・EUKm・CJK-B〕
+𩦱	〔馬人一{橫日}丷日・EUKm・CJK-B〕
 𩦲	〔馬乂⁛凵八夊・ETVm・CJK-B〕
 𩦳	〔馬立臼乚・EYCm・CJK-B〕
 𩦴	〔馬門亠巾・ENMm・CJK-B〕
@@ -67608,7 +67608,7 @@
 𩰿	〔夫夫一口冂䒑丨・JJKf・CJK-B〕
 𩱀	〔卝土八口冂䒑丨・HJXK・CJK-B〕⁇
 𩱁	〔䒑夫一口冂䒑丨・XJXK・CJK-B〕
-𩱂	〔一口冂䒑丨コ十コ十・GODE・CJK-B〕
+𩱂	〔一口冂䒑丨ユ十ユ十・GODE・CJK-B〕
 𩱃	〔一口冂䒑丨彐キ廴・GOFB・CJK-B〕
 𩱄	〔一口冂䒑丨而大・GOGF・CJK-B〕
 𩱅	〔㐅凵八夊一口冂䒑丨・TAKi・CJK-B〕
@@ -67651,7 +67651,7 @@
 𩱪	〔弓且一冂人弓一口冂䒑丨・DNKg・CJK-B〕
 𩱫	〔弓木口辶弓一口冂䒑丨・DIKg・CJK-B〕
 𩱬	〔𦥑木木冖一口冂䒑丨・UIXK・CJK-B〕
-𩱭	〔弓丷𫩏丷日弓一口冂䒑丨・DXKg・CJK-B〕
+𩱭	〔弓丷{橫日}丷日弓一口冂䒑丨・DXKg・CJK-B〕
 𩱮	〔弓氵匚コ木弓一口冂䒑丨・DZKg・CJK-B〕
 𩱯	〔弓米亠厶{丿丨乚}弓一口冂䒑丨・DXKg・CJK-B〕
 𩱰	〔弓耂日水弓一口冂䒑丨・DJKg・CJK-B〕
@@ -68918,7 +68918,7 @@
 𪅝	〔鳥鳥・UUnn・CJK-B〕
 𪅞	〔勹米大鳥・SXFU・CJK-B〕
 𪅟	〔鳥广彐月丨・UWKn・CJK-B〕
-𪅠	〔⺶コ十鳥・XDUy・CJK-B〕
+𪅠	〔⺶ユ十鳥・XDUy・CJK-B〕
 𪅡	〔鳥羽人彡・UCSn・CJK-B〕
 𪅢	〔宀而丁鳥・WGEU・CJK-B〕
 𪅣	〔大人人月鳥・FUUd・CJK-B〕
@@ -69476,7 +69476,7 @@
 𪎋	〔龶夊⺊口・EVLO・CJK-B〕
 𪎌	〔龶夊一米・EVGX・CJK-B〕
 𪎍	〔三夂卜・IVLs・CJK-B〕
-𪎎	〔？丆口・・CJK-B〕⁇
+𪎎	〔丰乀丆囗口・IWOf・CJK-B〕
 𪎏	〔龶夊宀示・EVWF・CJK-B〕
 𪎐	〔龶夊卄一儿冖巾・EVQM・CJK-B〕
 𪎑	〔麻几・WQjm・CJK-B〕
@@ -69576,7 +69576,7 @@
 𪏯	〔禾人冫ㄑ亅勹丿・RUSP・CJK-B〕
 𪏰	〔禾人氺日・RUAK・CJK-B〕
 𪏱	〔禾人冫ㄑ亅八丂・RUTE・CJK-B〕
-𪏲	〔禾人冫ㄑ亅コ十・RUDE・CJK-B〕
+𪏲	〔禾人冫ㄑ亅ユ十・RUDE・CJK-B〕
 𪏳	〔禾人冫ㄑ亅二{互中}・RUEC・CJK-B〕
 𪏴	〔禾人冫ㄑ亅𠂆丅・RURJ・CJK-B〕
 𪏵	〔禾人冫ㄑ亅勹{两撇}・RUSS・CJK-B〕
@@ -69613,7 +69613,7 @@
 𪐔	〔禾人冫ㄑ亅口丄貝辶・RUNZ・CJK-B〕
 𪐕	〔士𠃜殳禾人冫ㄑ亅卄二・JDHE・CJK-B〕
 𪐖	〔禾人冫ㄑ亅立⺝{龍右}・RUSL・CJK-B〕
-𪐗	〔𫩏丷火火・KXXX・CJK-B〕
+𪐗	〔{橫日}丷火火・KXXX・CJK-B〕
 𪐘	〔黑乙・MBih・CJK-B〕
 𪐙	〔黑卜・MLbh・CJK-B〕
 𪐚	〔黑丂・MEkh・CJK-B〕
@@ -69749,7 +69749,7 @@
 𪒜	〔黑車丶心・MJRh・CJK-B〕
 𪒝	〔黑雨二厶・MJAh・CJK-B〕
 𪒞	〔日⺝犬黑・KSJM・CJK-B〕
-𪒟	〔黑丷𫩏丷日・MXKh・CJK-B〕
+𪒟	〔黑丷{橫日}丷日・MXKh・CJK-B〕
 𪒠	〔黑乛耳攵・MBPh・CJK-B〕⁇
 𪒡	〔黑彐氺辶・MBZh・CJK-B〕
 𪒢	〔黑〢䒑䒑夫・MLJh・CJK-B〕
@@ -69774,7 +69774,7 @@
 𪒵	〔𦥑冂一口冖黑・UMQM・CJK-B〕
 𪒶	〔黑〢䒑䒑土寸・MLIh・CJK-B〕
 𪒷	〔牜疒卄二黑・PWMn・CJK-B〕
-𪒸	〔𫩏丷火火〢䒑䒑古又・KXJD・CJK-B〕
+𪒸	〔{橫日}丷火火〢䒑䒑古又・KXJD・CJK-B〕
 𪒹	〔黑⺮戊一口・MPOh・CJK-B〕
 𪒺	〔禾人冫ㄑ亅勹丿黑・RUPM・CJK-B〕
 𪒻	〔黑大黑・MFMh・CJK-B〕
@@ -69848,7 +69848,7 @@
 𪓿	〔爾黽・JOme・CJK-B〕
 𪔀	〔丷冂冫ㄑ丨攵黽・XMPO・CJK-B〕
 𪔁	〔禾彐彐灬黽・RBXO・CJK-B〕
-𪔂	〔目？・・CJK-B〕⁇
+𪔂	〔目𠃑一丿丨一𠃌・NCGB・CJK-B〕⁇
 𪔃	〔冂目爿片・MNAT・CJK-B〕
 𪔄	〔土目爿片・JNAT・CJK-B〕
 𪔅	〔口目爿片・ONAT・CJK-B〕
@@ -70054,7 +70054,7 @@
 𪗍	〔亠丷丨刀{卬左}丶{丿丨}二十彐女・YXBC・CJK-B〕
 𪗎	〔亠丷丨刀{卬左}丶𠘨頁・YXQG・CJK-B〕
 𪗏	〔亠丷丨刀{卬左}丶{丿丨}二魚・YXEQ・CJK-B〕
-𪗐	〔亠丷丨刀{卬左}丶囗丷𫩏丷日・YXXK・CJK-B〕
+𪗐	〔亠丷丨刀{卬左}丶囗丷{橫日}丷日・YXXK・CJK-B〕
 𪗑	〔亠丷丨刀{卬左}丶{丿丨}二十{具上}夂・YXNV・CJK-B〕⁇
 𪗒	〔亠丷丨刀{卬左}丶{丿丨}示十{具上}夂・YXNV・CJK-B〕⁇
 𪗓	〔亠丷丨刀{卬左}丶{丿丨}示十{具上}八夊・YXTV・CJK-B〕
@@ -70154,7 +70154,7 @@
 𪘱	〔齒㐅𠂇⺝・LTSc・CJK-B〕
 𪘲	〔齒宀且・LWNc・CJK-B〕
 𪘳	〔齒尸屮凵・LDAc・CJK-B〕
-𪘴	〔齒コ十コ十・LDEc・CJK-B〕
+𪘴	〔齒ユ十ユ十・LDEc・CJK-B〕
 𪘵	〔齒土八夊・LJVc・CJK-B〕
 𪘶	〔齒門・LNmc・CJK-B〕
 𪘷	〔戶𠂆丅齒・RRLh・CJK-B〕
@@ -70211,7 +70211,7 @@
 𪙪	〔厂禾禾齒・GRLc・CJK-B〕
 𪙫	〔齒虍〢䒑・LLXc・CJK-B〕
 𪙬	〔千口千口齒・ROLq・CJK-B〕
-𪙭	〔齒丷𫩏丷日・LXKc・CJK-B〕
+𪙭	〔齒丷{橫日}丷日・LXKc・CJK-B〕
 𪙮	〔齒人人人人日・LUKc・CJK-B〕
 𪙯	〔亠𠂇丨丨亠龶齒・YHEL・CJK-B〕
 𪙰	〔齒艹日勹人𠃊・LHCc・CJK-B〕
@@ -70268,7 +70268,7 @@
 𪚣	〔士𠃜殳立⺝{龍右}・JDSL・CJK-B〕
 𪚤	〔立⺝{龍右}亠𠃊月王・YSEl・CJK-B〕
 𪚥	〔立⺝{龍右}立⺝{龍右}立⺝{龍右}立⺝{龍右}・YSLl・CJK-B〕
-𪚦	〔𪚦・・CJK-B〕⁇
+𪚦	〔一{龜下}・GOm・CJK-B〕
 𪚧	〔⺈口乚彐彐甲・QOBK・CJK-B〕
 𪚨	〔穴一乚彐彐囗㐅・WGTx・CJK-B〕⁇
 𪚩	〔口丿{龜下}・OPOm・CJK-B〕⁇
@@ -70369,7 +70369,7 @@
 𪜨	〔亻一女・TGCv・CJK-C〕
 𪜩	〔亻勹厶・TSAi・CJK-C〕
 𪜪	〔亻勹匕・TSVi・CJK-C〕
-𪜫	〔亻コ十・TDEu・CJK-C〕
+𪜫	〔亻ユ十・TDEu・CJK-C〕
 𪜬	〔人未・UIw・CJK-C〕
 𪜭	〔亻囗コ・TNDu・CJK-C〕
 𪜮	〔亻目・TNv・CJK-C〕
@@ -71184,7 +71184,7 @@
 𪩗	〔山革𠂆丅・MHRJ・CJK-C〕
 𪩘	〔山十冂䒑十犬・MEEJ・CJK-C〕
 𪩙	〔山卄一口土寸・MHJI・CJK-C〕
-𪩚	〔山人一𫩏丷日・MUXK・CJK-C〕
+𪩚	〔山人一{橫日}丷日・MUXK・CJK-C〕
 𪩛	〔山丰刀止人凵・MIUA・CJK-C〕
 𪩜	〔山㐅乂鬼・MTTU・CJK-C〕
 𪩝	〔山䒑土耳又・MXHD・CJK-C〕
@@ -71693,7 +71693,7 @@
 𪱔	〔日𦥑夊冖見・KUQN・CJK-C〕
 𪱕	〔日耳⺈丨・KHQK・CJK-C〕
 𪱖	〔日隹𠃍大・KTBF・CJK-C〕
-𪱗	〔丷𫩏丷日人丶乛・XKWB・CJK-C〕⁇
+𪱗	〔丷{橫日}丷日人丶乛・XKWB・CJK-C〕⁇
 𪱘	〔冂龷月覀女・MHEC・CJK-C〕
 𪱙	〔月又・SDo・CJK-C〕
 𪱚	〔月上・SLs・CJK-C〕
@@ -71791,7 +71791,7 @@
 𪲶	〔木耂丂口・IJEO・CJK-C〕
 𪲷	〔木罒木・IMIv・CJK-C〕
 𪲸	〔木冂木口・IMIO・CJK-C〕
-𪲹	〔〢{⺮右}𫩏木・LPKI・CJK-C〕
+𪲹	〔〢{⺮右}{橫日}木・LPKI・CJK-C〕
 𪲺	〔木日{卬左}丿卩・IKPA・CJK-C〕
 𪲻	〔木龵一丰・IRGI・CJK-C〕
 𪲼	〔木亻言・ITYv・CJK-C〕
@@ -71883,7 +71883,7 @@
 𪴒	〔木瓜瓜瓜・IRRR・CJK-C〕
 𪴓	〔木丿虫隹・IPLT・CJK-C〕
 𪴔	〔木宀大丷日小・IWKC・CJK-C〕
-𪴕	〔木尸丷𫩏丷日・IDXK・CJK-C〕
+𪴕	〔木尸丷{橫日}丷日・IDXK・CJK-C〕
 𪴖	〔木雨木木・IJII・CJK-C〕
 𪴗	〔木丬匕田龷八・IXHT・CJK-C〕
 𪴘	〔木日雨二厶・IKEA・CJK-C〕
@@ -72863,7 +72863,7 @@
 𫃦	〔糹且又・ANDo・CJK-C〕
 𫃧	〔糹⺈电・AQKd・CJK-C〕
 𫃨	〔糹丷电・AXKd・CJK-C〕
-𫃩	〔糹女コ十・ACDE・CJK-C〕
+𫃩	〔糹女ユ十・ACDE・CJK-C〕
 𫃪	〔糹大凵⺀・AFAZ・CJK-C〕
 𫃫	〔糹石廾・AGHv・CJK-C〕
 𫃬	〔糹上小又・ALCD・CJK-C〕
@@ -72961,7 +72961,7 @@
 𫅈	〔罒弓弓一八・MDTw・CJK-C〕
 𫅉	〔罒酉己・MEDw・CJK-C〕
 𫅊	〔罒口古口・MOOw・CJK-C〕
-𫅋	〔罒人一𫩏丷日・MUKw・CJK-C〕
+𫅋	〔罒人一{橫日}丷日・MUKw・CJK-C〕
 𫅌	〔罒土䒑十土寸・MJIw・CJK-C〕
 𫅍	〔罒立⺝{龍右}・MYLw・CJK-C〕
 𫅎	〔羊凵・XAuy・CJK-C〕
@@ -72983,7 +72983,7 @@
 𫅞	〔一彐厶羊䒑口・GBXO・CJK-C〕⁇
 𫅟	〔䒑土儿攴・XJVL・CJK-C〕
 𫅠	〔䒑土大艹世木・XJHI・CJK-C〕
-𫅡	〔⺶コ十羊䒑口・XDOy・CJK-C〕
+𫅡	〔⺶ユ十羊䒑口・XDOy・CJK-C〕
 𫅢	〔土羽・JCy・CJK-C〕
 𫅣	〔一兀羽・GGCy・CJK-C〕
 𫅤	〔羽人丶龴・CUDy・CJK-C〕
@@ -73639,7 +73639,7 @@
 𫏮	〔身䒑屮辶・TXZs・CJK-C〕
 𫏯	〔身白匕殳・TUQs・CJK-C〕
 𫏰	〔身矢一口䒑・TPXs・CJK-C〕
-𫏱	〔身人一𫩏丷日・TUKs・CJK-C〕
+𫏱	〔身人一{橫日}丷日・TUKs・CJK-C〕
 𫏲	〔車二㇉・JECc・CJK-C〕
 𫏳	〔車戈・JFgc・CJK-C〕
 𫏴	〔車白・JUbc・CJK-C〕
@@ -73829,7 +73829,7 @@
 𫒬	〔釒亻夕夕・VTQQ・CJK-C〕
 𫒭	〔釒宀王丶・VWEW・CJK-C〕
 𫒮	〔釒宀弓厶・VWDA・CJK-C〕
-𫒯	〔釒厶𫩏儿・VAKV・CJK-C〕
+𫒯	〔釒厶{橫日}儿・VAKV・CJK-C〕
 𫒰	〔釒耂匕㐄・VJVF・CJK-C〕
 𫒱	〔釒日矢・VKPi・CJK-C〕
 𫒲	〔釒龵一丰・VRGI・CJK-C〕
@@ -74213,7 +74213,7 @@
 𫘬	〔马爫幺大・AVFm・CJK-C〕
 𫘭	〔马大㐅乂㐅乂・AFTm・CJK-C〕
 𫘮	〔马亠丷冂古・AYJm・CJK-C〕
-𫘯	〔马丷𫩏丷日・AXKm・CJK-C〕
+𫘯	〔马丷{橫日}丷日・AXKm・CJK-C〕
 𫘰	〔马亠囗口日一・AYGm・CJK-C〕
 𫘱	〔马山隹冂八口・AMOm・CJK-C〕
 𫘲	〔骨九日・NRKg・CJK-C〕
@@ -74509,7 +74509,7 @@
 𫝚	〔口車二厶・OJEA・CJK-D〕
 𫝛	〔木目冂一口・INGO・CJK-D〕
 𫝜	〔口九朩隹・ORIT・CJK-D〕
-𫝝	〔𫩏厂乛耳攵・KGHP・CJK-D〕
+𫝝	〔{橫日}厂乛耳攵・KGHP・CJK-D〕
 𫝞	〔口雨矛夂力・OJVC・CJK-D〕
 𫝟	〔土亠甲二・JYKE・CJK-D〕
 𫝠	〔土覀且・JENq・CJK-D〕
@@ -74574,7 +74574,7 @@
 𫞛	〔氵讠耂日・ZZJK・CJK-D〕
 𫞜	〔氵〢䒑冂冫ㄑ丨・ZLTK・CJK-D〕⁇
 𫞝	〔氵门䒑屮欠・ZZAQ・CJK-D〕
-𫞞	〔氵艹𫩏隹・ZHKT・CJK-D〕
+𫞞	〔氵艹{橫日}隹・ZHKT・CJK-D〕
 𫞟	〔丶{爲下}丿・WSPu・CJK-D〕
 𫞠	〔火彐火・XBXv・CJK-D〕
 𫞡	〔火艹冖木・XHQI・CJK-D〕
@@ -74636,8 +74636,8 @@
 𫟙	〔行一{五下}口一巾・SGMx・CJK-D〕
 𫟚	〔丿車一𧘇・PJGR・CJK-D〕
 𫟛	〔覀日十・EKEx・CJK-D〕
-𫟜	〔艹𫩏隹見・HKTN・CJK-D〕
-𫟝	〔訁衣𫩏一龷・YWGH・CJK-D〕
+𫟜	〔艹{橫日}隹見・HKTN・CJK-D〕
+𫟝	〔訁衣{橫日}一龷・YWGH・CJK-D〕
 𫟞	〔讠止・ZLzy・CJK-D〕
 𫟟	〔讠丷キ・ZXFy・CJK-D〕
 𫟠	〔讠丷日十・ZXEy・CJK-D〕
@@ -74834,7 +74834,7 @@
 𫢡	〔亻𡭔丿廾・TCPH・CJK-E〕
 𫢢	〔亻止土・TLJv・CJK-E〕
 𫢣	〔亻人丶龴刂・TUDL・CJK-E〕
-𫢤	〔亻丿𫩏儿・TPKV・CJK-E〕⁇
+𫢤	〔亻丿{橫日}儿・TPKV・CJK-E〕⁇
 𫢥	〔亻爫𠃊大・TVCF・CJK-E〕
 𫢦	〔亻宀𠂇厶・TWHA・CJK-E〕
 𫢧	〔亻文口・TYOv・CJK-E〕
@@ -74859,7 +74859,7 @@
 𫢺	〔亻厶大彡・TAFS・CJK-E〕
 𫢻	〔亻彐月丨・TBSK・CJK-E〕⁇
 𫢼	〔厶口亻弋・AOFi・CJK-E〕
-𫢽	〔亻一𫩏攵・TGKP・CJK-E〕
+𫢽	〔亻一{橫日}攵・TGKP・CJK-E〕
 𫢾	〔亻木白・TIUb・CJK-E〕
 𫢿	〔人工丩又・UIAD・CJK-E〕
 𫣀	〔亻不一止・TGGL・CJK-E〕
@@ -74918,7 +74918,7 @@
 𫣵	〔亻厶人匕目𠃊八・TACT・CJK-E〕
 𫣶	〔亻⺧口非・TPOL・CJK-E〕
 𫣷	〔亻宀艹見丶・TWNW・CJK-E〕
-𫣸	〔亻丷𫩏丷日士・TXKJ・CJK-E〕
+𫣸	〔亻丷{橫日}丷日士・TXKJ・CJK-E〕
 𫣹	〔人一口夭口冂口・UGMO・CJK-E〕
 𫣺	〔亻龶⺝爫彐亅・TEBB・CJK-E〕
 𫣻	〔亻木口刀貝・TIDN・CJK-E〕
@@ -75261,7 +75261,7 @@
 𫩌	〔口巴口巴又・ODDD・CJK-E〕
 𫩍	〔𠂆又雨田・RDJK・CJK-E〕⁇
 𫩎	〔訁人一𠕁又・YUMD・CJK-E〕
-𫩏	〔𫩏・Ku・CJK-E〕
+𫩏	〔{橫日}・Ku・CJK-E〕
 𫩐	〔口丂・OEk・CJK-E〕
 𫩑	〔丆囗・GNw・CJK-E〕
 𫩒	〔口巾・OMj・CJK-E〕
@@ -75555,7 +75555,7 @@
 𫭲	〔土丌䒑丿・JHXP・CJK-E〕
 𫭳	〔土土⺄キ・JJBF・CJK-E〕
 𫭴	〔禾刂土・RLJv・CJK-E〕
-𫭵	〔土忄コ十・JUDE・CJK-E〕
+𫭵	〔土忄ユ十・JUDE・CJK-E〕
 𫭶	〔冫人丶龴土・XUJs・CJK-E〕
 𫭷	〔土言・JYv・CJK-E〕
 𫭸	〔土亠口了・JYOB・CJK-E〕
@@ -76827,8 +76827,8 @@
 𬁪	〔子辛日・BYKz・CJK-E〕
 𬁫	〔彐土曰且・BJKN・CJK-E〕
 𬁬	〔日日日{卬左}丿卩・KKPA・CJK-E〕
-𬁭	〔丷𫩏丷日阝丁口・XKEO・CJK-E〕
-𬁮	〔丷𫩏丷日一大小丶・XKCW・CJK-E〕
+𬁭	〔丷{橫日}丷日阝丁口・XKEO・CJK-E〕
+𬁮	〔丷{橫日}丷日一大小丶・XKCW・CJK-E〕
 𬁯	〔{互中}丆丿巾{互中}丆丿巾日・CGMK・CJK-E〕
 𬁰	〔月十・SEu・CJK-E〕
 𬁱	〔月{于下}丿・SIPu・CJK-E〕
@@ -77050,9 +77050,9 @@
 𬅉	〔木艹门木囗丷・IHNX・CJK-E〕
 𬅊	〔木𦥑冂一口一八・IUGT・CJK-E〕
 𬅋	〔木艹立朩𠂆丅・IHRJ・CJK-E〕
-𬅌	〔⺈口𧰨？木・・CJK-E〕⁇
+𬅌	〔⺈口𧰨{卬左}コ木・QODI・CJK-E〕✓
 𬅍	〔木缶木大手・IPFR・CJK-E〕
-𬅎	〔木八𫩏丷日瓦・ITKH・CJK-E〕
+𬅎	〔木八{橫日}丷日瓦・ITKH・CJK-E〕
 𬅏	〔木女木冖彐厶寸・ICAI・CJK-E〕⁇
 𬅐	〔木木匕矢龴乛龰・IIBL・CJK-E〕
 𬅑	〔木艹千黑・IHRM・CJK-E〕
@@ -77440,7 +77440,7 @@
 𬋏	〔火日勹人𠃊欠・XKCQ・CJK-E〕
 𬋐	〔千臼欠灬・RUXq・CJK-E〕
 𬋑	〔貝貝火・NNXb・CJK-E〕
-𬋒	〔亻⊖千黑灬力灬・・CJK-E〕⁇
+𬋒	〔亻千黑力・TRMC・CJK-E〕
 𬋓	〔{炙上}臼火火・SUXX・CJK-E〕
 𬋔	〔火木木辰・XIIG・CJK-E〕
 𬋕	〔酉隹灬・ETXy・CJK-E〕
@@ -78175,7 +78175,7 @@
 𬖮	〔米〢{⺮右}皿・XLMm・CJK-E〕
 𬖯	〔舟殳米・RQXo・CJK-E〕
 𬖰	〔米亠口冂口・XYOm・CJK-E〕
-𬖱	〔米⺶コ十・XXEm・CJK-E〕
+𬖱	〔米⺶ユ十・XXEm・CJK-E〕
 𬖲	〔米屮一虫・XALm・CJK-E〕
 𬖳	〔人丶乛米彐冖又・UWQD・CJK-E〕⁇
 𬖴	〔米{祭上}示・XSFm・CJK-E〕
@@ -78480,7 +78480,7 @@
 𬛟	〔月土厶卩骨・SJAN・CJK-E〕
 𬛠	〔亠厶⺝飠爫女・YAVC・CJK-E〕
 𬛡	〔月日一勹{两撇}覀示・SKEF・CJK-E〕
-𬛢	〔コ十匚丨口丨・DEOK・CJK-E〕
+𬛢	〔ユ十匚丨口丨・DEOK・CJK-E〕
 𬛣	〔匚丨口丨⺄キ・FKFf・CJK-E〕
 𬛤	〔亻寸臣・TIFe・CJK-E〕
 𬛥	〔臣千口・FROe・CJK-E〕
@@ -78488,8 +78488,8 @@
 𬛧	〔臣臣子・FFBe・CJK-E〕
 𬛨	〔⺈口比匚丨口丨・QOOK・CJK-E〕
 𬛩	〔臣卜十冂䒑十・FLEe・CJK-E〕
-𬛪	〔匚丨口丨子丷𫩏丷日・FKKf・CJK-E〕
-𬛫	〔臣臣丷𫩏丷日・FFKe・CJK-E〕
+𬛪	〔匚丨口丨子丷{橫日}丷日・FKKf・CJK-E〕
+𬛫	〔臣臣丷{橫日}丷日・FFKe・CJK-E〕
 𬛬	〔自大{丿丨}・TFTz・CJK-E〕
 𬛭	〔丆目丆目・GNGN・CJK-E〕
 𬛮	〔自⺀木口{两撇}・TZSz・CJK-E〕⁇
@@ -78568,7 +78568,7 @@
 𬜷	〔艹冫厶口・HXAO・CJK-E〕
 𬜸	〔艹忄不・HUGb・CJK-E〕
 𬜹	〔艹女方・HCYu・CJK-E〕
-𬜺	〔艹纟コ十・HCDE・CJK-E〕
+𬜺	〔艹纟ユ十・HCDE・CJK-E〕
 𬜻	〔龷人人キ・HUUF・CJK-E〕
 𬜼	〔艹一冂人丆𠃌・HGGB・CJK-E〕⁇
 𬜽	〔艹石廾・HGHv・CJK-E〕
@@ -79058,7 +79058,7 @@
 𬤡	〔讠{囟框}米大・ZUFy・CJK-E〕
 𬤢	〔讠丷酉寸・ZXIy・CJK-E〕
 𬤣	〔讠亠口子攵・ZYPy・CJK-E〕
-𬤤	〔讠丷𫩏丷日・ZXKy・CJK-E〕
+𬤤	〔讠丷{橫日}丷日・ZXKy・CJK-E〕
 𬤥	〔讠巳巳龷八・ZDTy・CJK-E〕
 𬤦	〔讠口丄贝辶・ZOZy・CJK-E〕
 𬤧	〔讠目目大・ZNFy・CJK-E〕
@@ -79083,7 +79083,7 @@
 𬤺	〔山丰丰一口䒑勹巳・MISD・CJK-E〕
 𬤻	〔豕乃・GAns・CJK-E〕
 𬤼	〔㐅凵豕・TAGi・CJK-E〕
-𬤽	〔豕コ十・GDEs・CJK-E〕
+𬤽	〔豕ユ十・GDEs・CJK-E〕
 𬤾	〔木土豕・IJGs・CJK-E〕
 𬤿	〔豕一{五下}口・GGOs・CJK-E〕
 𬥀	〔豕彐丿口・GBOs・CJK-E〕
@@ -79463,7 +79463,7 @@
 𬪶	〔酉亠𠃊{炙上}壬・EYRy・CJK-E〕
 𬪷	〔酉一{五下}白水・EGAy・CJK-E〕
 𬪸	〔酉日刀口灬・EKXy・CJK-E〕
-𬪹	〔⺈𫩏比丅𠃍酉・QKBE・CJK-E〕✓
+𬪹	〔⺈{橫日}比丅𠃍酉・QKBE・CJK-E〕✓
 𬪺	〔丿米广・PXWg・CJK-E〕
 𬪻	〔丿米土厶・PXJA・CJK-E〕
 𬪼	〔丿車一夕・PJGQ・CJK-E〕
@@ -79761,7 +79761,7 @@
 𬯠	〔阝宀{祭上}示・BWSF・CJK-E〕
 𬯡	〔阝艹{祭上}示・BHSF・CJK-E〕
 𬯢	〔阝酉糹彐丿・BEBP・CJK-E〕
-𬯣	〔阝丁口丷𫩏丷日・BEXK・CJK-E〕
+𬯣	〔阝丁口丷{橫日}丷日・BEXK・CJK-E〕
 𬯤	〔阝⺮臼儿山・BPVM・CJK-E〕
 𬯥	〔阝艹禺田・BHKK・CJK-E〕
 𬯦	〔阝罒亠八罒亠八・BMYT・CJK-E〕
@@ -80471,7 +80471,7 @@
 𬺴	〔𠃌㇀一・BGGu・CJK-F〕
 𬺵	〔二㇉一・ECGe・CJK-F〕⁇
 𬺶	〔丅𠃊亅・JCBu・CJK-F〕
-𬺷	〔⊖丆亅{两撇}丿・・CJK-F〕⁇
+𬺷	〔丆亅丿・GBPu・CJK-F〕
 𬺸	〔一㇉丷・GCXu・CJK-F〕⁇
 𬺹	〔コ二・DEe・CJK-F〕⁇
 𬺺	〔口一㇉・OGCu・CJK-F〕
@@ -80488,7 +80488,7 @@
 𬻅	〔丁亠八・EYTd・CJK-F〕
 𬻆	〔㇇二丂一・BEEG・CJK-F〕⁇
 𬻇	〔一口〢・GOLu・CJK-F〕⁇
-𬻈	〔⊖コ十一⊖コ十一・・CJK-F〕⁇
+𬻈	〔ユ丨ユ丨・DKDK・CJK-F〕
 𬻉	〔一尸十・GDEu・CJK-F〕
 𬻊	〔一大丅丶・GFJW・CJK-F〕
 𬻋	〔一丨丿一丨丿丶・GKPW・CJK-F〕⁇
@@ -80500,7 +80500,7 @@
 𬻑	〔⺈丶コ丨丶・QWKW・CJK-F〕⁇
 𬻒	〔七コ冖𠃌・FDBq・CJK-F〕
 𬻓	〔尤丿丅丶・JPWo・CJK-F〕
-𬻔	〔一？{⺮右}・・CJK-F〕⁇
+𬻔	〔一冂二{⺮右}・GMEP・CJK-F〕
 𬻕	〔一丷囗二・GXNE・CJK-F〕
 𬻖	〔丁⺈巴・EQDd・CJK-F〕
 𬻗	〔丁⺈彐亅・EQBd・CJK-F〕
@@ -80517,7 +80517,7 @@
 𬻢	〔一米⺀十・GXZE・CJK-F〕
 𬻣	〔丁穴牙・EWFd・CJK-F〕
 𬻤	〔糹工丁・AIEd・CJK-F〕
-𬻥	〔龶龶？・・CJK-F〕⁇
+𬻥	〔龶龶ユ丨・EEDK・CJK-F〕
 𬻦	〔一廾十乛⺀大・GHZF・CJK-F〕
 𬻧	〔十口冖且・EOQN・CJK-F〕
 𬻨	〔犭虫丅丶・VLWq・CJK-F〕
@@ -80871,7 +80871,7 @@
 𭁄	〔丷丅𠃋・XJCu・CJK-F〕⁇
 𭁅	〔八厶卜・TALb・CJK-F〕
 𭁆	〔⺧八・PTu・CJK-F〕
-𭁇	〔〢？一八・・CJK-F〕⁇
+𭁇	〔〢一亅一八・LGGT・CJK-F〕
 𭁈	〔〢丿十一八・LPGT・CJK-F〕
 𭁉	〔〢丂一一八・LEGT・CJK-F〕
 𭁊	〔冫欠八・XQTs・CJK-F〕
@@ -80961,7 +80961,7 @@
 𭂞	〔冫亠丷冂古・XYJs・CJK-F〕
 𭂟	〔冫口丄貝・XONs・CJK-F〕
 𭂠	〔冫門日・XNKs・CJK-F〕
-𭂡	〔冫丷𫩏丷日・XXKs・CJK-F〕
+𭂡	〔冫丷{橫日}丷日・XXKs・CJK-F〕
 𭂢	〔冫戊一口心・XFRs・CJK-F〕
 𭂣	〔冫門王丶・XNWs・CJK-F〕
 𭂤	〔冫人丶龴了口又一・XUGs・CJK-F〕
@@ -81123,7 +81123,7 @@
 𭅀	〔雨二厶力・JECy・CJK-F〕
 𭅁	〔口丄貝力・OONC・CJK-F〕
 𭅂	〔田龷八力・KHCt・CJK-F〕
-𭅃	〔亠？隹力・・CJK-F〕⁇
+𭅃	〔亠丷隹力・YXTC・CJK-F〕
 𭅄	〔勹又・SDo・CJK-F〕
 𭅅	〔勹𠃊又・SCDo・CJK-F〕⁇
 𭅆	〔勹二{丿丨}・SETu・CJK-F〕
@@ -81218,7 +81218,7 @@
 𭆟	〔木木厶・IIAi・CJK-F〕
 𭆠	〔㐅𠂇厶𠂇厶・THAi・CJK-F〕
 𭆡	〔厶刀日十・ADEi・CJK-F〕
-𭆢	〔𠂉？・・CJK-F〕⁇
+𭆢	〔𠂉一彐{丄、}{丄、}・PGOO・CJK-F〕✓
 𭆣	〔厶小欠{丿丨}・ACTi・CJK-F〕
 𭆤	〔厶厶厶人氺・AAAi・CJK-F〕
 𭆥	〔㇇又・BDo・CJK-F〕
@@ -81289,7 +81289,7 @@
 𭇦	〔臼口・UOvj・CJK-F〕
 𭇧	〔口人小丶・OUCW・CJK-F〕
 𭇨	〔口{两撇}不・OSGb・CJK-F〕
-𭇩	〔口？・・CJK-F〕⁇
+𭇩	〔口丿丄丂一・OPEG・CJK-F〕
 𭇪	〔一尸又口・GDDO・CJK-F〕
 𭇫	〔口𠁼川・OZTc・CJK-F〕
 𭇬	〔口宀子・OWBz・CJK-F〕
@@ -81683,7 +81683,7 @@
 𭍰	〔囗氵隹・NZTw・CJK-F〕
 𭍱	〔囗王𤣩王・NEEw・CJK-F〕
 𭍲	〔囗戈口一人{丿丨}・NFTw・CJK-F〕
-𭍳	〔囗丷𫩏丷日・NXKw・CJK-F〕
+𭍳	〔囗丷{橫日}丷日・NXKw・CJK-F〕
 𭍴	〔囗僉・NUqw・CJK-F〕
 𭍵	〔囗⺮目廾・NPHw・CJK-F〕
 𭍶	〔匕矢又土囗口・VPOi・CJK-F〕
@@ -81691,7 +81691,7 @@
 𭍸	〔囗艹隹臼・NHUw・CJK-F〕
 𭍹	〔囗口貝阝禾木刂・NOLw・CJK-F〕
 𭍺	〔入土・VJvr・CJK-F〕
-𭍻	〔{丿丨}？土・・CJK-F〕⁇
+𭍻	〔{丿丨}乚土・TCJv・CJK-F〕
 𭍼	〔丩土丶・AJWu・CJK-F〕
 𭍽	〔土也・JBe・CJK-F〕
 𭍾	〔土十又・JEDo・CJK-F〕
@@ -81717,7 +81717,7 @@
 𭎒	〔土土寸・JJIc・CJK-F〕
 𭎓	〔土早・JKz・CJK-F〕
 𭎔	〔土止匕・JLVi・CJK-F〕
-𭎕	〔土？・・CJK-F〕⁇
+𭎕	〔土丄{两撇}丶ㄑ・JOWT・CJK-F〕✓
 𭎖	〔土𠘨一巾・JQGM・CJK-F〕
 𭎗	〔自土・TJvz・CJK-F〕
 𭎘	〔土缶・JPf・CJK-F〕
@@ -81859,7 +81859,7 @@
 𭐠	〔一止夊・GLVu・CJK-F〕
 𭐡	〔心丿夊・RPVx・CJK-F〕
 𭐢	〔廾三夊・HIVu・CJK-F〕
-𭐣	〔？夊・・CJK-F〕⁇
+𭐣	〔亻十二夊・TEEV・CJK-F〕
 𭐤	〔亠厶儿夊・YAVV・CJK-F〕
 𭐥	〔𠂉〢二一夊・PLGV・CJK-F〕⁇
 𭐦	〔亦一夊・YGVi・CJK-F〕
@@ -81919,7 +81919,7 @@
 𭑜	〔一自大キ・GTFF・CJK-F〕⁇
 𭑝	〔大人人土土・FUJd・CJK-F〕
 𭑞	〔氵⺈田大・ZQKF・CJK-F〕
-𭑟	〔𠂉？大・・CJK-F〕⁇
+𭑟	〔𠂉龷冂二大・PHEF・CJK-F〕
 𭑠	〔大{毌框}十貝・FCNd・CJK-F〕
 𭑡	〔千人人人人一𠃍大・RUFq・CJK-F〕
 𭑢	〔丷酉大𠂇乀・XEHW・CJK-F〕
@@ -82035,7 +82035,7 @@
 𭓐	〔子艹冂大・BHFz・CJK-F〕
 𭓑	〔子田心・BKRz・CJK-F〕
 𭓒	〔子日一龰・BKLz・CJK-F〕
-𭓓	〔ッ冖子コ十・ZQDE・CJK-F〕
+𭓓	〔ッ冖子ユ十・ZQDE・CJK-F〕
 𭓔	〔亠日子九丶・YKRW・CJK-F〕
 𭓕	〔〢丂丨𠃍二冖子・LEQB・CJK-F〕⁇
 𭓖	〔宀子且力・WBNC・CJK-F〕
@@ -82080,7 +82080,7 @@
 𭓽	〔宀癶山・WDMv・CJK-F〕
 𭓾	〔宀一兀文・WGGY・CJK-F〕
 𭓿	〔宀丨日一八・WKGT・CJK-F〕
-𭔀	〔宀？山・・CJK-F〕⁇
+𭔀	〔宀丿乂丶{两撇}山・WPSM・CJK-F〕✓
 𭔁	〔宀亻日大・WTKF・CJK-F〕
 𭔂	〔宀立丿彡・WYPS・CJK-F〕
 𭔃	〔宀立口⼅・WYOB・CJK-F〕
@@ -82143,7 +82143,7 @@
 𭔼	〔阝丶艮寸・BWBI・CJK-F〕
 𭔽	〔阝目一八寸・BNTI・CJK-F〕
 𭔾	〔〢䒑口土寸・LXJI・CJK-F〕
-𭔿	〔八？寸・・CJK-F〕⁇
+𭔿	〔八丌冂三一寸・THGI・CJK-F〕
 𭕀	〔士冖一口䒑寸・JQXI・CJK-F〕
 𭕁	〔日耳又寸・KHDI・CJK-F〕
 𭕂	〔囗口貝寸・NOIw・CJK-F〕
@@ -82258,7 +82258,7 @@
 𭖯	〔亻工山大・TIMF・CJK-F〕
 𭖰	〔山阝宀匕・MBWV・CJK-F〕
 𭖱	〔山尸古・MDJg・CJK-F〕
-𭖲	〔？山・・CJK-F〕⁇
+𭖲	〔〣匚コ人山・LFUM・CJK-F〕
 𭖳	〔山卄二欠・MHEQ・CJK-F〕
 𭖴	〔山罒方・MMYu・CJK-F〕
 𭖵	〔山田比・MKVb・CJK-F〕
@@ -82407,7 +82407,7 @@
 𭙄	〔𠂉ヰ立口・PFYO・CJK-F〕
 𭙅	〔𠂉ヰ白千・PFUR・CJK-F〕
 𭙆	〔白千𠂉ヰ・URFb・CJK-F〕
-𭙇	〔䒑廾丷𫩏丷日・XHXK・CJK-F〕
+𭙇	〔䒑廾丷{橫日}丷日・XHXK・CJK-F〕
 𭙈	〔幺𠃌・ABuy・CJK-F〕
 𭙉	〔⺄幺・BAyi・CJK-F〕
 𭙊	〔幺丁・AEdy・CJK-F〕
@@ -82870,7 +82870,7 @@
 𭠓	〔手八刀・RTDs・CJK-F〕
 𭠔	〔手人丶乛・RUBs・CJK-F〕
 𭠕	〔手𠂉十・RPEs・CJK-F〕
-𭠖	〔手コ十・RDEs・CJK-F〕
+𭠖	〔手ユ十・RDEs・CJK-F〕
 𭠗	〔扌𠂇口・FHOv・CJK-F〕
 𭠘	〔扌口又・FODo・CJK-F〕
 𭠙	〔扌〢䒑・FLXu・CJK-F〕
@@ -82880,7 +82880,7 @@
 𭠝	〔扌勹人𠃊・FSUC・CJK-F〕
 𭠞	〔手幺力・RACs・CJK-F〕
 𭠟	〔扌𠃌一口・FBGO・CJK-F〕
-𭠠	〔？干丅丶・・CJK-F〕⁇
+𭠠	〔一キ一キ丶・GFFW・CJK-F〕
 𭠡	〔扌丷口・FXOv・CJK-F〕
 𭠢	〔扌丁二厶・FEEA・CJK-F〕
 𭠣	〔扌王冂・FEMu・CJK-F〕
@@ -83043,7 +83043,7 @@
 𭣀	〔手黑土・RMJs・CJK-F〕
 𭣁	〔扌⺌冖口貝・FNON・CJK-F〕
 𭣂	〔⺧口⺌冖口手・POOR・CJK-F〕
-𭣃	〔扌尸丷𫩏丷日・FDXK・CJK-F〕
+𭣃	〔扌尸丷{橫日}丷日・FDXK・CJK-F〕
 𭣄	〔扌臣{⺮右}見・FFPN・CJK-F〕⁇
 𭣅	〔扌卄一口丬匕灬・FHVX・CJK-F〕
 𭣆	〔土䒑十火火手・JXXR・CJK-F〕
@@ -83146,7 +83146,7 @@
 𭤧	〔一力・GCl・CJK-F〕
 𭤨	〔方𠂉・YPu・CJK-F〕
 𭤩	〔方厶・YAi・CJK-F〕
-𭤪	〔？方・・CJK-F〕⁇
+𭤪	〔土𠃋方・JCYu・CJK-F〕
 𭤫	〔方口丨・YOKu・CJK-F〕
 𭤬	〔方片・YTp・CJK-F〕
 𭤭	〔方卄二・YHEe・CJK-F〕
@@ -83199,7 +83199,7 @@
 𭥜	〔尸乀日・DWKv・CJK-F〕
 𭥝	〔𠃊凵日・CAKv・CJK-F〕⁇
 𭥞	〔日彐丿・KBPu・CJK-F〕
-𭥟	〔？厶日？・・CJK-F〕⁇
+𭥟	〔了厶日了・BABl・CJK-F〕⁇
 𭥠	〔日厶儿・KAVe・CJK-F〕
 𭥡	〔早𠂉乙・KPBz・CJK-F〕
 𭥢	〔日一水・KGAs・CJK-F〕
@@ -83220,7 +83220,7 @@
 𭥱	〔日大寸・KFIc・CJK-F〕
 𭥲	〔日匕日・KVKv・CJK-F〕
 𭥳	〔日早・KKz・CJK-F〕
-𭥴	〔𫩏丷日・KXKv・CJK-F〕
+𭥴	〔{橫日}丷日・KXKv・CJK-F〕
 𭥵	〔日夂口・KVOv・CJK-F〕
 𭥶	〔日亻木・KTIv・CJK-F〕
 𭥷	〔日𠂉日・KPKv・CJK-F〕
@@ -83266,7 +83266,7 @@
 𭦟	〔日罒丆𠃌・KMGB・CJK-F〕
 𭦠	〔日日丿廾・KKPH・CJK-F〕
 𭦡	〔日𠂆丅欠・KRJQ・CJK-F〕
-𭦢	〔日⊖丆亅{两撇}一𠂆丅・・CJK-F〕⁇
+𭦢	〔日彡亅𠂆丅・KSRJ・CJK-F〕
 𭦣	〔日八夫㔾・KTJB・CJK-F〕
 𭦤	〔日宀一龰・KWGL・CJK-F〕
 𭦥	〔日广亻寸・KWTI・CJK-F〕
@@ -83391,7 +83391,7 @@
 𭨜	〔冂龷戈・MHFg・CJK-F〕
 𭨝	〔曰勹{两撇}𠂆丅・KSRJ・CJK-F〕
 𭨞	〔𤣩ソ王日・EXEK・CJK-F〕
-𭨟	〔丷𫩏丷日{于下}丿・XKIP・CJK-F〕
+𭨟	〔丷{橫日}丷日{于下}丿・XKIP・CJK-F〕
 𭨠	〔户口攵日・ZOKh・CJK-F〕
 𭨡	〔彐土曰口乂・BJOT・CJK-F〕
 𭨢	〔日屮凵人小丶・KACW・CJK-F〕
@@ -83661,7 +83661,7 @@
 𭬪	〔木口口日十戈・IOEF・CJK-F〕
 𭬫	〔口口亻目一八木・OOTI・CJK-F〕
 𭬬	〔木⺮工凡木・IPQI・CJK-F〕
-𭬭	〔木八𫩏丆目夊・ITNV・CJK-F〕
+𭬭	〔木八{橫日}丆目夊・ITNV・CJK-F〕
 𭬮	〔木䒑土禾乃戈・IXAF・CJK-F〕
 𭬯	〔木立甲二灬・IYEX・CJK-F〕⁇
 𭬰	〔木弓三田田・IDKK・CJK-F〕
@@ -83813,7 +83813,7 @@
 𭯂	〔㐅朩殳爫木・TIIi・CJK-F〕
 𭯃	〔士𠃜殳日木・JDKI・CJK-F〕
 𭯄	〔𦥑㐅乂冖子殳・UTBQ・CJK-F〕
-𭯅	〔士𠃜殳人一𫩏丷日・JDXK・CJK-F〕
+𭯅	〔士𠃜殳人一{橫日}丷日・JDXK・CJK-F〕
 𭯆	〔僉癶弓殳・UDQq・CJK-F〕
 𭯇	〔厶母・ACmi・CJK-F〕
 𭯈	〔不母・GCmb・CJK-F〕
@@ -84186,7 +84186,7 @@
 𭴷	〔丨日勹灬・KKSX・CJK-F〕
 𭴸	〔臣又灬・FDXe・CJK-F〕
 𭴹	〔火龷灬・XHXh・CJK-F〕
-𭴺	〔⊖豕{两撇}口灬・・CJK-F〕⁇
+𭴺	〔丆月口ㄑ灬・GSTX・CJK-F〕✓
 𭴻	〔火耳又・XHDo・CJK-F〕
 𭴼	〔火龶⺝・XESv・CJK-F〕
 𭴽	〔火日火・XKXv・CJK-F〕
@@ -84507,7 +84507,7 @@
 𭹸	〔𤣩王穴工・EEWI・CJK-F〕
 𭹹	〔𤣩十罒一𧘇・EEGR・CJK-F〕
 𭹺	〔𤣩門文・ENYw・CJK-F〕
-𭹻	〔𤣩丿罒？・・CJK-F〕⁇
+𭹻	〔𤣩丿罒亅{两撇}{两撇}乀・EPSW・CJK-F〕
 𭹼	〔𤣩丷酉寸・EXEI・CJK-F〕⁇
 𭹽	〔𤣩宀几日小・EWKC・CJK-F〕
 𭹾	〔𤣩亠八隹・EYTT・CJK-F〕
@@ -84554,8 +84554,8 @@
 𭺧	〔革宀女瓦・HWHg・CJK-F〕
 𭺨	〔魚日瓦・QKHw・CJK-F〕
 𭺩	〔貝貝女瓦・NNHb・CJK-F〕
-𭺪	〔⊖耳㇀・・CJK-F〕⁇
-𭺫	〔⊖耳一・・CJK-F〕⁇
+𭺪	〔丌二・HEej・CJK-F〕
+𭺫	〔丅二丨・JEKu・CJK-F〕
 𭺬	〔卄二匕日・HEVK・CJK-F〕
 𭺭	〔卄二冖羊・HEQX・CJK-F〕
 𭺮	〔⺌冖𠃊口卄二・NQHE・CJK-F〕
@@ -84586,7 +84586,7 @@
 𭻇	〔田古・KJgt・CJK-F〕
 𭻈	〔土厶甲・JAKj・CJK-F〕
 𭻉	〔𠂉口田・POKt・CJK-F〕
-𭻊	〔田⊖丆亅丿ㄑ一・・CJK-F〕⁇
+𭻊	〔田{两撇}亅ㄑ・KSTt・CJK-F〕
 𭻋	〔コ二日亅丿・DEBP・CJK-F〕⁇
 𭻌	〔覀田・EKtx・CJK-F〕
 𭻍	〔丌䒑田・HXKj・CJK-F〕
@@ -84701,11 +84701,11 @@
 𭼺	〔疒巛口巴頁・WCGb・CJK-F〕
 𭼻	〔疒貝貝隹・WNTb・CJK-F〕
 𭼼	〔疒{微上}一黑・WSMb・CJK-F〕
-𭼽	〔？・・CJK-F〕⁇
-𭼾	〔？一大・・CJK-F〕⁇
+𭼽	〔丿乂丷・PTXu・CJK-F〕
+𭼾	〔人彡一大・USGF・CJK-F〕
 𭼿	〔夕龴日・QDKx・CJK-F〕
 𭽀	〔癶米・DXm・CJK-F〕
-𭽁	〔？一口䒑・・CJK-F〕⁇
+𭽁	〔人丶彡一口䒑・UWOX・CJK-F〕✓
 𭽂	〔夂{两撇}方攵・VSYP・CJK-F〕⁇
 𭽃	〔癶一口䒑乂・DGXT・CJK-F〕
 𭽄	〔癶一口⺌兀・DGNG・CJK-F〕
@@ -84758,7 +84758,7 @@
 𭽳	〔皮厶⺝匕匕・DAVp・CJK-F〕
 𭽴	〔龶貝皮・ENDp・CJK-F〕
 𭽵	〔山人一𠕁皮・MUMD・CJK-F〕
-𭽶	〔丷厂？皮・・CJK-F〕⁇
+𭽶	〔丷丿丌亠皮・XPYD・CJK-F〕✓
 𭽷	〔虍一口䒑皮・LGDh・CJK-F〕
 𭽸	〔士口䒑皮夂⺀・JOVZ・CJK-F〕⁇
 𭽹	〔爾皮・JDpe・CJK-F〕
@@ -84869,7 +84869,7 @@
 𭿢	〔目士口䒑十又・NJED・CJK-F〕
 𭿣	〔目廾口冖且・NHQN・CJK-F〕
 𭿤	〔目十人人人冫ㄑ亅・NETB・CJK-F〕⁇
-𭿥	〔目目？・・CJK-F〕⁇
+𭿥	〔目目丰龷・NNIH・CJK-F〕
 𭿦	〔目日耂日・NKJK・CJK-F〕
 𭿧	〔龵目亠口冖几・RNQs・CJK-F〕
 𭿨	〔目䒑𧰨辶・NXRZ・CJK-F〕
@@ -85000,7 +85000,7 @@
 𮁥	〔示戊・FFws・CJK-F〕
 𮁦	〔示口八・FOTs・CJK-F〕
 𮁧	〔示{周框}{周框}一・FSGs・CJK-F〕
-𮁨	〔？示・・CJK-F〕⁇
+𮁨	〔丿乂丷示・PTXF・CJK-F〕
 𮁩	〔示𠂆口・FROs・CJK-F〕
 𮁪	〔示𠂆丅丶・FRWs・CJK-F〕
 𮁫	〔示宀丁・FWEs・CJK-F〕
@@ -85136,7 +85136,7 @@
 𮃭	〔禾士口士口・RJJO・CJK-F〕
 𮃮	〔禾士口人小丶・RJCW・CJK-F〕
 𮃯	〔禾⺈口𧰨・RQOR・CJK-F〕
-𮃰	〔人一𫩏𠕁禾・UGMR・CJK-F〕
+𮃰	〔人一{橫日}𠕁禾・UGMR・CJK-F〕
 𮃱	〔禾勹丿厂甲二・RSKE・CJK-F〕
 𮃲	〔禾丿車一人丶乛・RPWB・CJK-F〕
 𮃳	〔禾亠口冖豕・RYQG・CJK-F〕
@@ -85301,7 +85301,7 @@
 𮆒	〔⺮氵匚コ木・PZDI・CJK-F〕
 𮆓	〔⺮力口貝・PCON・CJK-F〕
 𮆔	〔⺮{虍上}土亻工八・PLIT・CJK-F〕⁇
-𮆕	〔⺮？日十・・CJK-F〕⁇
+𮆕	〔⺮丌一丨乛一日十・PHKE・CJK-F〕✓
 𮆖	〔⺮面攵・PGPp・CJK-F〕
 𮆗	〔𠂉丨𠂉亅艹氵夂口・PKVO・CJK-F〕⁇
 𮆘	〔⺮罒冖亻戈・PMTF・CJK-F〕
@@ -85329,7 +85329,7 @@
 𮆮	〔⺮舟殳皿・PRQM・CJK-F〕
 𮆯	〔⺮{鹿上}乛心夊・PWRV・CJK-F〕
 𮆰	〔⺮衤白千・PWUR・CJK-F〕
-𮆱	〔⺮忄丷𫩏丷日・PUXK・CJK-F〕
+𮆱	〔⺮忄丷{橫日}丷日・PUXK・CJK-F〕
 𮆲	〔⺮亠丷冖巾尤彡・PYJS・CJK-F〕
 𮆳	〔⺮宀丿米田・PWXK・CJK-F〕
 𮆴	〔⺮立丿彐〢灬・PYLX・CJK-F〕
@@ -85726,7 +85726,7 @@
 𮌻	〔月雨二厶・SJEA・CJK-F〕
 𮌼	〔月龷日攵・SHKP・CJK-F〕
 𮌽	〔丬匕⺝⺧口・XVPO・CJK-F〕
-𮌾	〔广亻寸冂人人コ十・WTEg・CJK-F〕
+𮌾	〔广亻寸冂人人ユ十・WTEg・CJK-F〕
 𮌿	〔弓米弓冂人人・DXUg・CJK-F〕
 𮍀	〔月⺈宀一由八・SQKT・CJK-F〕
 𮍁	〔月亠罒衣・SYMW・CJK-F〕
@@ -85843,7 +85843,7 @@
 𮎰	〔艹人𠃊{丿丨乚}・HUCV・CJK-F〕
 𮎱	〔艹亻{𠂢下}・HTRu・CJK-F〕
 𮎲	〔艹白乚・HUCu・CJK-F〕
-𮎳	〔？・・CJK-F〕⁇
+𮎳	〔艹口一丨𠃌・HOKB・CJK-F〕✓
 𮎴	〔艹九日・HRKv・CJK-F〕
 𮎵	〔艹𠃊丶王・HCWE・CJK-F〕⁇
 𮎶	〔艹广千・HWRq・CJK-F〕
@@ -86118,7 +86118,7 @@
 𮓃	〔艹阝立丿生女・HBPC・CJK-F〕
 𮓄	〔艹古人文凵冂厶・HJMA・CJK-F〕
 𮓅	〔卝罒戊丶丆罒・HMGM・CJK-F〕
-𮓆	〔艹早丷𫩏丷日・HKXK・CJK-F〕
+𮓆	〔艹早丷{橫日}丷日・HKXK・CJK-F〕
 𮓇	〔艹爫木爫冖𠂇又・HVHD・CJK-F〕
 𮓈	〔艹釒隹又・HVTD・CJK-F〕
 𮓉	〔艹亠𠃊{丿丨乚}𠂉卌一灬・HYGX・CJK-F〕
@@ -86144,7 +86144,7 @@
 𮓝	〔{虍上}匕龰・LVLh・CJK-F〕⁇
 𮓞	〔丅彐丿⺝・JBPS・CJK-F〕
 𮓟	〔{虍上}土几几・LJQh・CJK-F〕⁇
-𮓠	〔丅彐丿䒑？・・CJK-F〕⁇
+𮓠	〔工彐丿ッ・IBZg・CJK-F〕
 𮓡	〔丅彐丿〢䒑・JBLX・CJK-F〕
 𮓢	〔{虍上}八⺝・LTSh・CJK-F〕
 𮓣	〔虍爫一㇉・LVCh・CJK-F〕
@@ -86239,7 +86239,7 @@
 𮔼	〔木了口又一虫・IBGL・CJK-F〕
 𮔽	〔丿虫阝木日・PLIK・CJK-F〕
 𮔾	〔虫宀丆罒丁・LWME・CJK-F〕
-𮔿	〔虫丷𫩏丷日・LXXK・CJK-F〕
+𮔿	〔虫丷{橫日}丷日・LXXK・CJK-F〕
 𮕀	〔亠口小尤虫・YOJL・CJK-F〕
 𮕁	〔亠口子攵虫・YOPL・CJK-F〕
 𮕂	〔虫一口田辶・LGKZ・CJK-F〕
@@ -86281,7 +86281,7 @@
 𮕦	〔𠂉衣・PWy・CJK-F〕
 𮕧	〔衤又・WDoi・CJK-F〕
 𮕨	〔衤大・WFdi・CJK-F〕
-𮕩	〔衣コ十・WDEy・CJK-F〕
+𮕩	〔衣ユ十・WDEy・CJK-F〕
 𮕪	〔口丨衣・OKWy・CJK-F〕
 𮕫	〔衣冂二・WMEy・CJK-F〕
 𮕬	〔衤亻匕・WTVi・CJK-F〕
@@ -86375,7 +86375,7 @@
 𮗄	〔覀方攵・EYPx・CJK-F〕
 𮗅	〔覀女丿皿・ECMx・CJK-F〕
 𮗆	〔西白千・EURx・CJK-F〕
-𮗇	〔覀？艮・・CJK-F〕⁇
+𮗇	〔覀一彐厶艮・EGBx・CJK-F〕
 𮗈	〔覀糹隹・EATx・CJK-F〕
 𮗉	〔覀女宀女宀女・ECCx・CJK-F〕
 𮗊	〔覀彳白方攵・ESPx・CJK-F〕
@@ -86525,8 +86525,8 @@
 𮙚	〔豕凵・GAus・CJK-F〕
 𮙛	〔一⺌豕・GNGs・CJK-F〕
 𮙜	〔申豕・KGss・CJK-F〕
-𮙝	〔𠂉𫩏𧰨・PKRu・CJK-F〕
-𮙞	〔丷𫩏𧰨・XKRu・CJK-F〕
+𮙝	〔𠂉{橫日}𧰨・PKRu・CJK-F〕
+𮙞	〔丷{橫日}𧰨・XKRu・CJK-F〕
 𮙟	〔丅彐丿豕・JBPG・CJK-F〕
 𮙠	〔𠂉罒𧰨・PMRu・CJK-F〕
 𮙡	〔冖車豕・QJGs・CJK-F〕
@@ -86580,7 +86580,7 @@
 𮚑	〔⺌冖尸貝・NQDN・CJK-F〕
 𮚒	〔貝人米・NUXb・CJK-F〕
 𮚓	〔貝{互中}一氺・NCAb・CJK-F〕
-𮚔	〔コ十又又貝・DEDN・CJK-F〕
+𮚔	〔ユ十又又貝・DEDN・CJK-F〕
 𮚕	〔臣𠂉丿貝・FPNe・CJK-F〕
 𮚖	〔貝田日・NKKb・CJK-F〕
 𮚗	〔貝目心・NNRb・CJK-F〕
@@ -86720,7 +86720,7 @@
 𮜝	〔⻊艹土厶皿・OHMz・CJK-F〕
 𮜞	〔⻊宀一𣥂貝・OWNz・CJK-F〕
 𮜟	〔广一未巳ㄑ口龰・WGLg・CJK-F〕
-𮜠	〔⻊尸丷𫩏丷日・ODKz・CJK-F〕
+𮜠	〔⻊尸丷{橫日}丷日・ODKz・CJK-F〕
 𮜡	〔⻊龶⺈攵灬・OEXz・CJK-F〕
 𮜢	〔⻊扌日一龰寸・OFIz・CJK-F〕
 𮜣	〔艹丷巾八攵口龰・HXOL・CJK-F〕⁇
@@ -86965,12 +86965,12 @@
 𮠒	〔广黑阝・WMBg・CJK-F〕
 𮠓	〔山豕豕阝・MGGB・CJK-F〕
 𮠔	〔广黑土阝・WMBg・CJK-F〕
-𮠕	〔？・・CJK-F〕⁇
+𮠕	〔丌冂三・HMIj・CJK-F〕
 𮠖	〔𠂉酉・PEy・CJK-F〕
 𮠗	〔酉𠃌㇀・EBGy・CJK-F〕
 𮠘	〔酉⺈丶・EQWy・CJK-F〕
 𮠙	〔亠𠃊酉・YCEy・CJK-F〕⁇
-𮠚	〔𠂉？・・CJK-F〕⁇
+𮠚	〔𠂉龷冂二・PHME・CJK-F〕
 𮠛	〔酉木・EIvy・CJK-F〕
 𮠜	〔酉爪・ERzy・CJK-F〕
 𮠝	〔酉夭・ERyy・CJK-F〕
@@ -87165,7 +87165,7 @@
 𮣚	〔釒{微上}一王・VSGE・CJK-F〕
 𮣛	〔釒隹{向框}口・VTUO・CJK-F〕
 𮣜	〔釒⺮人一𠕁・VPGM・CJK-F〕
-𮣝	〔釒丷⊖豕{两撇}口灬・VXOX・CJK-F〕⁇
+𮣝	〔釒丷丆亅口ㄑ灬・VXTX・CJK-F〕
 𮣞	〔釒石冖隹・VGQT・CJK-F〕
 𮣟	〔釒一止一止一止・VGGL・CJK-F〕
 𮣠	〔釒來貝・VINb・CJK-F〕
@@ -87321,7 +87321,7 @@
 𮥶	〔𠂉一隹・PGTw・CJK-F〕
 𮥷	〔文隹・YTww・CJK-F〕
 𮥸	〔亻隹乃・TTAn・CJK-F〕
-𮥹	〔亠？隹・・CJK-F〕⁇
+𮥹	〔亠丷隹・YXTw・CJK-F〕
 𮥺	〔隹尸乀・TDWw・CJK-F〕
 𮥻	〔尸匕隹・DVTw・CJK-F〕
 𮥼	〔隹冂八口・TMOw・CJK-F〕
@@ -87688,7 +87688,7 @@
 𮫥	〔{向框}土儿土厶皿・UJAM・CJK-F〕⁇
 𮫦	〔鬼覀木・UEIg・CJK-F〕
 𮫧	〔文凵冂厶鬼・YAUw・CJK-F〕⁇
-𮫨	〔鬼人一𫩏丷曰・UUKg・CJK-F〕
+𮫨	〔鬼人一{橫日}丷曰・UUKg・CJK-F〕
 𮫩	〔麻{向框}土儿厶未・WUIm・CJK-F〕
 𮫪	〔鬼广亻隹心・UWRg・CJK-F〕
 𮫫	〔鬼尸丨二二罒勹虫・UDLg・CJK-F〕
@@ -87713,7 +87713,7 @@
 𮫾	〔魚木不・QIGb・CJK-F〕
 𮫿	〔魚臼人・QUUu・CJK-F〕
 𮬀	〔魚禾日・QRKv・CJK-F〕
-𮬁	〔魚？・・CJK-F〕⁇
+𮬁	〔魚广コ丨{丄、}・QWKO・CJK-F〕
 𮬂	〔魚艹田・QHKt・CJK-F〕
 𮬃	〔魚夂虫・QVLv・CJK-F〕
 𮬄	〔魚韋・QDw・CJK-F〕
@@ -87884,7 +87884,7 @@
 𮮩	〔凵冫ㄑ亅士口䒑十又・AXED・CJK-F〕⁇
 𮮪	〔十廾貝士口䒑十又・EHED・CJK-F〕
 𮮫	〔士口䒑皮⺌冖口土・JOOJ・CJK-F〕
-𮮬	〔鼠コ十・UDEs・CJK-F〕
+𮮬	〔鼠ユ十・UDEs・CJK-F〕
 𮮭	〔鼠且・UNqs・CJK-F〕
 𮮮	〔鼠立口・UYOs・CJK-F〕
 𮮯	〔鼠口口日十・UOEs・CJK-F〕
@@ -87967,7 +87967,7 @@
 𰀛	〔一日日𠘨土・GKQJ・CJK-G〕
 𰀜	〔不一止心丿・GGPb・CJK-G〕
 𰀝	〔且且且・NNNq・CJK-G〕
-𰀞	〔雨田コ十・JKEy・CJK-G〕
+𰀞	〔雨田ユ十・JKEy・CJK-G〕
 𰀟	〔不木口攵一止・GILb・CJK-G〕
 𰀠	〔丨ㄑ・KTu・CJK-G〕⁇
 𰀡	〔〢又・LDo・CJK-G〕⁇
@@ -88165,7 +88165,7 @@
 𰃡	〔口力刂八・OCLT・CJK-G〕
 𰃢	〔八丂勹日・TESK・CJK-G〕
 𰃣	〔亠八人一口・YTGO・CJK-G〕
-𰃤	〔三人丷コ十・IUEs・CJK-G〕
+𰃤	〔三人丷ユ十・IUEs・CJK-G〕
 𰃥	〔亠八覀女・YTEC・CJK-G〕
 𰃦	〔{向框}・Uu・CJK-G〕⁇
 𰃧	〔冂壬・MRr・CJK-G〕
@@ -88739,7 +88739,7 @@
 𰌟	〔子二厶・BEAz・CJK-G〕
 𰌠	〔子止・BLzz・CJK-G〕
 𰌡	〔子攴・BLpz・CJK-G〕
-𰌢	〔子コ十・BDEz・CJK-G〕
+𰌢	〔子ユ十・BDEz・CJK-G〕
 𰌣	〔子矢・BPiz・CJK-G〕
 𰌤	〔子人丶龴・BUDz・CJK-G〕
 𰌥	〔子宀丁・BWEz・CJK-G〕
@@ -89345,7 +89345,7 @@
 𰕽	〔母日・CKvm・CJK-G〕
 𰕾	〔尸几日・DQKv・CJK-G〕
 𰕿	〔日西・KEx・CJK-G〕
-𰖀	〔早コ十・KDEz・CJK-G〕
+𰖀	〔早ユ十・KDEz・CJK-G〕
 𰖁	〔日木冂・KIMu・CJK-G〕
 𰖂	〔日⺌彐・KNBu・CJK-G〕
 𰖃	〔人人人日・UUUK・CJK-G〕
@@ -89412,7 +89412,7 @@
 𰗀	〔丷田一日・XKGK・CJK-G〕
 𰗁	〔冂龷十{具上}・MHEN・CJK-G〕
 𰗂	〔彐土曰龶⺝・BJES・CJK-G〕
-𰗃	〔丷𫩏丷日魚日・XKQK・CJK-G〕
+𰗃	〔丷{橫日}丷日魚日・XKQK・CJK-G〕
 𰗄	〔亠八⺝・YTSv・CJK-G〕
 𰗅	〔月电・SKd・CJK-G〕
 𰗆	〔山夕月・MQSv・CJK-G〕
@@ -89452,7 +89452,7 @@
 𰗨	〔木日寸・IKIc・CJK-G〕
 𰗩	〔日木丿厶・KIPA・CJK-G〕
 𰗪	〔口戈木・OFIv・CJK-G〕
-𰗫	〔木口コ十・IODE・CJK-G〕
+𰗫	〔木口ユ十・IODE・CJK-G〕
 𰗬	〔木千辶・IRZd・CJK-G〕
 𰗭	〔亠矛木・YBIv・CJK-G〕
 𰗮	〔木宀木・IWIv・CJK-G〕
@@ -89802,13 +89802,13 @@
 𰝆	〔氵虫虫・ZLLv・CJK-G〕
 𰝇	〔氵丿人人人人十一・ZPEG・CJK-G〕⁇
 𰝈	〔氵穴田八・ZWKT・CJK-G〕
-𰝉	〔丷𫩏丷日水・XKKA・CJK-G〕
+𰝉	〔丷{橫日}丷日水・XKKA・CJK-G〕
 𰝊	〔氵丷弓丨丿目・ZXPN・CJK-G〕
 𰝋	〔氵阝⺈彐心・ZBBR・CJK-G〕
 𰝌	〔氵弓{丿丨}爫子・ZDVB・CJK-G〕
 𰝍	〔氵羽冖车・ZCQF・CJK-G〕
 𰝎	〔氵糹歹刂・ZAGL・CJK-G〕
-𰝏	〔氵門コ十・ZNDE・CJK-G〕
+𰝏	〔氵門ユ十・ZNDE・CJK-G〕
 𰝐	〔氵彐工凡寸・ZBQI・CJK-G〕
 𰝑	〔氵十戈車・ZEFJ・CJK-G〕
 𰝒	〔氵木口耳・ZIOH・CJK-G〕
@@ -90204,9 +90204,9 @@
 𰣘	〔米米田・XXKm・CJK-G〕
 𰣙	〔田癶弓殳・KDQt・CJK-G〕
 𰣚	〔田弓工工口・KDOt・CJK-G〕
-𰣛	〔田力丷𫩏丷日・KCKt・CJK-G〕
+𰣛	〔田力丷{橫日}丷日・KCKt・CJK-G〕
 𰣜	〔口口田彐キ廴・OOFB・CJK-G〕
-𰣝	〔一口田丷𫩏丷日・GOXK・CJK-G〕
+𰣝	〔一口田丷{橫日}丷日・GOXK・CJK-G〕
 𰣞	〔田田雨田田・KKKt・CJK-G〕
 𰣟	〔田木田囗口囗口田・KIKt・CJK-G〕
 𰣠	〔丆日乛龰・GKBL・CJK-G〕
@@ -90708,7 +90708,7 @@
 𰫐	〔米三人臼・XIUm・CJK-G〕
 𰫑	〔米亠口子攵・XYPm・CJK-G〕
 𰫒	〔米宀日一龰・XWLm・CJK-G〕
-𰫓	〔米丷𫩏丷日・XXKm・CJK-G〕
+𰫓	〔米丷{橫日}丷日・XXKm・CJK-G〕
 𰫔	〔米酉厶八夊・XEVm・CJK-G〕
 𰫕	〔米亠丷丨刀{卬左}丶{丿丨}二・XYEm・CJK-G〕
 𰫖	〔米艹门木囗丷・XHXm・CJK-G〕
@@ -91051,7 +91051,7 @@
 𰰧	〔卝𧘇・HRu・CJK-G〕
 𰰨	〔艹人匕・HUVi・CJK-G〕
 𰰩	〔艹⺀十・HZEu・CJK-G〕
-𰰪	〔艹コ十・HDEu・CJK-G〕
+𰰪	〔艹ユ十・HDEu・CJK-G〕
 𰰫	〔艹キ龴・HFDu・CJK-G〕⁇
 𰰬	〔艹一火・HGXv・CJK-G〕
 𰰭	〔艹口又・HODo・CJK-G〕
@@ -91115,7 +91115,7 @@
 𰱧	〔艹禾亠几・HRYQ・CJK-G〕
 𰱨	〔艹火一止・HXGL・CJK-G〕
 𰱩	〔艹门口口・HZOO・CJK-G〕
-𰱪	〔艹衣コ十・HWDE・CJK-G〕
+𰱪	〔艹衣ユ十・HWDE・CJK-G〕
 𰱫	〔艹酉寸・HEIc・CJK-G〕
 𰱬	〔艹扌⺌⺝・HFNS・CJK-G〕
 𰱭	〔艹忄八口儿・HUOV・CJK-G〕
@@ -92029,7 +92029,7 @@
 𰿹	〔门龷由八・ZHTm・CJK-G〕
 𰿺	〔门⺌冖口土・ZNJm・CJK-G〕
 𰿻	〔门人一口羽・ZUCm・CJK-G〕
-𰿼	〔门丷𫩏丷日・ZXKm・CJK-G〕
+𰿼	〔门丷{橫日}丷日・ZXKm・CJK-G〕
 𰿽	〔门木亠口冖几・ZIQm・CJK-G〕
 𰿾	〔门尸口辛・ZDYm・CJK-G〕
 𰿿	〔门一廾宀丰口・ZGOm・CJK-G〕
@@ -92317,7 +92317,7 @@
 𱄙	〔馬丬匕一・EXGm・CJK-G〕
 𱄚	〔馬⺊日・ELKm・CJK-G〕
 𱄛	〔馬一未・EGIm・CJK-G〕
-𱄜	〔馬又コ十・EDEm・CJK-G〕
+𱄜	〔馬又ユ十・EDEm・CJK-G〕
 𱄝	〔馬古儿・EJVm・CJK-G〕
 𱄞	〔馬土乚土・EJJm・CJK-G〕⁇
 𱄟	〔馬艹巳・EHDm・CJK-G〕
@@ -92456,7 +92456,7 @@
 𱆤	〔魚丆𠃌・QGBu・CJK-G〕
 𱆥	〔魚{周框}亠・QSYu・CJK-G〕
 𱆦	〔巴魚・DQvb・CJK-G〕
-𱆧	〔魚コ十・QDEu・CJK-G〕
+𱆧	〔魚ユ十・QDEu・CJK-G〕
 𱆨	〔魚厶几・QAQj・CJK-G〕
 𱆩	〔魚口丂・QOEk・CJK-G〕
 𱆪	〔夕㔾魚・QBQx・CJK-G〕
@@ -92557,7 +92557,7 @@
 𱈉	〔鱼虍文・QLYy・CJK-G〕
 𱈊	〔鱼{卬左}丶刀刀田・QVKy・CJK-G〕
 𱈋	〔鱼亠口冂口・QYOy・CJK-G〕
-𱈌	〔鱼⺶コ十・QXEy・CJK-G〕
+𱈌	〔鱼⺶ユ十・QXEy・CJK-G〕
 𱈍	〔鱼弓冫弓冫・QDXy・CJK-G〕
 𱈎	〔鱼又又又木・QDIy・CJK-G〕
 𱈏	〔鱼豕辶・QGZy・CJK-G〕
@@ -93119,7 +93119,7 @@
 𱑀	〔勹{两撇}一兀丆贝・SSGM・CJK-H〕⊖
 𱑁	〔勹千黑・SRMh・CJK-H〕⊖
 𱑂	〔勹{两撇}一兀頁・SSGG・CJK-H〕⊖
-𱑃	〔勹巳人一𫩏丷日・SDXK・CJK-H〕⊖
+𱑃	〔勹巳人一{橫日}丷日・SDXK・CJK-H〕⊖
 𱑄	〔匕巛山・VCMi・CJK-H〕⊖
 𱑅	〔匕矢人一朩・VPIi・CJK-H〕⊖
 𱑆	〔匚王冂大・FEFf・CJK-H〕⊖
@@ -93401,7 +93401,7 @@
 𱕚	〔口亻僉・OTUq・CJK-H〕⊖
 𱕛	〔口氵覀早・OZEK・CJK-H〕⊖
 𱕜	〔口广十早月・OWKS・CJK-H〕⊖
-𱕝	〔口木丷𫩏丷日・OIXK・CJK-H〕⊖
+𱕝	〔口木丷{橫日}丷日・OIXK・CJK-H〕⊖
 𱕞	〔士𠃜殳夂卜口・JDLO・CJK-H〕⊖
 𱕟	〔口木龷由八・OIKT・CJK-H〕⊖
 𱕠	〔口木口攵一止・OIGL・CJK-H〕⊖
@@ -93744,7 +93744,7 @@
 𱚱	〔尸寸・DIc・CJK-H〕⊖
 𱚲	〔尸丅丶・DJWu・CJK-H〕⊖
 𱚳	〔尸𡭔丿・DCPu・CJK-H〕⊖
-𱚴	〔尸コ十・DDEu・CJK-H〕⊖
+𱚴	〔尸ユ十・DDEu・CJK-H〕⊖
 𱚵	〔尸丿夫・DPJf・CJK-H〕⊖
 𱚶	〔尸力口・DCOv・CJK-H〕⊖
 𱚷	〔尸𠂤・DUd・CJK-H〕⊖
@@ -93954,7 +93954,7 @@
 𱞃	〔亻匕心・TVRx・CJK-H〕⊖
 𱞄	〔匕匕心・VVRi・CJK-H〕⊖
 𱞅	〔忄⺀力・UZCl・CJK-H〕⊖
-𱞆	〔コ十心・DERx・CJK-H〕⊖
+𱞆	〔ユ十心・DERx・CJK-H〕⊖
 𱞇	〔忄幺𠃌・UABu・CJK-H〕⊖
 𱞈	〔忄瓦・UHw・CJK-H〕⊖
 𱞉	〔世心・HRxs・CJK-H〕⊖
@@ -94076,7 +94076,7 @@
 𱟽	〔扌口冂人・FOMU・CJK-H〕⊖
 𱟾	〔扌攵彡・FPSs・CJK-H〕⊖
 𱟿	〔扌鸟了・FSBl・CJK-H〕⊖
-𱠀	〔扌𠂉丶𫩏・FPWK・CJK-H〕⊖
+𱠀	〔扌𠂉丶{橫日}・FPWK・CJK-H〕⊖
 𱠁	〔扌爫巳・FVDs・CJK-H〕⊖
 𱠂	〔扌人冫ㄑ亅・FUTB・CJK-H〕⊖
 𱠃	〔扌冫人丶龴・FXWD・CJK-H〕⊖
@@ -94195,7 +94195,7 @@
 𱡴	〔方艹几二・YHQE・CJK-H〕⊖
 𱡵	〔艹几二方・HQEY・CJK-H〕⊖
 𱡶	〔方𠂉土土・YPJJ・CJK-H〕⊖
-𱡷	〔方丷𫩏丷日・YXXK・CJK-H〕⊖
+𱡷	〔方丷{橫日}丷日・YXXK・CJK-H〕⊖
 𱡸	〔方𠂉厶厶厶人彡・YPUS・CJK-H〕⊖
 𱡹	〔丨日丨・KKKu・CJK-H〕⊖
 𱡺	〔日十又・KEDo・CJK-H〕⊖
@@ -94259,7 +94259,7 @@
 𱢴	〔早僉欠・KUQz・CJK-H〕⊖
 𱢵	〔冂龷艹古・MHHJ・CJK-H〕⊖
 𱢶	〔日罒又厶口・KMAO・CJK-H〕⊖
-𱢷	〔人一𫩏丷日冂土・UGMJ・CJK-H〕⊖
+𱢷	〔人一{橫日}丷日冂土・UGMJ・CJK-H〕⊖
 𱢸	〔人丶龴月・UWDS・CJK-H〕⊖
 𱢹	〔月土土・SJJv・CJK-H〕⊖
 𱢺	〔𠂇⺝米・HSXm・CJK-H〕⊖
@@ -94287,7 +94287,7 @@
 𱣐	〔木贝刂・IMLd・CJK-H〕⊖
 𱣑	〔木冂人人・IMUU・CJK-H〕⊖
 𱣒	〔行木・SIvx・CJK-H〕⊖
-𱣓	〔木⊖亻工八丶・・CJK-H〕⊖
+𱣓	〔木亻工丿・ITIP・CJK-H〕⊖
 𱣔	〔木𠂉⺄キ・IPBF・CJK-H〕⊖
 𱣕	〔木人止・IULz・CJK-H〕⊖
 𱣖	〔木ッ一八・IZGT・CJK-H〕⊖
@@ -94360,7 +94360,7 @@
 𱤙	〔木火火火・IXXX・CJK-H〕⊖
 𱤚	〔木门木囗丷・IZNX・CJK-H〕⊖
 𱤛	〔木幺䒑自・IAXT・CJK-H〕⊖
-𱤜	〔未丷𫩏丷日・IXKw・CJK-H〕⊖
+𱤜	〔未丷{橫日}丷日・IXKw・CJK-H〕⊖
 𱤝	〔木⺊夕又米・ILDX・CJK-H〕⊖
 𱤞	〔木虍冂八口・ILTO・CJK-H〕⊖
 𱤟	〔木艹日勹人𠃊・IHUC・CJK-H〕⊖
@@ -94391,7 +94391,7 @@
 𱤸	〔禺欠・KQqo・CJK-H〕⊖
 𱤹	〔弓冫弓冫欠・DXQg・CJK-H〕⊖
 𱤺	〔冫欠冫欠冫欠・XQQs・CJK-H〕⊖
-𱤻	〔↔止・・CJK-H〕⊖
+𱤻	〔止・Lz・CJK-H〕⊖
 𱤼	〔止丁・LEdz・CJK-H〕⊖
 𱤽	〔厂止・GLzc・CJK-H〕⊖
 𱤾	〔止𠂉乙・LPBz・CJK-H〕⊖
@@ -94457,7 +94457,7 @@
 𱥺	〔氵丷又・ZXDo・CJK-H〕⊖
 𱥻	〔氵刀八・ZDTu・CJK-H〕⊖
 𱥼	〔氵王丶・ZEWu・CJK-H〕⊖
-𱥽	〔{84}一二水・・CJK-H〕⊖
+𱥽	〔王乛丿水・EBPA・CJK-H〕⊖
 𱥾	〔氵一𠃊冂一・ZGMG・CJK-H〕⊖
 𱥿	〔氵上丄・ZLOu・CJK-H〕⊖
 𱦀	〔氵口力・ZOCl・CJK-H〕⊖
@@ -94526,7 +94526,7 @@
 𱦿	〔氵宀子力・ZWBC・CJK-H〕⊖
 𱧀	〔氵广亻寸・ZWTI・CJK-H〕⊖
 𱧁	〔氵女未・ZCIw・CJK-H〕⊖
-𱧂	〔氵コ十木・ZDEI・CJK-H〕⊖
+𱧂	〔氵ユ十木・ZDEI・CJK-H〕⊖
 𱧃	〔氵彐木一・ZBIG・CJK-H〕⊖
 𱧄	〔氵𠃊大𠃊大・ZCCF・CJK-H〕⊖
 𱧅	〔氵山人巳・ZMUD・CJK-H〕⊖
@@ -94643,7 +94643,7 @@
 𱨴	〔氵犭丷酉・ZVXE・CJK-H〕⊖
 𱨵	〔氵勹八丶厂二口・ZSEO・CJK-H〕⊖
 𱨶	〔氵亻丨十又示・ZTDF・CJK-H〕⊖
-𱨷	〔氵一⊖丨彐一一⊖𠃊一𠃌一生・ZGGP・CJK-H〕⊖
+𱨷	〔氵一尸一乚𠃌生・ZGBP・CJK-H〕⊖
 𱨸	〔氵门氵千口・ZZRO・CJK-H〕⊖
 𱨹	〔氵丷夫丷一大・ZXGF・CJK-H〕⊖
 𱨺	〔氵宀丆貝・ZWGN・CJK-H〕⊖
@@ -94724,7 +94724,7 @@
 𱪅	〔氵亠𠃊罒用凡・ZYSQ・CJK-H〕⊖
 𱪆	〔氵幺言幺弓・ZAAD・CJK-H〕⊖
 𱪇	〔氵亠厶{丿丨乚}戊一口・ZYGO・CJK-H〕⊖
-𱪈	〔氵木人一𫩏丷日・ZIXK・CJK-H〕⊖
+𱪈	〔氵木人一{橫日}丷日・ZIXK・CJK-H〕⊖
 𱪉	〔氵广コ〢𠃌灬千凵・ZWRA・CJK-H〕⊖
 𱪊	〔氵亠𠃊罒月夕几・ZYQQ・CJK-H〕⊖
 𱪋	〔氵亠𠃊罒月月乚・ZYSC・CJK-H〕⊖
@@ -94801,7 +94801,7 @@
 𱫒	〔一大二厶灬・GFAX・CJK-H〕⊖
 𱫓	〔匚㐅欠灬・FTXf・CJK-H〕⊖
 𱫔	〔西二灬・EEXx・CJK-H〕⊖
-𱫕	〔日コ十灬・KDEX・CJK-H〕⊖
+𱫕	〔日ユ十灬・KDEX・CJK-H〕⊖
 𱫖	〔火艹几二・XHQE・CJK-H〕⊖
 𱫗	〔火止⺝・XLSv・CJK-H〕⊖
 𱫘	〔火壬龷・XRHu・CJK-H〕⊖
@@ -95128,7 +95128,7 @@
 𱰙	〔月月生・SSPs・CJK-H〕⊖
 𱰚	〔生子皿・PBMs・CJK-H〕⊖
 𱰛	〔田力生田力・KCCt・CJK-H〕⊖
-𱰜	〔{周框}二↔乚・・CJK-H〕⊖
+𱰜	〔{周框}二亅・SEBu・CJK-H〕⊖
 𱰝	〔用一口乂・SGTy・CJK-H〕⊖
 𱰞	〔龷八⺝丨・HTSK・CJK-H〕⊖
 𱰟	〔王廾用・EHSy・CJK-H〕⊖
@@ -95168,7 +95168,7 @@
 𱱁	〔來一未田・IGKl・CJK-H〕⊖
 𱱂	〔田龷八罒十㇞・KHCt・CJK-H〕⊖
 𱱃	〔尸乀一田凵丿米・DWPX・CJK-H〕⊖
-𱱄	〔田田？・・CJK-H〕⊖
+𱱄	〔田田屮屮屮屮・KKAt・CJK-H〕⊖
 𱱅	〔氵白工彐土田一・ZUKG・CJK-H〕⊖
 𱱆	〔凵由凵由爫幺又凵由凵由・AKAK・CJK-H〕⊖
 𱱇	〔乛止一口乂・BLOT・CJK-H〕⊖
@@ -95530,7 +95530,7 @@
 𱶫	〔亠口口囗口禾・YOOR・CJK-H〕⊖
 𱶬	〔禾罒馬・RMEm・CJK-H〕⊖
 𱶭	〔禾艹臣{⺮右}皿・RHPM・CJK-H〕⊖
-𱶮	〔禾コ十{母框}𠂇屮凵丿㔾⼅丶⼅丶・RDBW・CJK-H〕⊖
+𱶮	〔禾ユ十{母框}𠂇屮凵丿㔾⼅丶⼅丶・RDBW・CJK-H〕⊖
 𱶯	〔禾爫幺大鳥・RVFU・CJK-H〕⊖
 𱶰	〔穴𠃍乀・WBWx・CJK-H〕⊖
 𱶱	〔宀几人{丿丨}・WQUT・CJK-H〕⊖
@@ -95802,7 +95802,7 @@
 𱺻	〔罒之・MZzw・CJK-H〕⊖
 𱺼	〔冖八一兀刂・QTGL・CJK-H〕⊖
 𱺽	〔冂㐅一兀刂・MTGL・CJK-H〕⊖
-𱺾	〔罒⊖丿口儿丶丶・・CJK-H〕⊖
+𱺾	〔罒丿口儿・MPVw・CJK-H〕⊖
 𱺿	〔冂丿𠃊一兀寸・MPGI・CJK-H〕⊖
 𱻀	〔冂㐅皿丿𠃌・MTPB・CJK-H〕⊖
 𱻁	〔冖八⺈口儿・QTOV・CJK-H〕⊖
@@ -96532,7 +96532,7 @@
 𲆕	〔八工口阝・TIOB・CJK-H〕⊖
 𲆖	〔{互中}一⺈巾阝・CGMB・CJK-H〕⊖
 𲆗	〔世木阝・HIBs・CJK-H〕⊖
-𲆘	〔{纟上}丿コ十八阝・CPTB・CJK-H〕⊖
+𲆘	〔{纟上}丿ユ十八阝・CPTB・CJK-H〕⊖
 𲆙	〔艹人朩阝・HUIB・CJK-H〕⊖
 𲆚	〔〢丿十一八キ阝・LPFB・CJK-H〕⊖
 𲆛	〔口巴屮凵口巴・ODOD・CJK-H〕⊖
@@ -96664,7 +96664,7 @@
 𲈙	〔钅覀米・PEXj・CJK-H〕⊖
 𲈚	〔钅日亠口小・PKCj・CJK-H〕⊖
 𲈛	〔钅音土・PYJj・CJK-H〕⊖
-𲈜	〔钅丷𫩏丷日・PXKj・CJK-H〕⊖
+𲈜	〔钅丷{橫日}丷日・PXKj・CJK-H〕⊖
 𲈝	〔钅⻊夂口・POOj・CJK-H〕⊖
 𲈞	〔钅口口口木・POIj・CJK-H〕⊖
 𲈟	〔钅虍田皿・PLMj・CJK-H〕⊖
@@ -96692,7 +96692,7 @@
 𲈵	〔门水・ZAsm・CJK-H〕⊖
 𲈶	〔门冂儿・ZMVm・CJK-H〕⊖
 𲈷	〔门又又・ZDDm・CJK-H〕⊖
-𲈸	〔门コ十・ZDEm・CJK-H〕⊖
+𲈸	〔门ユ十・ZDEm・CJK-H〕⊖
 𲈹	〔门西・ZExm・CJK-H〕⊖
 𲈺	〔门⺌兀・ZNGm・CJK-H〕⊖
 𲈻	〔门亻壬・ZTRm・CJK-H〕⊖
@@ -97068,7 +97068,7 @@
 𲎭	〔立电夂一生・YKPl・CJK-H〕⊖
 𲎮	〔⺈电⺀十・QKZE・CJK-H〕⊖
 𲎯	〔屮凵欠人一口口𠕁・AAOM・CJK-H〕⊖
-Γ	〔Γ・Cu・〕⊖
+Γ	〔Γ・Cu・希臘字母〕⊖
 ⺀	〔⺀・Zu・部首補充〕⊖
 ⺁	〔⺁・Ru・部首補充〕⊖
 ⺂	〔⺂・Bu・部首補充〕⊖
@@ -97404,7 +97404,8 @@
 ス	〔ス・Du・片假名〕
 ッ	〔ッ・Zu・片假名〕
 マ	〔龴・Du・片假名〕
-ュ	〔ュ・・片假名〕⁇
+ュ	〔ユ・Du・片假名〕
+ユ	〔ユ・Du・片假名〕⁇
 ヰ	〔ヰ・Fu・片假名〕
 ㇀	〔㇀・Gu・筆畫〕⊖
 ㇁	〔丿・Pu・筆畫〕⊖
@@ -97447,9 +97448,9 @@
 ㋃	〔目金月金・NVSV・圈字月份〕✓
 ㋿	〔人丶龴禾口・UWRO・圈字月份〕⊖
 ㏾	〔木石日金・IGKV・兼容字符〕✓
-	〔龶・Eu・〕
-	〔龷・Hu・〕
-	〔⺮・Pv・〕
+	〔龶・Eu・私用區〕
+	〔龷・Hu・私用區〕
+	〔⺮・Pv・私用區〕
 豈	〔山一口䒑・MGOX・兼容文字〕⊖
 更	〔一日乂・GKTi・兼容文字〕⊖
 車	〔車・Jc・兼容文字〕⊖
@@ -97457,7 +97458,7 @@
 滑	〔氵骨・ZNg・兼容文字〕⊖
 串	〔口口丨・OOKu・兼容文字〕⊖
 句	〔勹口・SOv・兼容文字〕⊖
-龜	〔龜・・兼容文字〕⊖
+龜	〔丿{龜下}・POm・兼容文字〕⊖
 龜	〔丿{龜下}・POm・兼容文字〕⊖
 契	〔丰刀大・IDFf・兼容文字〕⊖
 金	〔金・Vv・兼容文字〕⊖
@@ -97508,10 +97509,10 @@
 露	〔雨⻊夂口・JOOy・兼容文字〕⊖
 魯	〔魚日・QKv・兼容文字〕⊖
 鷺	〔⻊夂口鳥・OVUz・兼容文字〕⊖
-碌	〔・・兼容文字〕⊖
-祿	〔・・兼容文字〕⊖
+碌	〔石彐氺・GBAs・兼容文字〕⊖
+祿	〔⺬{互中}一氺・FCAs・兼容文字〕⊖
 綠	〔糹{互中}一氺・ACGA・兼容文字〕⊖
-菉	〔・・兼容文字〕⊖
+菉	〔艹{互中}一氺・HCGA・兼容文字〕⊖
 錄	〔釒{互中}一氺・VCGA・兼容文字〕⊖
 鹿	〔鹿・Wl・兼容文字〕⊖
 論	〔訁人一𠕁・YUGM・兼容文字〕⊖
@@ -97609,7 +97610,7 @@
 烈	〔歹刂灬・GLXd・兼容文字〕⊖
 裂	〔歹刂衣・GLWd・兼容文字〕⊖
 說	〔訁八口儿・YTOV・兼容文字〕⊖
-廉	〔・・兼容文字〕⊖
+廉	〔广䒑彐〢八・WXTg・兼容文字〕⊖
 念	〔人丶乛心・UWBR・兼容文字〕⊖
 捻	〔扌人丶乛心・FUBR・兼容文字〕⊖
 殮	〔歹僉・GUqd・兼容文字〕⊖
@@ -97629,7 +97630,7 @@
 靈	〔雨口口口工人人・JOUy・兼容文字〕⊖
 領	〔人丶龴頁・UWDG・兼容文字〕⊖
 例	〔亻歹刂・TGLd・兼容文字〕⊖
-禮	〔禮・・兼容文字〕⊖
+禮	〔⺬冂龷一口䒑・FMXs・兼容文字〕⊖
 醴	〔酉冂龷一口䒑・EMXy・兼容文字〕⊖
 隸	〔士示彐氺・JFBA・兼容文字〕⊖
 惡	〔一{亞下}心・GNRx・兼容文字〕⊖
@@ -97647,14 +97648,14 @@
 暈	〔日冖車・KQJc・兼容文字〕⊖
 阮	〔阝一兀・BGGw・兼容文字〕⊖
 劉	〔{卬左}丶刀刀金刂・VWVL・兼容文字〕⊖
-杻	〔木コ十・IDEu・兼容文字〕⊖
+杻	〔木ユ十・IDEu・兼容文字〕⊖
 柳	〔木{卬左}丿卩・IVPA・兼容文字〕⊖
 流	〔氵亠厶{丿丨乚}・ZYAV・兼容文字〕⊖
 溜	〔氵{卬左}丶刀刀田・ZVDK・兼容文字〕⊖
 琉	〔𤣩亠厶{丿丨乚}・EYAV・兼容文字〕⊖
 留	〔{卬左}丶刀刀田・VWDK・兼容文字〕⊖
 硫	〔石亠厶{丿丨乚}・GYAV・兼容文字〕⊖
-紐	〔糹コ十・ADEu・兼容文字〕⊖
+紐	〔糹ユ十・ADEu・兼容文字〕⊖
 類	〔米犬頁・XJGm・兼容文字〕⊖
 六	〔亠八・YTu・兼容文字〕⊖
 戮	〔羽人彡戈・CUFy・兼容文字〕⊖
@@ -97718,9 +97719,9 @@
 凞	〔冫臣己灬・XFXs・兼容文字〕⊖
 猪	〔犭耂日・VJKq・兼容文字〕⊖
 益	〔䒑八皿・XTMm・兼容文字〕⊖
-神	〔神・・兼容文字〕⊖
-祥	〔祥・・兼容文字〕⊖
-福	〔福・・兼容文字〕⊖
+神	〔示申・FKss・兼容文字〕⊖
+祥	〔示羊・FXys・兼容文字〕⊖
+福	〔示一口田・FGKs・兼容文字〕⊖
 靖	〔立龶⺝・YESl・兼容文字〕⊖
 精	〔米龶⺝・XESm・兼容文字〕⊖
 羽	〔羽・Cy・兼容文字〕⊖
@@ -97734,7 +97735,7 @@
 郞	〔丨彐厶ㄑ阝・KBTB・兼容文字〕⊖
 隷	〔士示彐氺・JFBA・兼容文字〕⊖
 侮	〔亻𠂉母・TPCm・兼容文字〕⊖
-僧	〔亻丷𫩏丷日・TXXK・兼容文字〕⊖
+僧	〔亻丷{橫日}丷日・TXXK・兼容文字〕⊖
 免	〔刀口儿・DOVd・兼容文字〕⊖
 勉	〔⺈口儿力・QOVC・兼容文字〕⊖
 勤	〔革二力・HECg・兼容文字〕⊖
@@ -97744,11 +97745,11 @@
 器	〔㗊犬・OJqj・兼容文字〕⊖
 塀	〔土尸䒑廾・JDXH・兼容文字〕⊖
 墨	〔黑土・MJvh・兼容文字〕⊖
-層	〔尸丷𫩏丷日・DXXK・兼容文字〕⊖
+層	〔尸丷{橫日}丷日・DXXK・兼容文字〕⊖
 屮	〔屮・Au・兼容文字〕⊖
 悔	〔忄𠂉母・UPCm・兼容文字〕⊖
 慨	〔忄彐厶匚儿・UBFV・兼容文字〕⊖
-憎	〔忄丷𫩏丷日・UXXK・兼容文字〕⊖
+憎	〔忄丷{橫日}丷日・UXXK・兼容文字〕⊖
 懲	〔{微上}一王心・SGER・兼容文字〕⊖
 敏	〔𠂉母攵・PCPp・兼容文字〕⊖
 既	〔彐厶匚儿・BAFV・兼容文字〕⊖
@@ -97786,7 +97787,7 @@
 謁	〔訁日勹人𠃊・YKUC・兼容文字〕⊖
 謹	〔訁革二・YHEe・兼容文字〕⊖
 賓	〔宀一𣥂貝・WGNN・兼容文字〕⊖
-贈	〔貝丷𫩏丷日・NXKb・兼容文字〕⊖
+贈	〔貝丷{橫日}丷日・NXKb・兼容文字〕⊖
 辶	〔辶・Zd・兼容文字〕⊖
 逸	〔⺈口儿丶辶・QOWZ・兼容文字〕⊖
 難	〔卄一口夫隹・HGJT・兼容文字〕⊖
@@ -97820,7 +97821,7 @@
 惘	〔忄冂䒑亠𠃊・UMYC・兼容文字〕⊖
 慎	〔忄十{具上}八・UENT・兼容文字〕⊖
 愈	〔人一⺝刂心・UGLR・兼容文字〕⊖
-憎	〔忄丷𫩏丷日・UXXK・兼容文字〕⊖
+憎	〔忄丷{橫日}丷日・UXXK・兼容文字〕⊖
 慠	〔忄龶⺈攵・UEQP・兼容文字〕⊖
 懲	〔{微上}一王心・SGER・兼容文字〕⊖
 戴	〔十戈田龷八・EFHT・兼容文字〕⊖
@@ -97911,7 +97912,7 @@
 倂	〔亻䒑廾・TXHv・兼容補充〕⊖
 偺	〔亻夂卜日・TVLK・兼容補充〕⊖
 備	〔亻龷丿用・THPS・兼容補充〕⊖
-僧	〔亻丷𫩏丷日・TXXK・兼容補充〕⊖
+僧	〔亻丷{橫日}丷日・TXXK・兼容補充〕⊖
 像	〔亻⺈口𧰨・TQOR・兼容補充〕⊖
 㒞	〔亻山隹{雋下}・TMTM・兼容補充〕⊖
 𠘺	〔亠厶儿・YAVe・兼容補充〕⊖
@@ -98072,7 +98073,7 @@
 慎	〔忄十{具上}八・UENT・兼容補充〕⊖
 慌	〔忄艹亠𠃊{丿丨乚}・UHCV・兼容補充〕⊖
 慺	〔忄口十口女・UOOC・兼容補充〕⊖
-憎	〔忄丷𫩏丷日・UXXK・兼容補充〕⊖
+憎	〔忄丷{橫日}丷日・UXXK・兼容補充〕⊖
 憲	〔宀丰罒心・WIMR・兼容補充〕⊖
 憤	〔忄十廾貝・UEHN・兼容補充〕⊖
 憯	〔忄匚儿匚儿日・UFVK・兼容補充〕⊖
@@ -98195,7 +98196,7 @@
 𤘈	〔牙臼・FUjy・兼容補充〕⊖
 犀	〔尸氺牛・DAPn・兼容補充〕⊖
 犕	〔牜龷丿用・PHSn・兼容補充〕⊖
-𤜵	〔�・・兼容補充〕⊖
+𤜵	〔犭干干・VEEq・兼容補充〕⊖
 𤠔	〔犭厶貝・VANq・兼容補充〕⊖
 獺	〔犭木口⺈貝・VINq・兼容補充〕⊖
 王	〔王・Ev・兼容補充〕⊖
@@ -98221,26 +98222,26 @@
 𥁄	〔一丂皿・GEMm・兼容補充〕⊖
 㿼	〔一廾皿・GHMm・兼容補充〕⊖
 䀈	〔彐厶匚儿皿・BAVM・兼容補充〕⊖
-直	〔・・兼容補充〕⊖
-𥃳	〔・・兼容補充〕⊖
+直	〔十{具上}・ENq・兼容補充〕⊖
+𥃳	〔目一丂・NGEk・兼容補充〕⊖
 𥃲	〔目廾・NHv・兼容補充〕⊖
-𥄙	〔・・兼容補充〕⊖
+𥄙	〔目丅八・NJTu・兼容補充〕⊖
 𥄳	〔罒氺・MAsw・兼容補充〕⊖
 眞	〔匕目𠃊八・VNTi・兼容補充〕⊖
 真	〔十{具上}八・ENTu・兼容補充〕⊖
-真	〔・・兼容補充〕⊖
-睊	〔・・兼容補充〕⊖
+真	〔十目乚八・ENCT・兼容補充〕⊖
+睊	〔目口⺝・NOSv・兼容補充〕⊖
 䀹	〔目大人人・NFUU・兼容補充〕⊖
 瞋	〔目十{具上}八・NENT・兼容補充〕⊖
 䁆	〔目大电・NFKd・兼容補充〕⊖
-䂖	〔・・兼容補充〕⊖
+䂖	〔石丶・GWu・兼容補充〕⊖
 𥐝	〔石勹丶・GSWu・兼容補充〕⊖
 硎	〔石一廾刂・GGHL・兼容補充〕⊖
 碌	〔石彐氺・GBAs・兼容補充〕⊖
 磌	〔石十{具上}八・GENT・兼容補充〕⊖
-䃣	〔・・兼容補充〕⊖
+䃣	〔石丶{爲下}・GWSu・兼容補充〕⊖
 𥘦	〔礻攵・WPps・兼容補充〕⊖
-祖	〔・・兼容補充〕⊖
+祖	〔礻且・WNqs・兼容補充〕⊖
 𥚚	〔礻虍几・WLQs・兼容補充〕⊖
 𥛅	〔礻{卬左}丿卩田・WVKs・兼容補充〕⊖
 福	〔礻一口田・WGKs・兼容補充〕⊖
@@ -98250,15 +98251,15 @@
 穊	〔禾彐厶匚儿・RBFV・兼容補充〕⊖
 穏	〔禾爫彐心・RVBR・兼容補充〕⊖
 𥥼	〔穴冊十・WMEx・兼容補充〕⊖
-𥪧	〔・・兼容補充〕⊖
-𥪧	〔・・兼容補充〕⊖
+𥪧	〔立匕目乚八・YVTl・兼容補充〕⊖
+𥪧	〔立十目乚八・YETl・兼容補充〕⊖
 竮	〔立尸䒑廾・YDHl・兼容補充〕⊖
-䈂	〔・・兼容補充〕⊖
+䈂	〔⺮丿干丿干・PPPE・兼容補充〕⊖
 𥮫	〔⺮冂米・PMXm・兼容補充〕⊖
 篆	〔⺮{互中}豕・PCGs・兼容補充〕⊖
 築	〔⺮工凡木・PIQI・兼容補充〕⊖
 䈧	〔⺮丶{爲下}・PWSu・兼容補充〕⊖
-𥲀	〔・・兼容補充〕⊖
+𥲀	〔⺮巛𦥑木・PCUI・兼容補充〕⊖
 糒	〔米龷丿用・XHSm・兼容補充〕⊖
 䊠	〔彐厶匚儿米・BAVX・兼容補充〕⊖
 糨	〔米弓口虫・XDLm・兼容補充〕⊖
@@ -98267,26 +98268,26 @@
 𥾆	〔糹𠄌乚・ACCu・兼容補充〕⊖
 絣	〔糹䒑廾・AXHv・兼容補充〕⊖
 䌁	〔糹覀女・AECv・兼容補充〕⊖
-緇	〔・・兼容補充〕⊖
+緇	〔糹巛田・ACKt・兼容補充〕⊖
 縂	〔糹丷口心・AXOR・兼容補充〕⊖
-繅	〔・・兼容補充〕⊖
+繅	〔糹巛日木・ACKI・兼容補充〕⊖
 䌴	〔糹亠𠃊口月羊凡・AYXQ・兼容補充〕⊖
 𦈨	〔缶一廾・PGHf・兼容補充〕⊖
-𦉇	〔・・兼容補充〕⊖
+𦉇	〔缶尸丿干丿干・PDEf・兼容補充〕⊖
 䍙	〔罒𠂉母・MPCw・兼容補充〕⊖
 𦋙	〔冂㐅㐅大电・MTFK・兼容補充〕⊖
 罺	〔罒巛日木・MCIw・兼容補充〕⊖
-𦌾	〔�・・兼容補充〕⊖
+𦌾	〔罒糹罒一口𧘇・MARw・兼容補充〕⊖
 羕	〔䒑土丶水・XJWA・兼容補充〕⊖
-翺	〔・・兼容補充〕⊖
+翺	〔白大十羽・UFCb・兼容補充〕⊖
 者	〔耂日・JKv・兼容補充〕⊖
 𦓚	〔𠂆一㔾山而・RGMG・兼容補充〕⊖
-𦔣	〔�・・兼容補充〕⊖
+𦔣	〔一未戊𠃌{母框}𠂇・GICH・兼容補充〕⊖
 聠	〔耳䒑廾・HXHe・兼容補充〕⊖
-𦖨	〔・・兼容補充〕⊖
+𦖨	〔木冂刂耳・IMLH・兼容補充〕⊖
 聰	〔耳{囟框}夊心・HURe・兼容補充〕⊖
 𣍟	〔曰月・KSv・兼容補充〕⊖
-䏕	〔・・兼容補充〕⊖
+䏕	〔月壬・SRr・兼容補充〕⊖
 育	〔亠厶⺝・YASv・兼容補充〕⊖
 脃	〔月⺈巴・SQDb・兼容補充〕⊖
 䐋	〔月八厶心・STAR・兼容補充〕⊖
@@ -98322,54 +98323,54 @@
 菌	〔艹囗禾・HNRv・兼容補充〕⊖
 菜	〔艹爫木・HVIv・兼容補充〕⊖
 𦰶	〔艹土勹口・HJSO・兼容補充〕⊖
-𦵫	〔・・兼容補充〕⊖
-𦳕	〔・・兼容補充〕⊖
+𦵫	〔艹宀糸・HWAv・兼容補充〕⊖
+𦳕	〔艹早廾・HKHv・兼容補充〕⊖
 䔫	〔艹乛止木冂・HBIM・兼容補充〕⊖
 蓱	〔艹氵䒑廾・HZXH・兼容補充〕⊖
-蓳	〔・・兼容補充〕⊖
-蔖	〔・・兼容補充〕⊖
+蓳	〔艹革二・HHEe・兼容補充〕⊖
+蔖	〔艹虍且・HLNq・兼容補充〕⊖
 𧏊	〔艹虫虫・HLLv・兼容補充〕⊖
 蕤	〔艹豕生・HGPs・兼容補充〕⊖
 𦼬	〔艹氵且皿・HZNM・兼容補充〕⊖
 䕝	〔艹禾爫冂土・HRMJ・兼容補充〕⊖
 䕡	〔艹門口口・HNOO・兼容補充〕⊖
-𦾱	〔・・兼容補充〕⊖
+𦾱	〔艹一夫白小・HGUC・兼容補充〕⊖
 𧃒	〔艹糹口十口女・HAOC・兼容補充〕⊖
-䕫	〔�・・兼容補充〕⊖
+䕫	〔丷頁止巳夂・XGDV・兼容補充〕⊖
 虐	〔虍匚一・LFGh・兼容補充〕⊖
 虜	〔虍田力・LKCh・兼容補充〕⊖
 虧	〔虍隹一丂・LTEh・兼容補充〕⊖
 虩	〔𡭔丿日小虍几・CPQx・兼容補充〕⊖
 蚩	〔屮一虫・AGLv・兼容補充〕⊖
 蚈	〔虫一廾・LGHv・兼容補充〕⊖
-蜎	〔・・兼容補充〕⊖
+蜎	〔虫口⺝・LOSv・兼容補充〕⊖
 蛢	〔虫䒑廾・LXHv・兼容補充〕⊖
-蝹	〔・・兼容補充〕⊖
-蜨	〔・・兼容補充〕⊖
+蝹	〔虫日皿・LKMm・兼容補充〕⊖
+蜨	〔虫⺊彐龰・LLBL・兼容補充〕⊖
 蝫	〔虫耂日・LJKv・兼容補充〕⊖
 螆	〔虫䒑幺幺・LXAA・兼容補充〕⊖
 䗗	〔虫⺮一廾・LPGH・兼容補充〕⊖
 蟡	〔虫爫{爲下}・LVSu・兼容補充〕⊖
 蠁	〔{纟上}丿丶彐厶阝虫・CPBL・兼容補充〕⊖
-䗹	〔・・兼容補充〕⊖
-衠	〔・・兼容補充〕⊖
+䗹	〔虫䒑幺幺心・LXAR・兼容補充〕⊖
+衠	〔行十{具上}八・SETx・兼容補充〕⊖
 衣	〔衣・Wy・兼容補充〕⊖
-𧙧	〔・・兼容補充〕⊖
+𧙧	〔衤一廾・WGHi・兼容補充〕⊖
 裗	〔衤亠厶{丿丨乚}・WYVi・兼容補充〕⊖
 裞	〔衤丷口儿・WXVi・兼容補充〕⊖
 䘵	〔衤彐氺・WBAi・兼容補充〕⊖
 裺	〔衤大电・WFKi・兼容補充〕⊖
 㒻	〔冂二見・MENj・兼容補充〕⊖
 𧢮	〔一冂⺀一冂鹿見・GMWN・兼容補充〕⊖
-𧥦	〔・・兼容補充〕⊖
+𧥦	〔訁一丂・YGEk・兼容補充〕⊖
 䚾	〔訁王・YEv・兼容補充〕⊖
 䛇	〔訁几口・YQOv・兼容補充〕⊖
 誠	〔訁戊𠃌・YFBu・兼容補充〕⊖
 諭	〔訁人一⺝刂・YUSL・兼容補充〕⊖
 變	〔言糹糹攵・YAAP・兼容補充〕⊖
 豕	〔豕・Gs・兼容補充〕⊖
-𧲨	〔・・兼容補充〕⊖
-貫	〔・・兼容補充〕⊖
+𧲨	〔豸丿干丿干・VPEz・兼容補充〕⊖
+貫	〔母貝・CNbm・兼容補充〕⊖
 賁	〔十廾貝・EHNb・兼容補充〕⊖
 贛	〔立早夂㐄貝・YKNl・兼容補充〕⊖
 起	〔走己・JDjz・兼容補充〕⊖
@@ -98378,7 +98379,7 @@
 跋	〔⻊𠂇又丶・OHWz・兼容補充〕⊖
 趼	〔⻊一廾・OGHz・兼容補充〕⊖
 跰	〔⻊一廾・OGHz・兼容補充〕⊖
-𠣞	〔�・・兼容補充〕⊖
+𠣞	〔勹車・SJc・兼容補充〕⊖
 軔	〔車刀丶・JDWc・兼容補充〕⊖
 輸	〔車人一⺝刂・JULc・兼容補充〕⊖
 𨗒	〔雨王辶・JEZy・兼容補充〕⊖
@@ -98386,10 +98387,10 @@
 邔	〔己阝・DBvj・兼容補充〕⊖
 郱	〔䒑廾阝・XHBv・兼容補充〕⊖
 鄑	〔丌䒑日阝・HXBj・兼容補充〕⊖
-𨜮	〔�・・兼容補充〕⊖
-鄛	〔・・兼容補充〕⊖
+𨜮	〔{卬左}丿白{乍下}阝・VPLB・兼容補充〕⊖
+鄛	〔巛日木阝・CKBc・兼容補充〕⊖
 鈸	〔釒𠂇又丶・VHDW・兼容補充〕⊖
-鋗	〔・・兼容補充〕⊖
+鋗	〔釒口⺝・VOSv・兼容補充〕⊖
 鋘	〔釒口一大・VOGF・兼容補充〕⊖
 鉼	〔釒䒑廾・VXHv・兼容補充〕⊖
 鏹	〔釒弓口虫・VDOL・兼容補充〕⊖
@@ -98398,24 +98399,24 @@
 開	〔門一廾・NGHm・兼容補充〕⊖
 䦕	〔門䒑廾・NXHm・兼容補充〕⊖
 閷	〔㐅朩門人・TIUi・兼容補充〕⊖
-𨵷	〔・・兼容補充〕⊖
-䧦	〔・・兼容補充〕⊖
+𨵷	〔門囗人皿・NNMm・兼容補充〕⊖
+䧦	〔阝爫{爲下}・BVSu・兼容補充〕⊖
 雃	〔一廾隹・GHTw・兼容補充〕⊖
 嶲	〔山隹{雋下}・MTMu・兼容補充〕⊖
-霣	〔・・兼容補充〕⊖
-𩅅	〔・・兼容補充〕⊖
+霣	〔⻗口貝・JONy・兼容補充〕⊖
+𩅅	〔⻗氵䒑廾・JZHy・兼容補充〕⊖
 𩈚	〔面䒑廾・GXHm・兼容補充〕⊖
 䩮	〔革彐氺・HBAg・兼容補充〕⊖
-䩶	〔・・兼容補充〕⊖
+䩶	〔革山虫・HMLg・兼容補充〕⊖
 韠	〔韋日龷十・DKEw・兼容補充〕⊖
-𩐊	〔・・兼容補充〕⊖
+𩐊	〔キ{丿丨}冫欠非一・FTLG・兼容補充〕⊖
 䪲	〔兀頁・GGyw・兼容補充〕⊖
-𩒖	〔・・兼容補充〕⊖
+𩒖	〔干干頁・EEGg・兼容補充〕⊖
 頋	〔厂㔾頁・GBGc・兼容補充〕⊖
 頋	〔厂㔾頁・GBGc・兼容補充〕⊖
 頩	〔䒑廾頁・XHGy・兼容補充〕⊖
-𩖶	〔・・兼容補充〕⊖
-飢	〔・・兼容補充〕⊖
+𩖶	〔風木丶・QIWf・兼容補充〕⊖
+飢	〔飠几・VQjs・兼容補充〕⊖
 䬳	〔飠丷キ・VXFs・兼容補充〕⊖
 餩	〔飠人亥・VUYs・兼容補充〕⊖
 馧	〔禾日日皿・RKKM・兼容補充〕⊖
@@ -98427,16 +98428,16 @@
 鱀	〔彐厶匚儿魚・BAVQ・兼容補充〕⊖
 鳽	〔一廾鳥・GHUn・兼容補充〕⊖
 䳎	〔臼鳥・UUnj・兼容補充〕⊖
-䳭	〔・・兼容補充〕⊖
+䳭	〔彐厶卩鳥・BAAU・兼容補充〕⊖
 鵧	〔䒑廾鳥・XHUn・兼容補充〕⊖
 𪃎	〔人一⺝刂鳥・UGLU・兼容補充〕⊖
 䳸	〔麻鳥・WUnm・兼容補充〕⊖
 𪄅	〔乂木殳鳥・TIUi・兼容補充〕⊖
-𪈎	〔・・兼容補充〕⊖
-𪊑	〔・・兼容補充〕⊖
+𪈎	〔木口刀貝鳥・IONU・兼容補充〕⊖
+𪊑	〔鹿一廾・WGHl・兼容補充〕⊖
 麻	〔麻・Wm・兼容補充〕⊖
-䵖	〔・・兼容補充〕⊖
-黹	〔・・兼容補充〕⊖
+䵖	〔臣又禾人氺・FDAe・兼容補充〕⊖
+黹	〔〢䒑丷巾八・LXMT・兼容補充〕⊖
 黾	〔口电・OKd・兼容補充〕⊖
 鼅	〔矢口黽・POOi・兼容補充〕⊖
 鼏	〔冖目爿片・QNAT・兼容補充〕⊖
