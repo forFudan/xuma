@@ -16,9 +16,9 @@ d3.csv("xuma_forfudan.csv", function(data) {
         for (var i = 0; i < filteredDictionary.length; i++) {
             d3.select("tbody").insert("tr").html(
                 "<td>" + (output[i]['char']) + "</td>" +
-                "<td>" + (output[i]['pinyin']) + "</td>" +
                 "<td>" + (output[i]['division']) + "</td>" +
-                "<td>" + (output[i]['code']) + "</td>")
+                "<td>" + (output[i]['code']) + "</td>" +
+                "<td>" + (output[i]['note']) + "</td>")
         }
     };
 });

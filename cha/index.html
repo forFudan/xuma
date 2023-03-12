@@ -19,13 +19,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1 class=>徐碼2022新版拆分查詢</h1>
-                <h2 class=>輸入字符查詢徐碼全碼</h2>
+                <h1 class=>徐碼單字拆分查詢</h1>
+                <h2 class=>查詢98446個漢字的全字拆分</h2>
                 <p>
-                    <br>本码表整理自徐码作者徐国银提供的《徐码码表2022年4月11日版》
-                    <br>拼音來自地球拼音方案 <a href="https://github.com/rime/rime-terra-pinyin">https://github.com/rime/rime-terra-pinyin</a>
-                    <br>官方QQ群： 761401688
-                    <br>forFudan 定製的 Rime·二重注解·增广常用字符集方案 <a href="https://zhuyuhao.com/xuma">https://zhuyuhao.com/xuma</a>
+                    <br>徐碼·爾雅輸入法·全字拆分表
+                    <br>徐國銀 發明
+                    <br>朱宇浩 (forFudan) 拆分 〔版本20230312〕
                 </p>
                 <form id="form">
                     <input class="form-control" id="user-input" placeholder=輸入漢字單字>
@@ -36,15 +35,38 @@
                         <tr>
                             <!-- <th scope="col">#</th> -->
                             <th scope="col">字符</th>
-                            <th scope="col">拼音</th>
                             <th scope="col">拆分</th>
                             <th scope="col">全码</th>
+                            <th scope="col">备注</th>
                         </tr>
                     </thead>
                     <tbody>
                         <script src="app.js"></script>
                     </tbody>
                 </table>
+                <p>
+                    <br>介紹：
+                    <br>本拆分表基於徐碼官方碼表（2023年1月15日版本）製作。
+                    <br>本拆分表包含CJK基本區、CJK擴展A至H區、部首區、兼容區、筆畫區所有漢字的全字拆分。
+                    <br>本拆分表爲全字拆分表，卽包含所有構字部件。
+                    <br>拆分後附有徐碼，以大小寫區分大小碼。
+                    <br>拆分後附有字集提示。
+                </p>
+                <p>
+                    <br>校驗:
+                    <br>本拆分表經過字形校驗。字形標準取自：
+                    <br>-《中華人民共和國國家標準 GB 18030--2022 信息技術 中文編碼字符集》中刊載的漢字。
+                    <br>- The Unicode Standard, Version 15.0 中刊載的漢字字形。
+                    <br>末尾標注 ⁇ 號的拆分方法，同官方碼表存在不同，需要進一步核查。
+                    <br>未尾標注 ✓ 號的拆分方法，同官方碼表存在不同，但根據標準字形進行了修正。
+                    <br>未尾標注 ⊖ 號的拆分方法，官方碼表没有收録，本拆分表給予補充。
+                    <hr>
+                    <br>徐碼官網: <a target="_blank" href="http://xumax.cn/">http://xumax.cn/</a>
+                    <br>徐碼官方QQ群: 761401688
+                    <br>徐碼簡易教程: <a target="_blank"
+                        href="https://zhuanlan.zhihu.com/p/594127732">https://zhuanlan.zhihu.com/p/594127732</a>
+                    <br>徐碼Rime方案: <a target="_blank" href="https://zhuyuhao.com/xuma/">https://zhuyuhao.com/xuma/</a>
+                </p>
             </div>
         </div>
     </div>
