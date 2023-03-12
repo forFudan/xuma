@@ -12,12 +12,13 @@ d3.csv("xuma_forfudan.csv", function(data) {
         var inputValue = d3.select("#user-input").property("value");
         var filteredDictionary =
             dictionary.filter(dictionary => dictionary.char.includes(inputValue));
-        var output = _.sortBy(filteredDictionary, 'pinyin')
+        var output = _.sortBy(filteredDictionary, 'code')
         for (var i = 0; i < filteredDictionary.length; i++) {
             d3.select("tbody").insert("tr").html(
                 "<td>" + (output[i]['char']) + "</td>" +
                 "<td>" + (output[i]['division']) + "</td>" +
                 "<td>" + (output[i]['code']) + "</td>" +
+                "<td>" + (output[i]['region']) + "</td>" +
                 "<td>" + (output[i]['note']) + "</td>")
         }
     };
