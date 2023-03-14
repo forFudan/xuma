@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-default-layout
 relative_links:
   enabled: true
   collections: true
@@ -12,5 +13,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: just-the-docs
+
 title: Rime·徐码·CJK全汉字拆分·三重注解·自定义常用字集
+theme: just-the-docs
