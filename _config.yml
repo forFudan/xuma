@@ -12,5 +12,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-cayman
+theme: just-the-docs
 title: Rime·徐码·CJK全汉字拆分·三重注解·自定义常用字集
