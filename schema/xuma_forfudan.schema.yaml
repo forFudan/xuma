@@ -39,8 +39,8 @@ schema:
 
 switches:
   - options:
-    - forfudan_tc_only
-    - forfudan_tc_first
+    - forfudan_freq_only
+    - forfudan_freq_first
     - cjk
     states: [ 只出常用字, 常用字前置, 全字集原排序 ]
     reset: 2
