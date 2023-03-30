@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Rime·徐码·CJK全汉字拆分·三重注解·自定义常用字集
+# Rime·徐码·尔雅输入法
 
 forFudan
 

@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# 徐码繁简通打输入法·尔雅输入法·2022版·简明教程
+# 徐码·尔雅输入法·2022版·简明教程
 
 forFudan 写于 2022年5月31日 <https://zhuyuhao.com/xuma/tutorial>
 
