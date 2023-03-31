@@ -40897,7 +40897,6 @@ encoder:
 𧉉	elv
 𩭃	elvb
 𨱲	elvc
-𡕣	elve
 𩢭	elvm
 𨠐	elvy
 𩯞	elxb
@@ -49359,6 +49358,7 @@ encoder:
 𠓆	iovf
 𢀛	iovg
 𣡫	iovi
+𡕣	iovs
 𣝮	iovv
 𡩆	iowv
 𣏈	ipai
@@ -56924,7 +56924,7 @@ encoder:
 𥌚	njmn
 𥍑	njmo
 𧹎	njnb
-𥌪	njnt
+𥌪	njnn
 𨜯	njod
 𥌆	njoi
 𨷰	njom
@@ -103256,6 +103256,7 @@ encoder:
 𱕐	owus
 𲃠	owyz
 𱓐	owzf
+𱵮	oxcz
 𱔥	oxef
 𱔩	oxef
 𱓣	oxfb
@@ -104031,6 +104032,7 @@ encoder:
 𱍼	uksw
 𱞞	ukva
 𱞮	ukyl
+𲅯	ukyz
 𱱺	ulbb
 𱞠	uldm
 𱞋	uldv
@@ -105022,7 +105024,6 @@ encoder:
 𱦵	zntu
 𱩒	znxs
 𱦍	zobw
-𱵮	zocd
 𱨀	zoci
 𱦀	zocl
 𱩵	zocp
@@ -105086,7 +105087,6 @@ encoder:
 𱨄	zuts
 𱦏	zuuu
 𱧕	zuxj
-𲅯	zuyd
 𱦔	zvas
 𱦓	zvbl
 𱩆	zvbl
@@ -107723,6 +107723,7 @@ encoder:
 徴	sgjv
 怷	iwrx
 晝	dekg
+曵	nfgw
 様	ixas
 滾	zwta
 蔉	hwta
@@ -107736,11 +107737,13 @@ encoder:
 𠂦	tfgu
 𠤞	vkjb
 𠴅	ftos
+𡕣	elve
 𢛀	gdrc
 𣆜	kkgo
 𣥗	llzz
 𣥠	llzz
 𤔬	vojd
+𥌪	njnt
 𥦪	wfkx
 𥹄	lqgx
 𦥮	fduf
