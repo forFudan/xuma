@@ -173,7 +173,7 @@ forFudan 写于 2022年5月31日 <https://zhuyuhao.com/xuma/tutorial>
 
 字根图是查询字根的重要工具，初学者应当时常将它放在手边，以利用查询。
 
-![徐码字根图](/resources/徐碼字根鍵位圖_新徐_20220710.jpg)
+[![徐碼字根圖](/resources/徐碼全字根圖.png)](/resources/徐碼全字根圖.png)
 
 ### 2.3. 字根大码的规律
 
