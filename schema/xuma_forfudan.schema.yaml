@@ -4,30 +4,39 @@
 schema:
   schema_id: xuma_forfudan
   name: 尔雅·徐码·FF
-  version: 20230115
+  version: 20230515
   author:
     - 发明人 徐国银先生
-    - Rime方案 forFudan
+    - Rime方案维护 forFudan
+    - 拆分表维护 forFudan
   description: |
-    徐码简繁通打
+    尔雅·徐码输入法
     官方网址：<http://xumax.cn>
     官方QQ群 761401688
     forFudan 修订方案 <https://github.com/forFudan/xuma>
     特点:
-    - 提供CJK汉字全字拆分.
+    - 提供CJK至I區汉字全字拆分.
     - 提供旧字形兼容码.
     - 为简化字调整单字和词语简码.
     - 扩充简体和繁体词库.
+    码表根据
+      (1) 徐码作者徐国银提供的《徐码CJK字词码表》2023年1月15日版
+        官方网址：http://xumax.cn/
+      (2) 邢红兵教授25亿字语料字频表(2019-10-09版)
+        http://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1437.htm
+      (3) 宇浩輸入法 CJK-H CJK-I 拆分表
+        https://zhuyuhao.com/yuhao/
+      修订而成
   requirments: |
     - clover - 反查
-    - forfudan_freq_filter.lua - 过滤常用汉字
+    - yuhao_char_filter.lua - 过滤常用汉字
     - forfudan_single_char_only_for_full_code.lua - 四码出单
     - xuma_postpone_full_code.lua - 全码单字后置
     - xuma_forfudan_chaifen.json - 拆分设置
     - xuma_forfudan_chaifen.txt - 拆分表
   chaifen: |
     本拆分表基於徐碼官方碼表（2023年1月15日版本）製作。
-    本拆分表包含至 CJK-H 區的所有漢字的拆分。
+    本拆分表包含至 CJK-I 區的所有漢字的拆分。
     本拆分表爲全字部件拆分表，卽包含所有構字部件。
     拆分後附有徐碼，以大小寫區分大小碼。
     本拆分表經過字形校驗。字形標準取自：
@@ -43,7 +52,7 @@ switches:
     - forfudan_freq_first
     - cjk
     states: [ 只出常用字, 常用字前置, 全字集原排序 ]
-    reset: 2
+    reset: 1
     # Control+Shift+O: 只出常用字
     # Control+Shift+I: 常用字前置
   - name: forfudan_single_char_only_for_full_code
@@ -51,7 +60,7 @@ switches:
     reset: 0
     # Control+Shift+D
   - name: xuma_postpone_full_code
-    reset: 1
+    reset: 0
     states: [原始排序, 全码后置]
     # Control+Shift+H
   - name: traditionalization
@@ -120,7 +129,7 @@ forfudan_single_char_only_for_full_code:
 xuma_postpone_full_code:
   tags: [abc]
   lua:
-    max_index: 5 # 最大后置位置，默认为 4
+    max_index: 3 # 最大后置位置，默认为 4
 
 schema_name:
   code: xuma_forfudan
