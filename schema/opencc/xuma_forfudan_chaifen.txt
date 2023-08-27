@@ -12348,7 +12348,7 @@
 濶	〔氵門千口・ZNRO・GBK〕
 濷	〔水氵卄一丨冂入入・AZVs・GBK〕
 濸	〔氵艹人丶彐丿口・ZHPO・GBK〕
-濹	〔氵日土灬土・ZKXJ・GBK〕
+濹	〔氵黑土・ZMJv・GBK〕✓
 濺	〔氵貝戈戈・ZNFF・GBK〕
 濻	〔氵阝口丄貝・ZBON・GBK〕
 濼	〔氵白幺幺木・ZUAI・GBK〕
@@ -15317,7 +15317,7 @@
 肕	〔月刀丶・SDWu・GBK〕
 肗	〔月女・SCv・GBK〕
 肙	〔口⺝・OSv・GBK〕
-肞	〔月丶乂・SWTi・GBK〕
+肞	〔月又丶・SDWu・GBK〕✓
 肣	〔月人丶乛・SUWB・GBK〕
 肦	〔⺼八刀・STDd・GBK〕
 肧	〔月不・SGb・GBK〕
@@ -16721,7 +16721,7 @@
 褗	〔衤匚日女・WFCi・GBK〕
 褘	〔衤韋・WDwi・GBK〕
 褜	〔月勹巳衣・SSDW・GBK〕
-褝	〔衤ッ日十・WZEi・GBK〕
+褝	〔衤丷日十・WXEi・GBK〕✓
 褞	〔衤日皿・WKMi・GBK〕
 褟	〔衤日羽・WKCi・GBK〕
 褠	〔衤一龷冂土・WGJi・GBK〕
@@ -25492,7 +25492,7 @@
 䕋	〔艹土广コ古・HJDJ・CJK-A〕
 䕌	〔艹禾隹・HRTw・CJK-A〕
 䕍	〔艹衣冂八口・HWTO・CJK-A〕
-䕎	〔艹目一口田・HNOK・CJK-A〕
+䕎	〔艹日口田・HKOK・CJK-A〕✓
 䕏	〔艹䒑土丿扌戈・HXFF・CJK-A〕
 䕐	〔艹礻一口田・HWOK・CJK-A〕
 䕑	〔艹糹爫女・HAVC・CJK-A〕

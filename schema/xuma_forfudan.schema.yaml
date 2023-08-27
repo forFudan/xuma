@@ -48,8 +48,8 @@ schema:
 
 switches:
   - options:
-    - forfudan_freq_only
-    - forfudan_freq_first
+    - yuhao_char_only
+    - yuhao_char_first
     - cjk
     states: [ 只出常用字, 常用字前置, 全字集原排序 ]
     reset: 1
@@ -116,8 +116,8 @@ engine:
   filters:
     - lua_filter@forfudan_single_char_only_for_full_code
     - lua_filter@xuma_postpone_full_code
-    - lua_filter@forfudan_freq_first
-    - lua_filter@forfudan_freq_only
+    - lua_filter@yuhao_char_first
+    - lua_filter@yuhao_char_only
     - simplifier@traditionalize
     - simplifier@simplify
     - simplifier@chaifen
@@ -134,10 +134,10 @@ xuma_postpone_full_code:
 schema_name:
   code: xuma_forfudan
 
-forfudan_freq_only:
+yuhao_char_only:
   tags: [abc]
 
-forfudan_freq_first:
+yuhao_char_first:
   tags: [abc]
 
 traditionalize:
@@ -212,9 +212,9 @@ key_binder:
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
-    - { when: always, accept: "Control+Shift+O", toggle: forfudan_freq_only } # 常用词过滤
-    - { when: always, accept: "Control+Shift+I", toggle: forfudan_freq_first } # 常用词前置
-    - { when: has_menu, accept: "0", toggle: forfudan_freq_only } # 常用詞過濾
+    - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用词过滤
+    - { when: always, accept: "Control+Shift+I", toggle: yuhao_char_first } # 常用词前置
+    - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
     - {
         when: always,
         accept: "Control+Shift+D",
