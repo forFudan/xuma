@@ -4,7 +4,7 @@
 schema:
   schema_id: xuma_forfudan
   name: 尔雅·徐码·FF
-  version: 20230515
+  version: 20230915
   author:
     - 发明人 徐国银先生
     - Rime方案维护 forFudan
@@ -28,8 +28,9 @@ schema:
         https://zhuyuhao.com/yuhao/
       修订而成
   requirments: |
-    - clover - 反查
+    - yuhao_pinyin - 反查
     - yuhao_char_filter.lua - 过滤常用汉字
+    - yuhao_autocompletion_filter - 预测
     - forfudan_single_char_only_for_full_code.lua - 四码出单
     - xuma_postpone_full_code.lua - 全码单字后置
     - xuma_forfudan_chaifen.json - 拆分设置
@@ -45,6 +46,8 @@ schema:
     末尾標注 ⁇ 號的拆分方法，同官方碼表存在不同，需要進一步核查。
     未尾標注 ✓ 號的拆分方法，同官方碼表存在不同，但根據標準字形進行了修正。
     未尾標注 ⊖ 號的拆分方法，官方碼表没有收録，本拆分表給予補充。
+  dependencies:
+    - yuhao_pinyin
 
 switches:
   - options:
@@ -63,6 +66,10 @@ switches:
     reset: 0
     states: [原始排序, 全码后置]
     # Control+Shift+H
+  - name: yuhao_autocompletion_filter
+    reset: 0
+    states: [輸入預測, 精確匹配]
+    # Control+Shift+Y
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
@@ -84,8 +91,8 @@ switches:
     states: ["半角", "全角"]
     reset: 0
 
-menu:
-  page_size: 5
+# menu:
+#   page_size: 5
 
 style:
   inline_preedit: true
@@ -114,6 +121,7 @@ engine:
     - reverse_lookup_translator
     - lua_translator@forfudan_helper
   filters:
+    - lua_filter@yuhao_autocompletion_filter
     - lua_filter@forfudan_single_char_only_for_full_code
     - lua_filter@xuma_postpone_full_code
     - lua_filter@yuhao_char_first
@@ -184,7 +192,7 @@ fixed:
   initial_quality: 1000000
 
 reverse_lookup:
-  dictionary: clover
+  dictionary: yuhao_pinyin
   prefix: "`"
   tips: 〔全拼反查〕
   closing_tips: 〔反查关闭〕
@@ -225,6 +233,11 @@ key_binder:
         accept: "Control+Shift+H",
         toggle: xuma_postpone_full_code,
       } # 全码后置
+    - {
+        when: always,
+        accept: "Control+Shift+Y",
+        toggle: yuhao_autocompletion_filter,
+      } # 輸入預測
     - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 显示拆分
     - { when: has_menu, accept: "/", toggle: chaifen } # 显示拆分
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
